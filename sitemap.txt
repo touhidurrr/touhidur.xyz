@@ -1,5 +1,6 @@
 https://touhidur.xyz/
 https://touhidur.xyz/favicon.png
 https://touhidur.xyz/404
+https://touhidur.xyz/sitemap
 https://touhidur.xyz/robots.txt
 https://touhidur.xyz/sitemap.txt
