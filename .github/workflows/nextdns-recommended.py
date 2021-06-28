@@ -22,11 +22,14 @@ for source in json['sources']:
   with open('.temp', mode = 'r') as f:
     # append lines in the list
     for host in f.readlines():
-      # for each rule in exclusions
 
       # strip host
       host = host.strip()
 
+      # skip comments or empty lines
+      if host.startswith('#') or not host: continue
+
+      # for each rule in exclusions
       for ex in exclu:
         # check for wildcards
         if ex.startswith('*'):
@@ -34,6 +37,7 @@ for source in json['sources']:
         else:
           if host is ex: continue
 
+        host = host.split()[-1]
         List.append(host)
 
 # remove duplicates
