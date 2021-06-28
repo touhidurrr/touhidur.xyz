@@ -27,13 +27,13 @@ jobs:
       - name: Setup Python ${{ env.python }}
         uses: actions/setup-python@v2
         with:
-          python_version: ${{ env.python }}
+          python-version: ${{ env.python }}
 
       - name: Generate NextDNS Recommended Blocklist
         run: python3 .github/workflows/nextdns-recommended.py
 
       - name: Update Other Blocklists
-        run: python3 .github/workflows/update_lists.py
+        run: echo 'python3 .github/workflows/update_lists.py'
 
       - name: Commit changes
         run: |
