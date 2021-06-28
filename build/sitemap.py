@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/bin/python3
 
 from glob import glob
 
