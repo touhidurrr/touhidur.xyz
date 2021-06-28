@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 from glob import glob
+from functools import cmp_to_key as toKey
 
 fileList = glob('**/*.*', recursive=True)
 
@@ -18,7 +19,7 @@ html.write(
 <body>
 ''')
 
-linkList = []
+linkList = [site + 'sitemap']
 
 for file in fileList:
   link = site
@@ -33,8 +34,20 @@ for file in fileList:
   
   linkList.append(link)
 
-linkList.append(site + 'sitemap')
-linkList.sort()
+def cmp(a, b):
+  ac = a.count('/')
+  bc = b.count('/')
+  if  ac == bc:
+    la = len(a)
+    lb = len(b)
+    if la == lb:
+      if a < b: return -1
+      if a == b: return 0
+      return 1
+    return la - lb
+  return ac - bc
+
+linkList.sort(key=toKey(cmp))
 
 for link in linkList:
   if link == site:
