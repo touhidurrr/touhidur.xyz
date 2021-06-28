@@ -36,6 +36,9 @@ for source in Json['sources']:
 
         List.append(host)
 
+# remove duplicates
+List = list(set(List))
+# sort lists
 List.sort()
 
 # finally write list entries
