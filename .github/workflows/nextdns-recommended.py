@@ -31,13 +31,15 @@ for source in json['sources']:
 
       # for each rule in exclusions
       for ex in exclu:
+
+        host = host.split()[-1]
+
         # check for wildcards
         if ex.startswith('*'):
-          if host.endswith(ex[1:]): continue
+          if host.endswith(ex[2:]): continue
         else:
           if host is ex: continue
 
-        host = host.split()[-1]
         List.append(host)
 
 # remove duplicates
