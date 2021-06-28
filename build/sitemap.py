@@ -2,7 +2,7 @@
 
 from glob import glob
 
-fileList = glob('**/*', recursive=True)
+fileList = glob('**/*.*', recursive=True)
 
 html = open('sitemap.html', mode = 'w', encoding = 'utf-8')
 txt = open('sitemap.txt', mode = 'w', encoding = 'utf-8')
