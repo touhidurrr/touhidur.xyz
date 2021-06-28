@@ -19,7 +19,7 @@ for source in json['sources']:
   download(source['url'], '.temp')
 
   # open source url
-  with open('.temp', mode = 'r') as f:
+  with open('.temp', mode = 'r', encoding = 'utf-8') as f:
     # append lines in the list
     for host in f.readlines():
 
