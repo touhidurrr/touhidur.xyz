@@ -16,7 +16,7 @@ html.write(
   <title>Sitemap</title>
 </head>
 <body>
-''');
+''')
 
 linkList = []
 
