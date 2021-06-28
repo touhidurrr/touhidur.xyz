@@ -1,19 +1,19 @@
-import json.load
 from os import remove
+from json import load as parse
 from urllib.request import urlretrieve as download
 
 # download the list
 download('https://github.com/nextdns/metadata/raw/master/privacy/blocklists/nextdns-recommended.json', '.temp')
 
 # open and parse list
-Json = json.load(open('.temp', mode = 'r'))
+json = parse(open('.temp', mode = 'r'))
 
-exclu = Json['exclusions'] # excludesions from Json
+exclu = json['exclusions'] # excludesions from json
 List = [] # an empty list
 
-# in Json.sources<list>
-for source in Json['sources']:
-  # in Json.sources<list entry>
+# in json.sources<list>
+for source in json['sources']:
+  # in json.sources<list entry>
 
   # download source url
   download(source['url'], '.temp')
