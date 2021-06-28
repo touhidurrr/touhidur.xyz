@@ -9,8 +9,8 @@ txt = open('sitemap.txt', mode = 'w', encoding = 'utf-8')
 
 site = 'https://' + glob('../*.*/.git', recursive=True)[0][3:-4]
 
-html.write('''
-<!DOCTYPE html>
+html.write(
+'''<!DOCTYPE html>
 <html>
 <head>
   <title>Sitemap</title>
