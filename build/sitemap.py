@@ -7,8 +7,7 @@ fileList = glob('**/*', recursive=True)
 html = open('sitemap.html', mode = 'w', encoding = 'utf-8')
 txt = open('sitemap.txt', mode = 'w', encoding = 'utf-8')
 
-print(glob('../*.*/.git', recursive=True), glob('../*', recursive=True))
-site = 'https://' + glob('../*.*/.git', recursive=True)[0][3:-4]
+site = 'https://touhidur.xyz/'
 
 html.write(
 '''<!DOCTYPE html>
