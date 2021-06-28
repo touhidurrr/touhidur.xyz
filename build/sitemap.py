@@ -33,11 +33,12 @@ for file in fileList:
   
   linkList.append(link)
 
+linkList.append(site + 'sitemap')
 linkList.sort()
 
 for link in linkList:
   if link == site:
-    html.write('<a href="%s">Home</a>Home<br>\n'%(link))
+    html.write('<a href="%s">Home</a><br>\n'%(link))
   else:
     html.write('<a href="%s">%s</a><br>\n'%(link, link.split('/')[-1]))
   txt.write(link + '\n')
