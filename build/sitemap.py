@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/python3
 
 from glob import glob
 
@@ -7,6 +7,7 @@ fileList = glob('**/*', recursive=True)
 html = open('sitemap.html', mode = 'w', encoding = 'utf-8')
 txt = open('sitemap.txt', mode = 'w', encoding = 'utf-8')
 
+print(glob('../*.*/.git', recursive=True), glob('../*', recursive=True))
 site = 'https://' + glob('../*.*/.git', recursive=True)[0][3:-4]
 
 html.write(
