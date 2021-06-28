@@ -27,7 +27,7 @@ for source in json['sources']:
       host = host.strip()
 
       # skip comments or empty lines
-      if host.startswith('#') or (host is '') or host.startswith('('): continue
+      if ('#' in host) or (host is '') or ('(' in host): continue
 
       # for each rule in exclusions
       for ex in exclu:
