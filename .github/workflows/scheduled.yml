@@ -3,6 +3,14 @@ name: Schedules
 on:
   schedule:
     - cron: '0 7 * * *'
+  push:
+    paths:
+      - '.github/workflows/*.py'
+      - '.github/workflows/scheduled.yml'
+  pull_request:
+    paths:
+      - '.github/workflows/*.py'
+      - '.github/workflows/scheduled.yml'
   workflow_dispatch:
 
 jobs:
