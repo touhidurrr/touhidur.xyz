@@ -1,0 +1,24 @@
+name: Sitemaps Generator
+
+on:
+  workflow_dispatch:
+
+jobs:
+  start:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+
+      - name: Create Sitemaps
+        run: python3 ./.github/workflows/sitemaps.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email '46617994+touhidurrr@users.noreply.github.com'
+          git config --local user.name 'touhidurrr'
+          git add .
+          git commit -m '[automated edit]'
+          git pull
+          git push
