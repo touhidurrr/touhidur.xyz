@@ -73,6 +73,7 @@ with open('filterlists/nextdns-recommended.txt', mode = 'w', encoding = 'utf-8')
 
   f.write(info)
   f.write('\n'.join(List))
+  f.write('\n')
 
 # remove resulting temporary files
 remove('.temp')
