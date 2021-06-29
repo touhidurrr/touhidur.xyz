@@ -56,8 +56,7 @@ except ValueError:
 
 # Starting lines to specify various information about Blocklist
 now = datetime.utcnow()
-info =
-'''# Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
+info = '''# Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
 # Description: Mirror for https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Version: %s
 # Entries: %i
