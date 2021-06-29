@@ -1,4 +1,5 @@
 from os import remove
+from datetime import datetime
 from json import load as parse
 from urllib.request import urlretrieve as download
 
@@ -47,9 +48,26 @@ List = list(set(List))
 # sort lists
 List.sort()
 
+# remove 0.0.0.0 if it is there
+try:
+  List.remove('0.0.0.0')
+except ValueError:
+  pass
+
+# Starting lines to specify various information about Blocklist
+now = datetime.utcnow()
+info =
+'''# Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
+# Description: Mirror for https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
+# Version: %s
+# Entries: %i
+# Updated: %s
+''' % ( now.strftime('%Y%m%d'), len(List), now.strftime('%a, %d %b %y %H:%M:%S') )
+
 # finally write list entries
 with open('filterlists/nextdns-recommended.txt', mode = 'w', encoding = 'utf-8') as f:
 
+  f.write(info)
   f.write('\n'.join(List))
 
 # remove resulting temporary files
