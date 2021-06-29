@@ -60,7 +60,7 @@ info = '''\
 # --------------------------------------------------------------------------------------------------------
 # Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
 # Description: Parsed Mirror for
-               https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
+#              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Version: %s
 # Entries: %i
 # Updated: %s
