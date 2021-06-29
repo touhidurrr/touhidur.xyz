@@ -4,7 +4,7 @@
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Version: 20210629
 # Entries: 81960
-# Updated: Tue, 29 Jun 21 19:49:55
+# Updated: Tue, 29 Jun 21 20:11:21
 # RAW: https://touhidur.xyz/filterlists/nextdns-recommended.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.beeglivesex.com
