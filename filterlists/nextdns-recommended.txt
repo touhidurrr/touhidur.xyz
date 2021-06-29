@@ -1,10 +1,10 @@
 # --------------------------------------------------------------------------------------------------------
 # Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
 # Description: Parsed Mirror for
-               https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
+#              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Version: 20210629
 # Entries: 81960
-# Updated: Tue, 29 Jun 21 19:46:36
+# Updated: Tue, 29 Jun 21 19:49:55
 # RAW: https://touhidur.xyz/filterlists/nextdns-recommended.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.beeglivesex.com
