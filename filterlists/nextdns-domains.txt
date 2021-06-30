@@ -2,10 +2,11 @@
 # Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
-# Version: 20210629
-# Entries: 81960
-# Updated: Tue, 29 Jun 21 20:11:21
-# RAW: https://touhidur.xyz/filterlists/nextdns-recommended.txt
+# Format: domain list
+# Version: 20210630
+# Entries: 81,949
+# Updated: Wed, 30 Jun 21 01:58:20
+# RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
@@ -13400,7 +13401,6 @@ broadboundary.com
 broadcast.piximedia.fr
 broadcastbed.com
 broadcaster.streamate.com
-broadcasthost
 broadcastpc.tv
 broaddoor.com
 broadent.vo.llnwd.net
@@ -31312,13 +31312,6 @@ ip193.cn
 ip2.ads.stickyadstv.com.akadns.net
 ip45.net.daraz.com
 ip46s2.go-mpulse.net.edgekey.net
-ip6-allhosts
-ip6-allnodes
-ip6-allrouters
-ip6-localhost
-ip6-localnet
-ip6-loopback
-ip6-mcastprefix
 ip62.net.daraz.com
 ip70.net.daraz.com
 ip80.net.daraz.com
@@ -34104,7 +34097,6 @@ loboclick.com
 loc.bskarn.com
 loc.map.baidu.com
 loc1.hitsprocessor.com
-local
 local-analytics.uberinternal.com
 local-city-chicks1.com
 local-datings-space.com
@@ -34124,8 +34116,6 @@ localdating-space.com
 localgirl-hookuper.com
 localh0st.info
 localhookups4.com
-localhost
-localhost.localdomain
 locallchickshere2.com
 localsex34.com
 localsex35.com
