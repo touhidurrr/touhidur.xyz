@@ -29,8 +29,8 @@ jobs:
         with:
           python-version: ${{ env.python }}
 
-      - name: Generate NextDNS Recommended Blocklist
-        run: python3 .github/workflows/nextdns-recommended.py
+      - name: Generate NextDNS Recommended Blocklists
+        run: python3 .github/workflows/nextdns-lists.py
 
       - name: Update Other Blocklists
         run: echo 'python3 .github/workflows/update_lists.py'
