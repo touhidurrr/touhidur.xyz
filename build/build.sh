@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf .g
+chmod +x build/*
