@@ -2,3 +2,4 @@
 
 rm -rf .g
 chmod +x build/*
+./build/*
