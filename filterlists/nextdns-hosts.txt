@@ -5,7 +5,7 @@
 # Format: hosts
 # Version: 20210630
 # Entries: 81,949
-# Updated: Wed, 30 Jun 21 16:07:54
+# Updated: Wed, 30 Jun 21 16:09:30
 # RAW: https://touhidur.xyz/filterlists/nextdns-hosts.txt
 # --------------------------------------------------------------------------------------------------------
 
