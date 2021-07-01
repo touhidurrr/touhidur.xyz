@@ -1,0 +1,42 @@
+name: Scheduled
+
+on:
+  push:
+    paths:
+      - '.github/workflows/build**'
+      - '!.github'
+  pull_request:
+    paths:
+      - '.github/workflows/build**'
+      - '!.github'
+  workflow_dispatch:
+
+jobs:
+  start:
+    runs-on: ubuntu-latest
+    env:
+      python: '3.9.x'
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+
+      - name: Setup Python ${{ env.python }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.python }}
+
+      - name: Generate Sitemaps
+        run: |
+          rm -rf .github build
+          python3 .github/workflows/build/sitemap.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email '46617994+touhidurrr@users.noreply.github.com'
+          git config --local user.name 'touhidurrr'
+          git add .
+          git commit -m 'Build & Edit [Automated]'
+          git pull
+          git push
