@@ -4,11 +4,15 @@ on:
   push:
     paths:
       - '.github/workflows/build**'
-      - '!.github**'
+    paths-ignore:
+      - '.g**'
+      - 'build/**'
   pull_request:
     paths:
       - '.github/workflows/build**'
-      - '!.github**'
+    paths-ignore:
+      - '.g**'
+      - 'build/**'
   workflow_dispatch:
 
 jobs:
