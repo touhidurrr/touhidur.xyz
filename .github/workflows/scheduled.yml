@@ -29,6 +29,9 @@ jobs:
         with:
           python-version: ${{ env.python }}
 
+      - name: Generate Sitemap
+        run: python3 .github/workflows/sitemap.py
+
       - name: Generate NextDNS Recommended Blocklists
         run: python3 .github/workflows/nextdns-lists.py
 
