@@ -28,9 +28,7 @@ jobs:
           python-version: ${{ env.python }}
 
       - name: Generate Sitemaps
-        run: |
-          rm -rf .github build
-          python3 .github/workflows/build/sitemap.py
+        run: python3 .github/workflows/build/sitemap.py
 
       - name: Commit changes
         run: |
