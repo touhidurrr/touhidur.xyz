@@ -3,13 +3,17 @@ name: Build
 on:
   push:
     paths:
+      - '**'
       - '!.g**'
-      - '!build/**'
+      - '!build**'
+      - '.gitignore'
       - '.github/workflows/build**'
   pull_request:
     paths:
+      - '**'
       - '!.g**'
-      - '!build/**'
+      - '!build**'
+      - '.gitignore'
       - '.github/workflows/build**'
   workflow_dispatch:
 
