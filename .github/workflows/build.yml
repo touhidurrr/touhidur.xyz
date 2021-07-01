@@ -1,14 +1,14 @@
-name: Scheduled
+name: Build
 
 on:
   push:
     paths:
       - '.github/workflows/build**'
-      - '!.github'
+      - '!.github**'
   pull_request:
     paths:
       - '.github/workflows/build**'
-      - '!.github'
+      - '!.github**'
   workflow_dispatch:
 
 jobs:
