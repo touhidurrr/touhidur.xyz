@@ -38,7 +38,7 @@ for source in json['sources']:
       host = host.strip()
 
       # skip comments or empty lines
-      if ('#' in host) or (host is '') or ('(' in host): continue
+      if ('#' in host) or (host == '') or ('(' in host): continue
 
       domain = host.split()[-1]
       if domain in localhosts: continue
