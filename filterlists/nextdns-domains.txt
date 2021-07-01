@@ -5,7 +5,7 @@
 # Format: domain list
 # Version: 20210701
 # Entries: 81,949
-# Updated: Thu, 01 Jul 21 01:51:02
+# Updated: Thu, 01 Jul 21 05:13:05
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.beeglivesex.com
