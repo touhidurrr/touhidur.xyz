@@ -5,12 +5,10 @@ on:
     - cron: '0 19 * * *' # BST 01:00 (GMT+6)
   push:
     paths:
-      - '.github/workflows/scheduled/**'
-      - '.github/workflows/scheduled.yml'
+      - '.github/workflows/scheduled**'
   pull_request:
     paths:
-      - '.github/workflows/scheduled/**'
-      - '.github/workflows/scheduled.yml'
+      - '.github/workflows/scheduled**'
   workflow_dispatch:
 
 jobs:
