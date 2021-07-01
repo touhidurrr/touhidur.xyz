@@ -22,7 +22,8 @@ linkList = [site + 'sitemap']
 for file in fileList:
   link = site
   
-  if file.endswith('index.html'):
+  if file.startswith('build'): continue
+  elif file.endswith('index.html'):
     link += file[:-10]
   elif file.endswith('.html'):
     link += file[:-5]
