@@ -2,7 +2,7 @@ name: Scheduled
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 19 * * *' # BST 01:00 (GMT+6)
   push:
     paths:
       - '.github/workflows/*.py'
