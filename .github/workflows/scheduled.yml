@@ -5,10 +5,10 @@ on:
     - cron: '0 19 * * *' # BST 01:00 (GMT+6)
   push:
     paths:
-      - '.github/workflows/scheduled**'
+      - '.github/workflows/**'
   pull_request:
     paths:
-      - '.github/workflows/scheduled**'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
           python-version: ${{ env.python }}
 
       - name: Generate NextDNS Recommended Blocklists
-        run: python3 .github/workflows/scheduled/nextdns-lists.py
+        run: python3 .github/workflows/scripts/nextdns-lists.py
 
       - name: Update Other Blocklists
         run: echo 'python3 .github/workflows/scheduled/update_lists.py'
