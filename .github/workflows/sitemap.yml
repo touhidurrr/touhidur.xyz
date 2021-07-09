@@ -1,20 +1,22 @@
-name: Build
+name: Generate Sitemap
 
 on:
   push:
     paths:
       - '**'
       - '!.g**'
-      - '!build**'
+      - '!build/**'
       - '.gitignore'
-      - '.github/workflows/build**'
+      - '!filterlists/**'
+      - '.github/workflows/**'
   pull_request:
     paths:
       - '**'
       - '!.g**'
-      - '!build**'
+      - '!build/**'
       - '.gitignore'
-      - '.github/workflows/build**'
+      - '!filterlists/**'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 jobs:
@@ -34,7 +36,7 @@ jobs:
           python-version: ${{ env.python }}
 
       - name: Generate Sitemap
-        run: python3 .github/workflows/build/sitemap.py
+        run: python3 .github/workflows/scripts/sitemap.py
 
       - name: Commit changes
         run: |
