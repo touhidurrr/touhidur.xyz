@@ -20,16 +20,15 @@ html.write(
 linkList = []
 
 for file in fileList:
+
   link = site
   
-  if file.startswith('build'): continue
-  elif file.endswith('index.html'):
-    link += file[:-10]
-  elif file.endswith('.html'):
-    link += file[:-5]
-  else:
-    link += file
-  
+  if file.startswith('build/'): continue
+
+  if file.endswith('index.html'): link += file[:-10]
+  elif file.endswith('.html'): link += file[:-5]
+  else: link += file
+
   linkList.append(link)
 
 def cmp(a, b):
