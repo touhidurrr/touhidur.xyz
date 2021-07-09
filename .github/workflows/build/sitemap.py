@@ -17,7 +17,7 @@ html.write(
 <body>
 ''')
 
-linkList = [site + 'sitemap']
+linkList = []
 
 for file in fileList:
   link = site
