@@ -1,5 +1,6 @@
 #!/bin/bash
 
+rm LICENSE
 rm -rf .g
 chmod +x build/*
 ./build/*.*
