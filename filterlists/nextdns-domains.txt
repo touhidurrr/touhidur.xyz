@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20210728
-# Entries: 84,571
-# Updated: Wed, 28 Jul 21 19:02:37
+# Version: 20210729
+# Entries: 85,158
+# Updated: Thu, 29 Jul 21 19:02:17
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.beeglivesex.com
@@ -1373,6 +1373,7 @@
 5mcwl.pw
 5nbh3-h9cpz.ads.tremorhub.com
 5o8l3.cn
+5sms.xyz
 5starhiphop.us.intellitxt.com
 5starsupport.us.intellitxt.com
 5thelement.diamondjewelleryb2b.in
@@ -1504,6 +1505,7 @@
 6server.com
 6sms.in
 6sms.pw
+6sms.xyz
 6solo.biz
 6stuff.com
 7-12-1b.fun
@@ -1619,6 +1621,7 @@
 7n0zz.300prize.7113879.com
 7search.com
 7sms.pw
+7sms.xyz
 7softwaredreams.com
 7thlegion.ru
 7tools.eu
@@ -1756,6 +1759,7 @@
 8si.ru
 8sms.in
 8sms.pw
+8sms.xyz
 8streams.com
 8uc1.jave.xyz
 8uch.jave.xyz
@@ -3142,6 +3146,7 @@ activation-netflix.com
 activation.depop.com
 active.hit.stat24.com
 active.iperceptions.com
+activecost.com.au
 activeideas.net
 activepr.ru
 activeseason.net.daraz.com
@@ -4415,6 +4420,7 @@ adfalcon.com
 adfarm.mediaplex.com
 adfarm.mserve.ca
 adfarm1.adition.com
+adfddws.ftp.sh
 adfiles.pitchforkmedia.com
 adfill.adview.cn
 adfill.fuseplatform.net
@@ -4939,6 +4945,7 @@ adopt-sdk.xg.tagtic.cn
 adopt.admicro.vn
 adopt.euroclick.com
 adopt.precisead.com
+adoptuj.pvi.pl
 adorebeauty.org
 adoric-om.com
 adorigin.com
@@ -8090,6 +8097,7 @@ aeromark.actonservice.com
 aerosneakers.pl
 aerserv.com
 aesus.so-net.ne.jp
+aetheriss.com.cn
 aetnaaetnaprod2018.112.2o7.net
 aetv.112.2o7.net
 aetv.hb-api.omtrdc.net
@@ -8227,7 +8235,6 @@ afinder.oewabox.at
 afisa.nolsab.space
 afkarehroshan.com
 afnan-amc.com
-afolhanoticias.com.br
 afp.admicro.vn
 afp.dotomi.com
 afp.dotomi.weighted.com.akadns.net
@@ -8264,7 +8271,6 @@ agcs-knowledge.allianz.com
 agdeer.com
 agdrtv.net
 agegreetings.112.2o7.net
-agemn.co.za
 agenciatributaria.email
 agenciq.pl
 agencja-aspro.pl
@@ -8496,6 +8502,7 @@ aktualizacja-platnosci.netafix-pl.com
 aktualizacja-platnosci.netafix-pl.me
 aktualizacja-platnosci.netafix-pl.net
 aktualizacja-platnosci.netafix-pl.one
+aktualizacja-platnosci.netafix-pl.store
 aktualizacja-platnosci.netafixsupp.live
 aktualizacja.jst.pl
 aktualizacjafacebooka.blogspot.com
@@ -8872,6 +8879,7 @@ altrarunningpl.com
 altrooz.com
 altyn.xyz
 alwayscare.starmountlife.com
+alwaysupdatedsoft.com
 alxsite.com
 alyssamilano.1stok.com
 alyssamilano.ca.tt
@@ -9655,11 +9663,13 @@ anwan.pl
 anxiety.1.p2l.info
 anxiousapples.com
 any-log.videe.tv
+anybiznes.com
 anycast.adnxs.com
 anycast.dt.adsafeprotected.com
 anyclip-d.openx.net
 anycracks.com
 anylist.c.appier.net
+anymind360-com.cdn.ampproject.org
 anymind360.com
 anynewdomain.xyz
 anysbergbiltong.co.za
@@ -10387,6 +10397,7 @@ app-lon08.marketo.com
 app-maasdam.nl
 app-measurement.com
 app-messenger-lite.com
+app-netflix.ratedyork.tk
 app-sj01.marketo.com
 app-sj02.marketo.com
 app-sj03.marketo.com
@@ -10757,6 +10768,7 @@ aragonresearch.actonservice.com
 aralego.com
 arank.com
 aranzujemy.co.pl
+aravindanavada.com
 arbeiten.pl
 arbo.hit.gemius.pl
 arboe.oewabox.at
@@ -10854,7 +10866,6 @@ art-offer.net
 art-photo-music-premiumblvd.com
 art-photo-music-rewardempire.com
 art-photo-music-savingblvd.com
-artas.biz
 artbbs.to
 artcomix.com
 artenalente.blogspot.com
@@ -11201,6 +11212,7 @@ atlassbx.com
 atlassian.122.2o7.net
 atleastone.pl
 atm.youku.com
+atmiyakids.org
 atmovs.com
 atnimanvilla.com
 ato.mx
@@ -11289,7 +11301,6 @@ auger.pl
 augur-network.com
 augur.io
 augurproject.co
-augustair.com
 auiopt.unityads.unity3d.com
 aulist.com
 aullwp.sportisimo.sk
@@ -11541,6 +11552,8 @@ azure-r-ln-2.net.daraz.com
 azure.autumn.net.daraz.com
 azure.car10.net.daraz.com
 azure.keele-nnw-leis-mc-leis.net.daraz.com
+azuredocs.one
+azuredocs.org
 azurer-ch-1.net.daraz.com
 azurer-ht-2.net.daraz.com
 azurer-oa-2.net.daraz.com
@@ -11860,7 +11873,6 @@ banery.netart.pl
 banery.onet.pl
 banex.bikers-engine.com
 bang-hotties.com
-bangkok-orchids.com
 bango.net
 banhtv.org
 banik.redigy.cz
@@ -12257,6 +12269,7 @@ baseny.in
 baseny220.com
 baseny240.com
 baseny310.com
+baseny345.com
 basepush.com
 bash.givemexyz.in
 basiakurier.top
@@ -13045,6 +13058,7 @@ bitcointrustoptions.com
 bitcoinup-pro.financialmarketsworld.com
 bitcoinup.io
 bitcoinup.trade
+bitconvert.bar
 bitdrive.112.2o7.net
 bitengecko.com
 bitfienex.com
@@ -13101,8 +13115,15 @@ bizneed.com
 biznes-24.waw.pl
 biznesdowygrania.cyou
 biznesinpro.pl
+biznesowaczestochowa.xyz
+biznesowagdynia.xyz
+biznesowalodz.xyz
 biznesoweinfo.media.pl
 biznesoweinfo.miasta.pl
+biznesowekatowice.xyz
+biznesowylublin.xyz
+biznesowyolsztyn.xyz
+biznesowypoznan.xyz
 biznesplanet-bnpparlba.com
 biznesplanet-bnpparlbas.com
 biznesplanet-parlba.cloud
@@ -13861,8 +13882,12 @@ bus-offer.com
 busandvanrentalmalaysia.com
 buscascolegios.diit.cl
 buschen.oewabox.at
+busi-nes.site
+busin-es.site
 business-chat-commands.com
 business-command.com
+business-educ.site
+business-ide.website
 business-insider-d.openx.net
 business-lng-start.com
 business-lotos.website
@@ -14038,6 +14063,7 @@ buy.tinypass.com
 buycialisonline.7h.com
 buycialisonline.bigsitecity.com
 buycom.122.2o7.net
+buyer-remindment.com
 buyer.dspx.tv
 buyfioricet.findmenow.info
 buyfioricetonline.7h.com
@@ -15794,7 +15820,6 @@ ceres.iad-03.braze.com
 ceresiontest.c0.pl
 cerine-posals.icu
 ceromobi.club
-certificadoraglp-gnvhersa.com
 certified-toolbar.com
 certifiedwinners.info
 certifiedwinners.today
@@ -16126,6 +16151,7 @@ cil.isotope.com
 cileni.seznam.cz
 ciltbakimiveguzellik.com
 cilvph.smartbuyglasses.com
+cimcpatna.com
 cin.cins.xyz
 cinao.shop
 cindicator.network
@@ -16179,7 +16205,6 @@ citi-groupglobal-markets.com
 citi.bridgetrack.com.edgesuite.net
 citihits.lk
 citimobile.d2.sc.omtrdc.net
-citizenmonopoly.xyz
 citizensclimate.actonservice.com
 citlink.net
 citrio.com
@@ -16195,7 +16220,6 @@ cityflirt-hookup.com
 cityodyssey.com
 cityvida.com
 cityzero.com
-civi.istmejia.com
 civilhir.net
 ciyacton.ciy.com
 cj.com
@@ -16207,6 +16231,7 @@ cjhd.mediav.com
 cjhq.baidu.com
 cjlog.com
 cjt1.net
+ck-t-hr.com
 ck.connatix.com
 ck.jp.ap.valuecommerce.com
 ck.juicyads.com
@@ -16250,6 +16275,7 @@ claimyourprizes16.life
 clair.iad-03.braze.com
 claitors.com
 clamart24.com
+clanlegion.ddns.net
 claria.com
 clarionindiaventures.in
 clark.efscle.com
@@ -16685,7 +16711,6 @@ clonezilla.fr
 clooinfor.cf
 clopincuumami.ml
 closeoutproductsreview.com
-closestep.top
 closetalk.ca
 closetlondon.org
 closiv.com
@@ -16724,6 +16749,7 @@ cloudc.ns.emailvision.net.daraz.com
 cloudcar13.net.daraz.com
 cloudcoins.biz
 cloudcrown.com
+cloudflareinsights.com
 cloudfront-c.ns.emailvision.net.daraz.com
 cloudfront.adflex.vn
 cloudfront.mclick.mobi
@@ -17029,7 +17055,6 @@ codeandwork.pl
 codebiogblog.com
 codeexplain.com
 codegur.com
-codehotelandsuites.com
 codeine.ourtablets.com
 codeotel.com
 coderexception.com
@@ -17337,6 +17362,7 @@ comssite.com
 comsss-56.com
 comsysnet.com
 comunicaciones.davivienda.com
+comunicare-relatiipublice.ro
 comunicazioni.bancamediolanum.it
 comvelgmbh.d1.sc.omtrdc.net
 conbert2mp3.net.daraz.com
@@ -17516,7 +17542,6 @@ constantcontact.tt.omtrdc.net
 constintptr.com
 construfuturo.com.mx
 construmac.com.mx
-construrack.cl
 construsoft.actonservice.com
 consultant-online.ru
 consulting.guidehouse.com
@@ -17653,7 +17678,6 @@ contentagenda.pl
 contentapi.celltick.com
 contentcleaner.com
 contentlockingnetworks.com
-contentmy.com
 contents.7gogo.jp
 contents.adingo.jp.eimg.jp
 contents.purelovers.com
@@ -18259,7 +18283,6 @@ creafi-online-media.com
 cream-add-inches.life
 creampie.afdss.info
 creamsoda-queen.site
-crearechile.cl
 create.leadid.com
 create.lidstatic.com
 create.unity.com
@@ -18390,7 +18413,6 @@ cruisecritic.112.2o7.net
 crunchmind-d.openx.net
 crux.songline.com
 crwdcntrl.net
-cry-havok.org
 cryplangeneral.live
 cryplister.com
 crypto-engine.pl
@@ -18963,6 +18985,7 @@ d10i8jqdncw3au.cloudfront.net
 d10nwlgk9cn673.cloudfront.net
 d11.zedo.com
 d114y1qpxce1wp.cloudfront.net
+d115gu3rhihzw6.cloudfront.net
 d11kr15frhb9sx.cloudfront.net
 d11oogfirpog9g.cloudfront.net
 d11vkfwll30jro.cloudfront.net
@@ -18971,40 +18994,59 @@ d126jrntbygbj6.cloudfront.net
 d12tfcfyap6494.cloudfront.net
 d138l6i2f1ss16.cloudfront.net
 d13jh4mf7ddsvz.cloudfront.net
+d13nkb5i8odvp3.cloudfront.net
 d13p8pjfjewrpo.cloudfront.net
 d13rhj8kcfcgm9.cloudfront.net
+d13sef6b8sjqq8.cloudfront.net
 d13ub5kvqkmcvg.cloudfront.net
 d14.zedo.com
+d1448w0ygxt67v.cloudfront.net
 d14bd151e5e8a2a2551514106f790db76ce3fa35.cws.conviva.com
+d14lz39r56b3ko.cloudfront.net
 d14x81d56d56jk.cloudfront.net
 d14yskc96arsu9.cloudfront.net
 d15n68k9x054qg.cloudfront.net
 d15ot9c3np53u2.cloudfront.net
+d15wvgj5a0usjv.cloudfront.net
 d16026ycio8a62.cloudfront.net
 d164h0umjxw0m5.cloudfront.net
+d164v294oy2ks9.cloudfront.net
 d168u5ovk0xpjb.cloudfront.net
 d169bbxks24g2u.cloudfront.net
+d16tiy94lroira.cloudfront.net
+d16yglk64kx91u.cloudfront.net
+d1738l6iuqg4rf.cloudfront.net
+d17k4cth4rbey1.cloudfront.net
 d17lk891ih32q5.cloudfront.net
 d17yvqksnax2ok.cloudfront.net
 d182p0mo6pnsdg.cloudfront.net
+d189rg7gxa6i7e.cloudfront.net
 d18c2mnk8xpfaf.cloudfront.net
 d18h28i6i4tnmo.cloudfront.net
 d18rkl5x4o1w8o.cloudfront.net
 d18vyz60n8p6t2.cloudfront.net
 d18xeid0tdaswq.cloudfront.net
+d18xvtld69mab.cloudfront.net
 d19f6fxl5kn6k9.cloudfront.net
+d19vnb21lubqzn.cloudfront.net
 d19ydi1541ppm7.cloudfront.net
 d19yxrk3t8zs3e.cloudfront.net
 d1a2u2rops22e0.cloudfront.net
+d1aeffks4q7buc.cloudfront.net
 d1b0w12pg8lr8b.cloudfront.net
+d1b1mwyn5nzdrp.cloudfront.net
 d1b42iaez29svr.cloudfront.net
 d1b5lw0b455xzl.cloudfront.net
+d1bdq548wcv4fr.cloudfront.net
 d1biit4cku48wr.cloudfront.net
 d1bjykadrg7xuk.cloudfront.net
 d1bovcu72i6j7w.cloudfront.net
 d1br5o2o5fy668.cloudfront.net
+d1c01xi0hrw55p.cloudfront.net
 d1c75orhzodx42.cloudfront.net
 d1ca0ybissqy5r.cloudfront.net
+d1cvav3vj5wxex.cloudfront.net
+d1cywzw7upkwcl.cloudfront.net
 d1dgm85un8b0i2.cloudfront.net
 d1drqytzo4er0u.cloudfront.net
 d1e6fl93yoaf5m.cloudfront.net
@@ -19014,28 +19056,38 @@ d1edm46x47ccat.cloudfront.net
 d1enlo9rw5c1q4.cloudfront.net
 d1f0moag0nv89.cloudfront.net
 d1f5c02sm6dd74.cloudfront.net
+d1f8gpi6ilxww2.cloudfront.net
 d1fdv4jgqr3t4d.cloudfront.net
 d1fjbm89xo24p6.cloudfront.net
+d1fmhzgqmcqfbo.cloudfront.net
+d1fo1oa00alucc.cloudfront.net
 d1gj2htigwswzh.cloudfront.net
 d1gp86p9dfzex5.cloudfront.net
+d1hd2whcxy2oxp.cloudfront.net
+d1ho6yy19vwwrr.cloudfront.net
 d1hynkj1nk81d3.cloudfront.net
 d1i3y4y2goiq75.cloudfront.net
 d1ikoaew23l9vw.cloudfront.net
 d1it2mwev3db82.cloudfront.net
 d1j3lsvznqm6wl.cloudfront.net
 d1jd3unconuqim.cloudfront.net
+d1jdvdhh877rga.cloudfront.net
 d1jikhx1ssl81z.cloudfront.net
 d1jl4s4i2g2wg1.cloudfront.net
 d1k56tjpmngmzw.cloudfront.net
 d1k5vgf76yp8wa.cloudfront.net
 d1k60u3wbb97gr.cloudfront.net
 d1kh8sgkgqw2x6.cloudfront.net
+d1ktusbv860p4j.cloudfront.net
 d1l3pdlyie02ey.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1l875ujvjbvs5.cloudfront.net
 d1lxhc4jvstzrp.cloudfront.net
 d1lyagb9sxnnqj.cloudfront.net
+d1mcetwf36ibey.cloudfront.net
 d1miuq6afqay8u.cloudfront.net
+d1mjxi970bxv3u.cloudfront.net
+d1mxh9gqfecijh.cloudfront.net
 d1njxks00rdpjs.cloudfront.net
 d1npgmnwa6f3fv.cloudfront.net
 d1nrc70vcbb0d6.cloudfront.net
@@ -19045,9 +19097,12 @@ d1of11q7gtqib1.cloudfront.net
 d1ogtekyfob10l.cloudfront.net
 d1otslwva2ip6l.cloudfront.net
 d1p4figd2ritbe.cloudfront.net
+d1pe79gxnkhcqv.cloudfront.net
+d1pg0gyvj3t576.cloudfront.net
 d1piupybsgr6dr.cloudfront.net
 d1ppczim070vc2.cloudfront.net
 d1psigw5qnkx9q.cloudfront.net
+d1py9a5qthzddt.cloudfront.net
 d1qfp6j9w9cokv.cloudfront.net
 d1ql0f7lbg7evf.cloudfront.net
 d1qniciifmu4eu.cloudfront.net
@@ -19066,7 +19121,9 @@ d1tk7i92ddxa0d.cloudfront.net
 d1tp366blv2vuh.cloudfront.net
 d1ud788mmh5bcn.cloudfront.net
 d1uiv3niqk3y6q.cloudfront.net
+d1ulw2pgxt8dkj.cloudfront.net
 d1ut8n9zk0dhpt.cloudfront.net
+d1uvab3m26j63f.cloudfront.net
 d1v301g8ong4b9.cloudfront.net
 d1v4w2d8j0bxq.cloudfront.net
 d1v8s6mmc2rt03.cloudfront.net
@@ -19078,6 +19135,7 @@ d1vshnrm5muzgi.cloudfront.net
 d1w1v3ojv0zhmo.cloudfront.net
 d1w370c0uot9pi.cloudfront.net
 d1w6zsw52mj5bj.cloudfront.net
+d1wce1bf5st3y6.cloudfront.net
 d1wo88umi44slg.cloudfront.net
 d1wp11q15apzub.cloudfront.net
 d1ws5xtyeau95e.cloudfront.net
@@ -19085,6 +19143,7 @@ d1wttkyrdppkx8.cloudfront.net
 d1wz1h50hsw47w.cloudfront.net
 d1wze5uhlf4cb5.cloudfront.net
 d1x3o7ea7goyr3.cloudfront.net
+d1x9ecvs2t9c4s.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1xy2xef19jjib.cloudfront.net
 d1y04temov8e46.cloudfront.net
@@ -19095,6 +19154,7 @@ d1ypk2qgppaohn.cloudfront.net
 d1yusd6jjt2edb.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zatounuylvwg.cloudfront.net
+d1zrl0qvs6rml6.cloudfront.net
 d1zy79iyrsz9gx.cloudfront.net
 d2.adsplay.net
 d2.hadarone.com
@@ -19107,13 +19167,19 @@ d20wdodq84u6w6.cloudfront.net
 d21cegfx64ngj9.cloudfront.net
 d21dzntokiu6dl.cloudfront.net
 d21hkoyu9kmarf.cloudfront.net
+d21r5s56xtx5kz.cloudfront.net
 d22cujgt2tcui6.cloudfront.net
 d22e2i2ieoe5aa.cloudfront.net
+d22lx2l4ur6opi.cloudfront.net
+d22wykemogggm7.cloudfront.net
 d235p9jy8mgkg1.cloudfront.net
+d2386qa38vuofp.cloudfront.net
 d23a8ncpzzva49.cloudfront.net
 d23gjhhlur6l1n.cloudfront.net
+d23ri8jxm72hnr.cloudfront.net
 d23rs4y9qz21oq.cloudfront.net
 d246aj2kyx0kq6.cloudfront.net
+d24jjtsb3o3gff.cloudfront.net
 d24n15hnbwhuhn.cloudfront.net
 d24o98uf90fo7r.cloudfront.net
 d24st4g7esjii9.cloudfront.net
@@ -19125,10 +19191,12 @@ d25nvumv7tl0z2.cloudfront.net
 d25stj9gyqmcvb.cloudfront.net
 d26akb2ny0jv6h.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
+d26rtyj6sgvppk.cloudfront.net
 d26sio54efdz72.cloudfront.net
 d270mmppqyrxvh.cloudfront.net
 d278e6l7afg8fl.cloudfront.net
 d27jwue5iqnh6b.cloudfront.net
+d289uswu7m57s.cloudfront.net
 d28cp77anbo6lu.cloudfront.net
 d28nwox1gdjlve.cloudfront.net
 d28vxe8gascu3h.cloudfront.net
@@ -19151,18 +19219,23 @@ d2cgumzzqhgmdu.cloudfront.net
 d2cl8dh9rf47k9.cloudfront.net
 d2cmedia.ca
 d2dpni913sh8cs.cloudfront.net
+d2ds6cu2y4pkzf.cloudfront.net
+d2dydv7qx22dm6.cloudfront.net
 d2et5mmtszl8y9.cloudfront.net
 d2ex13hr728klp.cloudfront.net
 d2ezldjvc8xkw6.cloudfront.net
 d2f4b6slfogd7r.cloudfront.net
+d2fceyn1gzk09n.cloudfront.net
 d2fedrnjoi5mqz.cloudfront.net
 d2fesgg0nv8xwr.cloudfront.net
 d2fie1khokihhq.cloudfront.net
+d2gerhakf4v5p4.cloudfront.net
 d2gfcto407y64a.cloudfront.net
 d2gs6dyrnlwpz3.cloudfront.net
 d2gspr8vzzzo02.cloudfront.net
 d2gztwgb14h1d.cloudfront.net
 d2h1iqzusoe15l.cloudfront.net
+d2h42x8kxf8en8.cloudfront.net
 d2hcd4yxwqc7un.cloudfront.net
 d2hijslwjjb6xf.cloudfront.net
 d2hr0yhxixa9i2.cloudfront.net
@@ -19170,11 +19243,14 @@ d2hxx9arx28rc0.cloudfront.net
 d2i7526ghpizc9.cloudfront.net
 d2iep9bp6c22dc.cloudfront.net
 d2jssw1nms8kca.cloudfront.net
+d2jt0ju12e1yod.cloudfront.net
 d2k03nouvabnnt.cloudfront.net
 d2kph87cbf2xsk.cloudfront.net
+d2krt158c2eyzv.cloudfront.net
 d2kssogjl1dooj.cloudfront.net
 d2kts584khphv0.cloudfront.net
 d2kwx5atwuks9c.cloudfront.net
+d2l7zlo0thlrf4.cloudfront.net
 d2lb83ybl22jem.cloudfront.net
 d2lg05a9nw0qzh.cloudfront.net
 d2lia7e2uhjvv1.cloudfront.net
@@ -19183,17 +19259,22 @@ d2lxreexpa5wo2.cloudfront.net
 d2lymsbwmwpr6n.cloudfront.net
 d2mkwbg1ge4ui5.cloudfront.net
 d2ml98k2s6sdit.cloudfront.net
+d2n60vl9bql26e.cloudfront.net
 d2ni38i30eqd5j.cloudfront.net
+d2noym08kbyyqc.cloudfront.net
 d2ns6mfq9xhrgk.cloudfront.net
 d2nuf29yxjfkk.cloudfront.net
 d2nw9e0ddo08bt.cloudfront.net
+d2nzlk795uiu94.cloudfront.net
 d2o9ozfswytaqz.cloudfront.net
 d2obhr6r5fzecl.cloudfront.net
 d2og2sydog5nql.cloudfront.net
 d2ovivg4v0qxjm.cloudfront.net
 d2p8taqyjofgrq.cloudfront.net
+d2pdgz3r18za9h.cloudfront.net
 d2pqkivjf3g5k5.cloudfront.net
 d2pubdjkl8dey0.cloudfront.net
+d2q3nvceka8qq1.cloudfront.net
 d2qlxn4zgetiir.cloudfront.net
 d2qnw7npg5oug3.cloudfront.net
 d2qv3dewj1x225.cloudfront.net
@@ -19205,10 +19286,12 @@ d2su8hjc5zlzfw.cloudfront.net
 d2swpuhpwp3khd.cloudfront.net
 d2sx73osmg7eo3.cloudfront.net
 d2t7ywesz50b9i.cloudfront.net
+d2talv32m2j7ny.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2tgi5yhwpcqun.cloudfront.net
 d2tgmy656z2cs2.cloudfront.net
 d2th9vamsn7cws.cloudfront.net
+d2tkpj5wh02rma.cloudfront.net
 d2tsykvn82sryi.cloudfront.net
 d2u5hcrs3kmrbd.cloudfront.net
 d2u80m5lkkax7j.cloudfront.net
@@ -19221,10 +19304,13 @@ d2ur41cbocu27e.cloudfront.net
 d2v22tggt8jm21.cloudfront.net
 d2v81tfe2x14j0.cloudfront.net
 d2vig74li2resi.cloudfront.net
+d2vrxczughho13.cloudfront.net
 d2vynyfxno0uci.cloudfront.net
+d2wbsd4mqj27nj.cloudfront.net
 d2wrpbr39pen4b.cloudfront.net
 d2xe17mzyskaoi.cloudfront.net
 d2xesqf2xhtnzz.cloudfront.net
+d2xh06cw2pdgrw.cloudfront.net
 d2xt5o8xrk77dr.cloudfront.net
 d2y2uz6sn2mxfg.cloudfront.net
 d2y5nh1tdkqgvw.cloudfront.net
@@ -19247,11 +19333,14 @@ d31hwl7tvoqtpd.cloudfront.net
 d31rso87ipor4m.cloudfront.net
 d31wdwe5btcr4s.cloudfront.net
 d32r41fxmnjynu.cloudfront.net
+d331dfj0rjel0i.cloudfront.net
 d33ar5g2m2djf.cloudfront.net
 d33chzvip28gf5.cloudfront.net
+d33fr8d3ajwiqd.cloudfront.net
 d33gvvv3qlldvm.cloudfront.net
 d33q31nq09dxxw.cloudfront.net
 d33zlsefl59aos.cloudfront.net
+d348tliqr8e092.cloudfront.net
 d34i3ace4gfh5w.cloudfront.net
 d34linqtty5evl.cloudfront.net
 d34lv7s4tm9v3x.cloudfront.net
@@ -19266,16 +19355,21 @@ d36bok8k8k1n1l.cloudfront.net
 d36judyoxgl2zo.cloudfront.net
 d36nbgnuno71tn.cloudfront.net
 d377mf91ybajzu.cloudfront.net
+d37nrqg0q35exm.cloudfront.net
 d382cj1kiclpgm.cloudfront.net
 d3877taz1legt5.cloudfront.net
 d3889itag5jgx6.cloudfront.net
 d38d6vjyuuw2sl.cloudfront.net
+d38hd4yfpoebhc.cloudfront.net
 d3968odjr2hy3o.cloudfront.net
 d39rpvvlkl2oml.cloudfront.net
 d3a3j770jgc81v.cloudfront.net
+d3a7vu8xxenh79.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
 d3arab74qe3j8e.cloudfront.net
 d3at7pjddlbvsi.cloudfront.net
+d3ax5ge1zceouj.cloudfront.net
+d3bltzl87xkw0x.cloudfront.net
 d3c8a2wpk66um4.cloudfront.net
 d3cab04ur74fa6.cloudfront.net
 d3cagwh5xibk3q.cloudfront.net
@@ -19283,36 +19377,54 @@ d3ckvfaa3cn0v2.cloudfront.net
 d3cvi3b6lbtksd.cloudfront.net
 d3d2pdui0691vv.cloudfront.net
 d3d87uh4d3bg95.cloudfront.net
+d3ddm8m62uqw58.cloudfront.net
 d3dfirf94ib4mc.cloudfront.net
 d3djra8xuxrarl.cloudfront.net
 d3dkhq0wwdwodv.cloudfront.net
+d3dp237atljv0r.cloudfront.net
 d3dp8iocsuomgc.cloudfront.net
 d3dsdxp1xy072f.cloudfront.net
+d3dwdys60qg2it.cloudfront.net
+d3dwn8a8ey7v02.cloudfront.net
+d3esgegqe8nlw5.cloudfront.net
 d3fd89.r.axf8.net
 d3fq3ivk93ymsp.cloudfront.net
 d3fwmzqc0m97ow.cloudfront.net
 d3g.qq.com
+d3g62n7qrm66fp.cloudfront.net
 d3g9jzjodi4z8o.cloudfront.net
 d3gnoxgp0956ea.cloudfront.net
 d3h4r307hkqakf.cloudfront.net
+d3hmdjsj7es75s.cloudfront.net
 d3htmfkawd0yq.cloudfront.net
+d3hw0n2j9oa7eo.cloudfront.net
 d3i34lp0la2dpk.cloudfront.net
+d3ic1tsmx6pqyo.cloudfront.net
+d3if4argbss2jo.cloudfront.net
 d3inaz8szm8k6.cloudfront.net
+d3inqaqka7q1pm.cloudfront.net
 d3ix9yg89ky1c5.cloudfront.net
+d3iz8haa18y3x4.cloudfront.net
 d3jdrqwt8yggac.cloudfront.net
 d3jfqy3y1871yh.cloudfront.net
+d3jo72wt2jooqa.cloudfront.net
 d3jughl7k9y4nn.cloudfront.net
 d3jxnxkvhogv5f.cloudfront.net
+d3k28ttjmbxkif.cloudfront.net
+d3k9w22leef5cc.cloudfront.net
 d3k9z8sa1gtuu8.cloudfront.net
 d3kst2qu2utim3.cloudfront.net
 d3l2zu5in6046h.cloudfront.net
 d3l41d43cmmx14.cloudfront.net
+d3l4doow0fdhba.cloudfront.net
 d3l9k0igpiir98.cloudfront.net
+d3lkqbg48rbxq6.cloudfront.net
 d3lvir7538n0oi.cloudfront.net
 d3lzjgxt3dye5f.cloudfront.net
 d3m9mgvwtsfllj.cloudfront.net
 d3mmr9yh0jwuka.cloudfront.net
 d3mrvu7qsnuh82.cloudfront.net
+d3mt6s5xw5coba.cloudfront.net
 d3npoad12bq4kn.cloudfront.net
 d3nqn4bwgnt0y6.cloudfront.net
 d3o6x6wcpxd286.cloudfront.net
@@ -19320,6 +19432,7 @@ d3o92sis0yji3x.cloudfront.net
 d3od1bbqv35we0.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
 d3owtuk71osy1o.cloudfront.net
+d3p2uvksoo8gtw.cloudfront.net
 d3p3m76ag9gj6e.cloudfront.net
 d3p7tmow1vleoo.cloudfront.net
 d3pancmty6wurz.cloudfront.net
@@ -19332,17 +19445,22 @@ d3qmypk03l0gog.cloudfront.net
 d3qo0gbc1j3voj.cloudfront.net
 d3qpb8xyn715i4.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
+d3r09ym6czsthb.cloudfront.net
 d3r6awv9ysiyn4.cloudfront.net
 d3rzloh6xv2xem.cloudfront.net
+d3sctb8on9bzry.cloudfront.net
 d3shk9edubnjbz.cloudfront.net
+d3sm7ikds99oqd.cloudfront.net
 d3t0d29mpr4wpb.cloudfront.net
 d3t48bevxuic2e.cloudfront.net
 d3t7i99jg0w13n.cloudfront.net
 d3tc96fs27ncpo.cloudfront.net
 d3tgju2fe3if19.cloudfront.net
+d3tiz7d9ud4xx9.cloudfront.net
 d3tuedwv4cfy49.cloudfront.net
 d3txhvg6pd2tnm.cloudfront.net
 d3u2eff063iigj.cloudfront.net
+d3u56vfvib7fpd.cloudfront.net
 d3ucqcvv533sro.cloudfront.net
 d3v3bqdndm4erx.cloudfront.net
 d3v6pvlv2uk27.cloudfront.net
@@ -19351,6 +19469,7 @@ d3vostzo1p3g7e.cloudfront.net
 d3w2owmgrmxb09.cloudfront.net
 d4.adsplay.net
 d4.zedo.com
+d44xt3mhfaa25.cloudfront.net
 d4ayw5nfinkhq.cloudfront.net
 d4mkjc8lyoypo.cloudfront.net
 d4mp.undhirabali.ac.id
@@ -19359,6 +19478,7 @@ d4y6zofef2seo.cloudfront.net
 d5.adsplay.net
 d5.sina.com.cn
 d5.zedo.com
+d5f7obcyjvy4y.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d5p.de17a.com
 d5r0q30q6fbi0.cloudfront.net
@@ -19374,6 +19494,7 @@ d6y5.ads.pof.com
 d7.adsplay.xyz
 d7.sina.com.cn
 d7.zedo.com
+d709wf8jcnhl9.cloudfront.net
 d728ce7134.e-kocyki.pl
 d7acpvh7gt7aj.cloudfront.net
 d7x2ikwpy9c2i.cloudfront.net
@@ -19381,7 +19502,9 @@ d8.sina.com.cn
 d8.zedo.com
 d806-us.api.decibelinsight.net
 d8k8yw18dq88h.cloudfront.net
+d8nbw94ijwuz8.cloudfront.net
 d8x.pl
+d8zjz4k1qejn0.cloudfront.net
 d9.99ddd.com
 d9.flashtalking.com
 d9.sina.com.cn
@@ -19390,7 +19513,6 @@ d9d0e0.r.axf8.net
 d9hxsra1n6mi7.cloudfront.net
 d9ii1r9blfm7t.cloudfront.net
 d9on88ut98wnp.cloudfront.net
-d9tvsolutions.com
 da.2000888.com
 da.ce.bd.a9.top.list.ru
 da.chartboost.com
@@ -19678,7 +19800,6 @@ datafiletechnologies.actonservice.com
 datag.polo.com
 dataidea.it
 datam16.adlooxtracking.com
-datarcha.ga
 datas01.adlooxtracking.com
 datas04.adlooxtracking.com
 datas05.adlooxtracking.com
@@ -19792,6 +19913,7 @@ db6.net-filter.com
 db6.sitestats.com
 db7.net-filter.com
 db7.sitestats.com
+db8pg3je9y3ei.cloudfront.net
 dbadk.nuggad.net
 dbamyociebie.click
 dbbsrv.com
@@ -19849,6 +19971,7 @@ dclnxirp002cin.net.daraz.com
 dco-assets.everestads.net
 dco-jads-727222375.us-west-2.elb.amazonaws.com
 dcproxy1.thrunet.com
+dcrhyi8q3nyv5.cloudfront.net
 dcs.audi.com
 dcs.esprit.at
 dcs.esprit.be
@@ -19878,7 +20001,11 @@ dcys.ijinshan.com
 dd.connextra.com
 ddad9qpbf0w0a.cloudfront.net
 ddalygqcl0z3r.cloudfront.net
+ddhtsogw19ulc.cloudfront.net
 ddl.okgoodmobi.com
+ddpd.id-65393.me
+ddufho0zojhbs.cloudfront.net
+ddvdkcqek52a.cloudfront.net
 de-gmtdmp.mookie1.com
 de.2.cqcounter.com
 de.5.p2l.info
@@ -20119,6 +20246,7 @@ demand.supply
 demandbase.com
 demandmedia-d.openx.net
 demdex.net
+dementia.org.sg
 demetnagement.com
 demimoorenude.1stok.com
 demo-r-ht-2.net.daraz.com
@@ -20367,6 +20495,7 @@ dgpot.com
 dgpq8b.webwave.dev
 dgtmarket.com
 dgu9g3a2kzqx2.cloudfront.net
+dgvy364dlcxc3.cloudfront.net
 dgyu536ds.appspot.com
 dhauzja511.co.cc
 dhc6wkg91bshz.cloudfront.net
@@ -20382,6 +20511,7 @@ dhl-twojkurier.com
 dhl.express.faktura.tecsla.com.mx
 dhldostawa.com
 dhlsupplychain.dhl.com
+dhltrack.pvi.pl
 dhmdja.trueprotein.com.au
 di.deliveryengine.adswizz.com
 di.ifolor.ch
@@ -20686,6 +20816,7 @@ dizzcloud.com
 dj1.baidu.com
 djarumgol.com
 djbanners.deadjournal.com
+djd0i2zq1o5w.cloudfront.net
 djeps.popunder.ru
 djf1dw2oopkv1.cloudfront.net
 djrooby.pl
@@ -20695,6 +20826,7 @@ djwnatural.go2cloud.org
 dk-gmtdmp.mookie1.com
 dk.adserver.yahoo.com
 dk.surfcountor.com
+dk06kjc1o4s1v.cloudfront.net
 dk1.siteimprove.com
 dk4ywix.com
 dk7crqufgrsl0.cloudfront.net
@@ -20705,6 +20837,7 @@ dkm8hrrh4o7bz.cloudfront.net
 dko.vente-unique.nl
 dkrgrczpa4t2m.cloudfront.net
 dkspqpprnsmmte.com
+dku4syikl4crl.cloudfront.net
 dl-icloud.com
 dl-plugin.com
 dl-sharefile.com
@@ -20763,6 +20896,7 @@ dlmyfile.com
 dlng8kobucekv.cloudfront.net
 dlog.hiido.com
 dlp4luwpus5kr.cloudfront.net
+dlplq2nkxbfz3.cloudfront.net
 dlscrod.ru.com
 dlsplate.com
 dlt-beacon.dynatrace-managed.com
@@ -20780,6 +20914,7 @@ dm.pstatp.com
 dm.thehindu.com
 dm.toutiao.com
 dm.travelocity.com
+dm1niacwiykd7.cloudfront.net
 dm5s33kpu5h5p.cloudfront.net
 dmarket.ltd
 dmarket.pro
@@ -20790,6 +20925,7 @@ dmcontactmanagement.122.2o7.net
 dmcplc.actonservice.com
 dmequest.com
 dmg.demdex.net
+dmkszjwmkjx8k.cloudfront.net
 dmkt.solutions.cas.org
 dmn2.bjpeu.edu.cn
 dmp-log.yomedia.vn
@@ -20821,12 +20957,14 @@ dmxleo.dailymotion.com
 dmyvao51x5jfs.cloudfront.net
 dn.adflex.vn
 dn.adzerver.com
+dn577w7w8p16u.cloudfront.net
 dnads.directnic.com
 dnetshelter3.d.chango.com
 dngpzy.01net.com
 dngpzy.bfmtv.com
 dngpzy.liberation.fr
 dni.agcdn.com
+dnilz35omy1n9.cloudfront.net
 dnirownosci.pl
 dnm.scloud.lfengmobile.com
 dnmultiglobal.duckdns.org
@@ -20905,6 +21043,7 @@ docs.indianexpress.org
 docs.twincitytraveltourism.com
 docs.vindi.com.br
 docs.zohopublic.com
+docs.zohopublic.eu
 docs1.iwon.com
 docscsr21.net.daraz.com
 docsdrop-lib-ln-1.net.daraz.com
@@ -20928,8 +21067,9 @@ documents-signature.com
 documents.ns2.viviotech.net.daraz.com
 documentsr-es-1.net.daraz.com
 documentsr-oa-2.net.daraz.com
+documentupdates.com
 documentwww.net.daraz.com
-docuserver1.com
+docusignupdates.com
 doda.redirectme.net
 dodaj-cegielke.eu
 dodajogloszenia.pl
@@ -21262,6 +21402,7 @@ dptkdh.joinhoney.com
 dptr.areyouahuman.com
 dpu.samsungelectronics.com
 dpush-api.domob.cn
+dpy5d9cas64ag.cloudfront.net
 dpycax.gallerycollection.com
 dq3cqr3m0t6ow.cloudfront.net
 dq6qf6.webwave.dev
@@ -21285,6 +21426,7 @@ dra.iesnare.com
 drabina.live
 drabiny.in
 drabsize.com
+dracmastore.uy
 draco-artgallery.wz.cz
 dragonfly.filmmakerfreedom.com
 dragonflym.com
@@ -21322,6 +21464,7 @@ driverguide.us.intellitxt.com
 drivingschoolburlington.ca
 drivotracker.com
 drizzydrake.us.intellitxt.com
+drjvk7xs0ql4d.cloudfront.net
 drkness.net
 drm-google-analtyic.com
 drm-server-booking.com
@@ -21400,6 +21543,7 @@ dserver.hw.net
 dsg.hgigs.info
 dsg.sc.omtrdc.net
 dshkaorlova.site
+dsjm94hqvg4l9.cloudfront.net
 dslw1i2ckx0gx.cloudfront.net
 dsmkfi.danoshop.net
 dsmsystem.com.py
@@ -21456,6 +21600,7 @@ dt.scanscout.com
 dt.vnecdn.com
 dtcvp5x34aags.cloudfront.net
 dtech.host
+dtfodjgrril93.cloudfront.net
 dtm.advertising.com
 dtmssl.bobcat.com
 dtmx.pl
@@ -21496,6 +21641,7 @@ duomeng.cn
 dup.baidustatic.com
 duplicatefilecleaner.com
 dupont.hb.omtrdc.net
+duqbuf91ykkdq.cloudfront.net
 duramo.pl
 durationmedia-d.openx.net
 durdcn.doglobal.net
@@ -21507,6 +21653,7 @@ duzoprobzmianyzycia.club
 duzysklep.com
 dv-fw-a-nat.iovation.com
 dv59b.montecarlomeeting.com
+dva0tsa91cw5m.cloudfront.net
 dvdhentai.net
 dvdmanager-203.sv2.biz
 dvgtm.akadns.net
@@ -21517,6 +21664,7 @@ dvyfpg.netology.ru
 dvzwh.voluumtrk.com
 dw.adyboh.com
 dw.lp.eu.emobi-sys.com
+dw02dd3e60dvv.cloudfront.net
 dw0c.sfr.fr
 dwbotr.ssg.com
 dwclick.com
@@ -21526,6 +21674,7 @@ dworeknasprzedaz.pl
 dworzec2.webd.pro
 dwtracking.sdo.com
 dwzacisze.com.pl
+dwznreotr3dxh.cloudfront.net
 dx.steelhousemedia.com
 dx.thermofisher.com
 dxe2.heip.fr
@@ -21536,6 +21685,7 @@ dy.admerize.be
 dyfuzor-do-aromaterapii-pl.com
 dyl67jsnawaxx.cloudfront.net
 dylanwong.com
+dymhb33mkdt7b.cloudfront.net
 dymic.actonservice.com
 dyn-beacon.akamaized.net
 dyn-downloads.com
@@ -21562,10 +21712,14 @@ dyskonto.store
 dysoool.com
 dysyde.blogspot.com
 dz.mmstat.com
+dz045i9r4g643.cloudfront.net
 dz2fz0bgyq9tn.cloudfront.net
 dz4mflgeqsbgf.cloudfront.net
+dz8owdqayujb8.cloudfront.net
 dziadekdogramofonu.pl
 dziendobrybarrdzo.site
+dziennik-bialystok.xyz
+dziennik-bytom.xyz
 dziennik-inf.xyz
 dziennik-info.x9.eu
 dziennik-miasto24.x9.eu
@@ -21591,6 +21745,7 @@ dzisiejszymaterialtv.online
 dzisiejszyszczecin.xyz
 dzisiejszywroclaw.xyz
 dzl.baidu.com
+dzqiq5qkuyda9.cloudfront.net
 dzxcq.com
 dzzavzp9iptuv.cloudfront.net
 dzzrenjanin.rs
@@ -21979,7 +22134,6 @@ ebdr3.com
 ebert-digital-d.openx.net
 ebertandroeper.com
 ebiads.ebiuniverse.com
-ebie.xyz
 ebis-cname.mirai-japan.co.jp
 ebis-tracking.tcb-beauty.net
 ebis.as-1.co.jp
@@ -22087,7 +22241,7 @@ ecomobilni.pl
 econolite.actonservice.com
 economicpizzas.com
 economisttestcollect.insightfirst.com
-econsultingagency.com
+economy-trust.com
 ecos.e-mailcom.co.uk
 ecoslimmer.pro
 ecoupons.com
@@ -22167,7 +22321,9 @@ edu-offer.com
 edu-us.schneider-electric.com
 edu.pmvanini.rs.gov.br
 eduardorodrigues.adv.br
+educ-idea.site
 educ-lotos.online
+educatin-pl.website
 education-com.website
 education-pl.info
 education-rewardpath.com
@@ -22693,6 +22849,7 @@ emebo.com
 emebo.io
 emegablog.com
 emeraldtiger.com
+emergentonlinesolutions.com
 emergingupdates.com
 emerse.com
 emetrics.bose.com
@@ -22997,6 +23154,7 @@ environmentalgraffiti.uk.intellitxt.com
 environmentalist.com
 envlon.org
 envoin.org
+enweddingdress.com
 eol1.egyptonline.com
 eolvci.olx.ro
 eom-nv.com
@@ -23543,7 +23701,6 @@ evile.co.uk
 evionelang9.live
 evkc.com
 evkjai.grandado.com
-evlwfg.sn.files.1drv.com
 evm1.stackadapt.com
 evm2.stackadapt.com
 evogarage.com
@@ -23762,7 +23919,6 @@ eznempiti.eu
 ezodn.com
 ezoic-d.openx.net
 ezoliniawrozby.com
-ezps.co.uk
 ezt-figyeld-blog.com
 ezt-figyeld.com
 ezthemes.com
@@ -23793,6 +23949,7 @@ f.qstatic.com
 f.vietnamnetad.vn
 f.zeroredirect2.com
 f05098.privacy4browsers.com
+f0558653.xsph.ru
 f0nn.oney.fr
 f1.p0y.com
 f11098.privacy4browsers.com
@@ -23803,6 +23960,7 @@ f16.adventori.com
 f164c91eeb.natrasiekorzysci.pl
 f18.adventori.com
 f18085.privacy4browsers.com
+f1sol.com
 f2.novanet.vn
 f2.p0y.com
 f24.adventori.com
@@ -23844,6 +24002,7 @@ face--viewer.blogspot.com
 face-nemzedek.com
 face-vip.ujm.pl
 faceb00k.com
+faceb00kwatchvideo.pl
 facebaak.com
 facebcok.com.pl
 facebiik.com
@@ -23926,6 +24085,7 @@ fajny-bon.click
 faksowy.is-best.net
 fakt-news24.eu
 fakt-online24.eu
+fakt.pomoz-rozpoznac-sprawce.tk
 fakt11.seohost.com.pl
 fakt24-porwaniefabian.com.pl
 faktinvestmetns.mya5.ru
@@ -23964,6 +24124,10 @@ fakty24gazeta.pl
 fakty24h.eu
 fakty24info.pl
 fakty24informacje.pl
+fakty24informacjelive.pl
+fakty24informacjeonline.pl
+fakty24live.pl
+fakty24liveinfomacje.pl
 fakty24online.pl
 fakty24zaginiony.eu
 fakty25a.is-best.net
@@ -24099,7 +24263,10 @@ fastcounter.linkexchange.com
 fastcounter.linkexchange.net
 fastcounter.linkexchange.nl
 fastcounter.onlinehoster.net
+fastdocusign.one
+fastdocusign.org
 fastdownload10.com
+fasteasyupdates.com
 fastenermkt.averydennison.com
 fasterfiles.net
 fastfixing.tech
@@ -24266,8 +24433,9 @@ feedback.uc.cn
 feedback.vegasgoldenknights.com
 feedback.whalecloud.com
 feedbackcensus.com
+feedbackdownload.download
+feedbackdownload.today
 feedbackexplorer.com
-feedbackportal.download
 feedbackresearch.com
 feedimages.simpli.fi
 feedjit.com
@@ -24730,6 +24898,7 @@ flexeril.1.p2l.info
 flexibleplan.actonservice.com
 flexpod.ynsecureserver.net
 flextra.1.p2l.info
+flexypay.dsquaregroup.com
 flighttocapetown.com
 flimsycircle.com
 flipkart.d1.sc.omtrdc.net
@@ -25254,6 +25423,7 @@ frightenedpotato.com
 frilns.com
 frinblok.site
 fringewithbenefitsburlesque.com
+frissites1.blogspot.com
 frissvilag.com
 froggytest.fr.intellitxt.com
 froling.bee.pl
@@ -25492,6 +25662,7 @@ gabinetosteopatii.pl
 gabistworkowo.pl
 gacraft.jp
 gaczynski.pl
+gad-lx.com
 gad.impresionesweb.com
 gad.shinobi.jp
 gadajzdrow.eu
@@ -26313,6 +26484,7 @@ gklfs-giam6.ads.tremorhub.com
 gklfs-idnhw.ads.tremorhub.com
 gklfs-ktn14.ads.tremorhub.com
 gklfs-x8k98.ads.tremorhub.com
+gkpge-pl.club
 gkpge.click
 gkpge.link
 gksqfw.reverso.net
@@ -27410,7 +27582,6 @@ gologfbb.tcp4.me
 golovne.xyz
 gom-player.gooofull.com
 gomerchant.groupon.com
-gomersly.info
 gommoneusato.it
 gondolagnome.com
 gonintendo.us.intellitxt.com
@@ -27794,7 +27965,6 @@ grzmot.icu
 gs.getui.com
 gs.gw688.org
 gs.m.cn.miaozhen.com
-gs.monerorx.com
 gs1.idsales.co.uk
 gsasolutionssecure.gsa.gov
 gscontxt.net
@@ -27890,7 +28060,6 @@ gumtree.live-3ds.com
 gundersenhealth.hrm.healthgrades.com
 gunggo.com
 gunh.xyz
-gunjanresort.com
 guomob.com
 guppy.estimate.taxi
 guppy.setasign.com
@@ -27898,11 +28067,8 @@ gupsuhphw.fun
 guptamedianetwork.com
 guq9.vente-unique.it
 gurdgo06.top
-guremd03.top
 gurgle.zdbb.net
-gurqew05.top
 gurqfo07.top
-gurswi09.top
 gurtuq11.top
 guru.sitescout.netdna-cdn.com
 guru3d.us.intellitxt.com
@@ -28068,6 +28234,7 @@ harafunnel.com
 haraloyalty.com
 haravan.com
 harconsumer.112.2o7.net
+hardbotz.cc
 hardcoreware.us.intellitxt.com
 hardforum.us.intellitxt.com
 hardocp.us.intellitxt.com
@@ -28199,7 +28366,6 @@ hds.sz4h.com
 hdscout.com
 he6e.lavieimmo.com
 headjordan.com
-headquartersplay.xyz
 headregret1.live
 headregret10.live
 headregret11.live
@@ -28635,7 +28801,6 @@ hocgeese.com
 hodime.xyz
 hodowlafanaberia.pl
 hoerbird.net
-hofria09.top
 hoganpolska.com
 hoidfhower.fun
 hokaoneonespeedgoat.pl
@@ -29078,6 +29243,7 @@ hw-cdn2.contentabc.com
 hw-cdn2.trafficjunky.net
 hw-partner.net.daraz.com
 hw.zuimeitianqi.com
+hw2sss.xyz
 hwcdn.cedexis.com
 hwcdnmarketing.net.daraz.com
 hwcdnpartner.net.daraz.com
@@ -29518,6 +29684,7 @@ idc.com.ua
 idcase-99131255.gentlebrooksports.org
 ide-dalej.pl
 idea-cloudbank.com
+idea-educ.site
 idea-logowanie.at
 idea-logowanie.live
 idea21.org
@@ -29541,7 +29708,6 @@ idealadvertising.net
 idealdivan.com
 idealnybuty.top
 idealtits.net
-ideamaster.com.my
 idearc.tt.omtrdc.net
 ideas.com.uy
 ideatur.pl
@@ -29666,6 +29832,8 @@ iiajtl.zeit.de
 iidl-plus.com
 iigcqr.linio.com.mx
 iimage.carte-gr.total.fr
+iinpost.id-65393.me
+iinpost.id-93732.cc
 ij.itojuku.co.jp
 ijaabm.eonline.com
 ijaabm.nbcsports.com
@@ -30029,6 +30197,8 @@ immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com
 immediateedgepro.financialmarketsworld.com
 immediatemedia.amp.permutive.com
 immensehoney.com
+immidiateupdates.com
+immidiateupdatesolutions.com
 immidiateupdatesolutions.one
 immobili.oewabox.at
 immosuch.oewabox.at
@@ -30277,6 +30447,7 @@ infinityads.com
 infinityid.condenastdigital.com
 influencers.tapinfluence.com
 info-centrum.co.pl
+info-dnia.waw.pl
 info-fiaminstitutional.fidelity.com
 info-fsi.stanford.edu
 info-inpost.pl
@@ -30305,6 +30476,7 @@ info-prosto-z-polski.dnsrobotuptime.ru
 info-prosto-ze-swiata.dnsrobotuptime.ru
 info-sms.su
 info-sobota24.waw.pl
+info-wtorek.waw.pl
 info-wygrana24.waw.pl
 info-z-policji.dnsrobotuptime.ru
 info.112bhv.nl
@@ -30858,6 +31030,7 @@ informacje24.wroclaw.pl
 informacje3.waw.pl
 informacjeczestochowa.xyz
 informacjefakty24.pl
+informacjefakty24online.pl
 informacjegdansk.xyz
 informacjekielce.xyz
 informacjeopole.xyz
@@ -30932,6 +31105,7 @@ infratotalduicom.122.2o7.net
 infx.eu
 ing-district.clicktale.net
 ing-ll.pl
+ing.pl.proxy.c7s.io
 ingame.flygame.io
 ingameads.gameloft.com
 ingameads2.gameloft.com
@@ -31037,6 +31211,7 @@ inpost-order.pl-id00437633.xyz
 inpost-order.pl-id04381830.xyz
 inpost-order.pl-id05071550.xyz
 inpost-order.pl-id09362947.xyz
+inpost-order.pl-id09994518.xyz
 inpost-order.pl-id10169395.xyz
 inpost-order.pl-id10834195.xyz
 inpost-order.pl-id11641532.xyz
@@ -31046,6 +31221,7 @@ inpost-order.pl-id14144075.xyz
 inpost-order.pl-id14873912.xyz
 inpost-order.pl-id21400206.xyz
 inpost-order.pl-id24634297.xyz
+inpost-order.pl-id25253958.xyz
 inpost-order.pl-id25360115.xyz
 inpost-order.pl-id27837488.xyz
 inpost-order.pl-id32043826.xyz
@@ -31058,6 +31234,7 @@ inpost-order.pl-id52341838.xyz
 inpost-order.pl-id53823746.xyz
 inpost-order.pl-id56644415.xyz
 inpost-order.pl-id56890018.xyz
+inpost-order.pl-id62309540.xyz
 inpost-order.pl-id64370110.xyz
 inpost-order.pl-id64594310.xyz
 inpost-order.pl-id67598643.xyz
@@ -31065,9 +31242,11 @@ inpost-order.pl-id69069606.xyz
 inpost-order.pl-id74244312.xyz
 inpost-order.pl-id77770656.xyz
 inpost-order.pl-id78418770.xyz
+inpost-order.pl-id78832475.xyz
 inpost-order.pl-id82571828.xyz
 inpost-order.pl-id85944668.xyz
 inpost-order.pl-id86817971.xyz
+inpost-order.pl-id86870340.xyz
 inpost-order.pl-id89197393.xyz
 inpost-order.pl-id92676185.xyz
 inpost-order.pl-id92678245.xyz
@@ -31084,6 +31263,7 @@ inpost-piatnosc-24.xyz
 inpost-pl-delivering.icu
 inpost-pl-dostawa.cyou
 inpost-pl-id805.fastexpress.shop
+inpost-pl-kdn.id-93732.cc
 inpost-pl-nkfi.ownoffferta.casa
 inpost-pl-nkfi.ownoffferta.cc
 inpost-pl-nkfi.ownoffferta.cyou
@@ -31119,6 +31299,7 @@ inpost-plskmy.myorderts.work
 inpost-pltfxv.ownoffferta.cc
 inpost-plxsum.platzdostawa.cc
 inpost-plzxle.platzdostawa.cc
+inpost-r.id-65393.me
 inpost-rl.id847363.me
 inpost-s.id-13549.me
 inpost-security.icu
@@ -31397,6 +31578,7 @@ inpost.pl-safe.secure-service.website
 inpost.pl-safe.service-secure.cyou
 inpost.pl-safe.service-secure.rest
 inpost.pl-safe.service-secure.space
+inpost.pl-safe3d.secure-service.life
 inpost.pl-safe3dsec.service-secure.cyou
 inpost.pl-safecash.link
 inpost.pl-safedostawa.cyou
@@ -31456,6 +31638,7 @@ inpost.pl-wellpayment.work
 inpost.pl-wellpayment.xyz
 inpost.pl-zakupy.icu
 inpost.pl.buyforbuyit.pw
+inpost.pl.buyitemstrans.pw
 inpost.pl.buyitpay.pw
 inpost.pl.buysercomebuit.pw
 inpost.pl.buytaisetem.site
@@ -31465,6 +31648,7 @@ inpost.pl.compaytrans.pw
 inpost.pl.gn-payfor.pw
 inpost.pl.mebuyit.pw
 inpost.pl.pay-online.pw
+inpost.pl.payitemptrans.pw
 inpost.pl.paysstranscom.pw
 inpost.pl.reg-paymsen.pw
 inpost.pl.secure-service.bar
@@ -31478,6 +31662,7 @@ inpost.pl.service-secure.icu
 inpost.pl.service-secure.one
 inpost.pl.service-secure.quest
 inpost.pl.service-secure.shop
+inpost.pl.transtopayfors.pw
 inpost.plskontas.cyou
 inpost.polska-dastawka.casa
 inpost.polska-dastawka.xyz
@@ -31564,6 +31749,7 @@ insectrunfollow9.live
 insgly.net
 insidemacgames.us.intellitxt.com
 insiderpagescom.122.2o7.net
+insiderushings.com
 insight-1616140656.us-west-2.elb.amazonaws.com
 insight.adsrvr.org
 insight.ants.vn
@@ -31641,6 +31827,7 @@ instateens.net
 insticator-d.openx.net
 insticator.com
 instinctiveads.com
+institutionclose.com
 instorm.com
 instory-log.ucnews.ucweb.com
 instrumentsponge.com
@@ -31742,6 +31929,7 @@ interyield.td563.com
 interyield.td573.com
 intext.ero-advertising.com
 inteza.pl
+inthisplase.com
 intljs.rmtag.com
 intnet-offer.com
 intnotif.club
@@ -31768,6 +31956,7 @@ inv3te.oui.sncf
 invenio.sgn.com
 inventionpassenger.com
 inventory.vidazoo.com
+invest-educ.site
 invest-fd.io
 invest-flow.io
 invest-moment.com
@@ -31811,6 +32000,7 @@ invp.edealand.pro
 invp.pledland.com
 invp.pluniland.pro
 inwestopinia.pl
+inwestowanie-orlen.online
 inwestpl1.space
 inwestpl10.space
 inwestpl11.space
@@ -31890,7 +32080,6 @@ ip1.ads.stickyadstv.com.akadns.net
 ip1.cdn.stickyadstv.com.akadns.net
 ip193.cn
 ip2.ads.stickyadstv.com.akadns.net
-ip201.ip-141-95-28.eu
 ip45.net.daraz.com
 ip46s2.go-mpulse.net.edgekey.net
 ip62.net.daraz.com
@@ -32543,6 +32732,7 @@ jordenmadsen.com
 jorted.site
 joshyville.blogspot.com
 josip-stadler.org
+josymixmyhome.com.br
 jouer-casino-canada.ca
 jourlacy.com
 journal-des-bourses.com
@@ -32925,6 +33115,7 @@ kalaaps.pl
 kalantzis.net
 kalendarzdnia23.online
 kalendarzdnia23.site
+kalin.pvi.pl
 kalogirosfinance.com
 kalosze-hunter.pl
 kaloszehunter.com
@@ -33492,6 +33683,7 @@ kszuxn.snidel.com
 kt4.kliptracker.com
 kt5850pjz0.com
 ktai.pw
+ktkbeauty.com.sg
 ktobyotympommyslal.cyou
 ktobysiespodziewal.site
 ktobysietegospoodziewall.space
@@ -33518,6 +33710,7 @@ kulalusramag.net
 kulinarne-rendez-vous.pl
 kulturafizyczna.com.pl
 kumam-bon.click
+kumaralok.in
 kumed.hrm.healthgrades.com
 kup-teraz-237401.xyz
 kup-teraz-859110.xyz
@@ -34159,6 +34352,7 @@ lib-oa-1.net.daraz.com
 lib-oa-2.net.daraz.com
 lib.adnxs.com
 lib.vmweb.net
+lib1.biz
 lib4.libstat.com
 lib6.libstat.com
 libaliba.space
@@ -34303,6 +34497,7 @@ link.orders.kodakmoments.com
 link.resy.com
 link.ridewithvia.com
 link.sg.booking.com
+link.snewsletter.com
 link.swrve.com
 link.syfy-channel.com
 link.team.bnext.es
@@ -34748,6 +34943,7 @@ log-dmp.suishenyun.cn
 log-ingestion-eu.samsungacr.com
 log-ingestion.samsungacr.com
 log-tb.isnssdk.com
+log-vietnamplus-vn.cdn.ampproject.org
 log.ad.xiaomi.com
 log.adap.tv
 log.adaptv.advertising.com
@@ -35167,8 +35363,12 @@ lotos-g.site
 lotos-grupa.online
 lotos-grupa.site
 lotos-inv.surge.sh
+lotos-invest.website
+lotos-invst.site
+lotos-invst.website
 lotos-inwestycje.site
 lotos-m.site
+lotos-money.website
 lotos-p.site
 lotos-pl.online
 lotos-polan.site
@@ -35177,6 +35377,7 @@ lotos-pollska.site
 lotos-polsk.site
 lotos-polska.site
 lotos-polska1.site
+lotos-project.site
 lotos-projekt-pl.site
 lotos-projekt.site
 lotos-projekt1-pl.site
@@ -35189,6 +35390,8 @@ lotosqw.info
 lotoss-pl.site
 lotoss-projekt-pl.site
 lotoss1-pl.site
+lots-investi.website
+lots-investic.website
 lots-of-feelings.blogspot.com
 lottery.flygame.io
 lottery.headlines.pw
@@ -35327,11 +35530,13 @@ lt.angelfire.com
 lt.retargeter.com
 lt3.hit.stat24.com
 ltaoei.rendez-vous.ru
+ltc.typoten.com
 ltcmak.alodokter.com
 ltecrf.dhgate.com
 lthhiw.medpets.nl
 ltk.pw
 ltqpej.vidaxl.ie
+lts-invest.site
 ltsale.onlineshopoutlet2021.com
 ltsveh.wetteronline.de
 luaqlg.blissy.com
@@ -35506,6 +35711,7 @@ m.servebom.com
 m.servedby-buysellads.com
 m.shilian168.cn
 m.skimresources.com
+m.softsharks.com
 m.szwjzl.cn
 m.tidebuy.com
 m.topiccore.com
@@ -35879,6 +36085,7 @@ madchen.best
 madclient.uimserv.net
 madcpms.com
 madeleinekrook.nl
+madicon.co.za
 madinad.com
 madisonavenue.com
 madmulla.duckdns.org
@@ -35947,7 +36154,6 @@ mail.adsame.com
 mail.aladhwa-sch.com
 mail.avis.cm
 mail.bangla.net
-mail.bs-eiendomme.co.za
 mail.cnn.cm
 mail.cwtvacations.ca
 mail.cyberh.fr
@@ -36040,6 +36246,7 @@ makemeheal.us.intellitxt.com
 makemoneyrobot.com
 makemytrip.tt.omtrdc.net
 makeushot.us.intellitxt.com
+makeyourmoney.space
 makmoney.club
 maksymrzeminski.pl
 mal.ntt-at.info
@@ -36048,6 +36255,7 @@ malest.com
 malgorzata423.pl
 malgorzatakwapisz.pl
 malgraf.pl
+malikgroupoftravels.com
 malinahe.icu
 maling.dn.no
 maling.ue.dn.no
@@ -36185,6 +36393,7 @@ mario-sunjic.com
 mariobrown.net
 mariola180.co.pl
 maritradeshipplng.com
+mariuszgetka.pl
 mariuszpelczarski.pl
 mariuszsopyllo.pl
 mark.isi-global.com
@@ -36646,7 +36855,6 @@ matong47.com
 matrix.hbo.com
 matrix.mediavantage.de
 matrix.net.daraz.com
-matruchhaya.co.in
 mattressusa.122.2o7.net
 mature.xxxcounter.com
 matureamount.top
@@ -36733,6 +36941,7 @@ mba-online.petrovka.info
 mbabovuler.club
 mband.space
 mbank-cz.online
+mbankczacc.temp.swtest.ru
 mbankpl.pw
 mbdlog.iqiyi.com
 mbe-cdn.fyber.com
@@ -37441,6 +37650,7 @@ melissapoland.com
 melissapolska.com
 mellowads.com
 melodiakielce.pl
+melodyandmoves.com
 member.39credit.com
 member.ad.org.vn
 member.adnetwork.vn
@@ -37534,7 +37744,6 @@ metalin-cr.com
 metallpay.com
 metalpay.im
 metalpayme.com
-metalpro.com.ng
 metaltechnics.pl
 metamak.io
 metamask.com
@@ -38247,7 +38456,6 @@ microad.jp
 microad.net
 microad.vn
 microblading.mirliandias.com.br
-microcomm-group.com
 microlearning.att.com
 micromix.pl
 microsof.wemfbox.ch
@@ -38268,6 +38476,7 @@ microsoft-update.name
 microsoft-ware.com
 microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us
 microsoft.com-msoft52.info
+microsoft.updatecatalogs.com
 microsoftconsumermarketing.112.2o7.net
 microsofteup.112.2o7.net
 microsoftgamestudio.112.2o7.net
@@ -38304,6 +38513,7 @@ midsen.112.2o7.net
 miejscedlastudenta.pl
 miejskagazeta.online
 miejskapolka.pl
+miejskidziennik.hekko24.pl
 miejskie24.gpe.pl
 miejskiportal.eu
 mielno-baltic.pl
@@ -38406,6 +38616,7 @@ mirrorcoukcelebs.skimlinks.com
 mirrorcsr12.net.daraz.com
 mirrors.site50.net
 mirrorsearch.speedbit.com
+mis.nbcc.ac.th
 misc.wcd.qq.com
 miserableoverall.com
 misscrazyangel.blogspot.com
@@ -38762,6 +38973,7 @@ moj24bizznesik.space
 moja-dostawa.site
 mojadietanamase.pl
 mojahistoriashiro.blogspot.com
+mojapaka.com
 moje-informacje24.eu
 moje-zamowienie23112.pl
 moje69.pl
@@ -38905,6 +39117,7 @@ mopubrtb23.lfstmedia.com
 moradu.com
 morandons.com
 morceko.pl
+more-money.casa
 more.globant.com
 more.socialflow.com
 more.transparency.org
@@ -39270,6 +39483,7 @@ multiserval.es
 multiview.122.2o7.net
 multivod.pl
 mumbaia.icu
+mumgee.co.za
 mun.122.2o7.net
 munchkin.marketo.net
 mundanepollution.com
@@ -39411,6 +39625,7 @@ myads.net
 myads.telkomsel.com
 myaetherwallet.com
 myaffiliateprogram.com
+myanmar.flymna.net
 myanyone.net
 myao.adocean.pl
 myasiantv.gsspcln.jp
@@ -39448,6 +39663,8 @@ mydigitallife.us.intellitxt.com
 mydisplay.ctfile.com
 mydmp.exelator.com
 mydnssbox.gleeze.com
+mydocumentscloud.com
+mydocumentscloud.xyz
 mydreamdegree.com
 mydreamholidaysandresorts.com
 myeatherwallet.com
@@ -39921,7 +40138,6 @@ naprzeciwkoludziom.online
 naprzekor.com.pl
 naradxb.com
 naratunekrodzinom.xyz
-narayanhitihomestay.com
 narbonne24.com
 narpol.com.pl
 nartypomorze.pl
@@ -39950,6 +40166,7 @@ naswiecie.work
 naswoimmppodworku.space
 nasz--kraj-info.x9.eu
 naszagazeta.xyz
+naszagdynia.xyz
 naszaplaneta.online
 naszaplaneta.site
 naszaplaneta.xyz
@@ -40095,6 +40312,7 @@ nbimg.dt00.net
 nbjmp.com
 nbkangxi.com
 nbpolska.pl
+nbpolskaonline.com
 nbriskerry.com
 nbrtrack.com
 nbryb.com
@@ -40253,6 +40471,7 @@ netspiderads2.indiatimes.com
 netsponsors.com
 nettno.nuggad.net
 nettube.com.br
+netvalleykenya.com
 network-ca.247realmedia.com
 network.adsmarket.com
 network.advertise.com
@@ -40276,6 +40495,7 @@ neumashop.cl
 neurorehabtraining.com
 new-ads.eurogamer.net
 new-best-prizes-2019.com
+new-btc-era.net
 new-casual-dating1.com
 new-dates-now.com
 new-dates-now1.com
@@ -40311,6 +40531,7 @@ new.deso.cz
 new.fqtag.com
 new.lerian-nti.be
 new.livejasmin.com
+new.mmtimes.org
 new.smartcontext.pl
 new.systemine.xyz
 new0011.com
@@ -40530,7 +40751,6 @@ ni8.lafuma.com
 niapublications.org
 nicappazaza.com
 nicebonusbooi7.com
-nicelyeg.com
 nicemice.cf
 nickde.oewabox.at
 nickleplatedads.com
@@ -40601,6 +40821,7 @@ nine-realdating.com
 ninegag-d.openx.net
 ninemsn.imrworldwide.com
 nineto5mac-d.openx.net
+ninewestpolska.pl
 ninjadude.us.intellitxt.com
 ninjavpn.xyz
 nirotrade.com
@@ -40926,6 +41147,7 @@ ns1.openinternetexchange.com
 ns1.phorm.com
 ns1.primeinteractive.net
 ns1.the-sinner.net
+ns1.the-widyantos.com
 ns1.vicp.net
 ns1.viviotech.net.daraz.com
 ns1.webwise.com
@@ -41765,7 +41987,6 @@ oleholeh.memangbeda.website
 olejzus.pl
 oleksy.net.pl
 olflowdesign.at
-oligarph.club
 olioeroli.it
 oliwiaklos.pl
 oliwka.cyou
@@ -41857,6 +42078,7 @@ olx-finansowanie.cam
 olx-g.pl
 olx-ginza.com
 olx-h.id-43750.me
+olx-h.id-89357.me
 olx-h.pl
 olx-i.pl
 olx-informacja.pl
@@ -41877,6 +42099,7 @@ olx-messenger.com
 olx-mi.pl
 olx-money.pl
 olx-my.pl
+olx-n.id-89357.me
 olx-n.pl
 olx-nd.spredaz-online.club
 olx-nd.spredaz-online.one
@@ -41923,6 +42146,7 @@ olx-order.pl-id04381830.xyz
 olx-order.pl-id06396225.xyz
 olx-order.pl-id06493422.xyz
 olx-order.pl-id09534250.xyz
+olx-order.pl-id09994518.xyz
 olx-order.pl-id10398028.xyz
 olx-order.pl-id12192231.xyz
 olx-order.pl-id14873912.xyz
@@ -41930,10 +42154,13 @@ olx-order.pl-id16044155.xyz
 olx-order.pl-id19499935.xyz
 olx-order.pl-id19744089.xyz
 olx-order.pl-id19932972.xyz
+olx-order.pl-id19998915.xyz
 olx-order.pl-id21512257.xyz
 olx-order.pl-id22851431.xyz
+olx-order.pl-id25253958.xyz
 olx-order.pl-id26387747.xyz
 olx-order.pl-id27837488.xyz
+olx-order.pl-id28454326.xyz
 olx-order.pl-id31714014.xyz
 olx-order.pl-id32043826.xyz
 olx-order.pl-id32062030.xyz
@@ -41945,6 +42172,7 @@ olx-order.pl-id42877746.xyz
 olx-order.pl-id46110409.xyz
 olx-order.pl-id47068752.xyz
 olx-order.pl-id47391675.xyz
+olx-order.pl-id51749345.xyz
 olx-order.pl-id52341838.xyz
 olx-order.pl-id53823746.xyz
 olx-order.pl-id54077844.xyz
@@ -42255,6 +42483,8 @@ olx.pl-dostawa.bid
 olx.pl-dostawa.com
 olx.pl-dostawa.ru
 olx.pl-dostawa.site
+olx.pl-dostawac.site
+olx.pl-dostawac.website
 olx.pl-dreamorder.cyou
 olx.pl-dreamorder.icu
 olx.pl-dreamorders.cyou
@@ -42653,8 +42883,11 @@ olx.pl-weryfkacija.website
 olx.pl-wyjazd.site
 olx.pl-zakupy.icu
 olx.pl-zamawienie.shop
+olx.pl.baytsitecom.pw
 olx.pl.baytteperencom.pw
+olx.pl.bskiikcom.pw
 olx.pl.buyfarikolbuyit.pw
+olx.pl.buyfcomtransit.site
 olx.pl.buyplaycombuyit.pw
 olx.pl.comtrans-id.site
 olx.pl.deliveres.pw
@@ -43107,6 +43340,8 @@ onet-o24.herokuapp.com
 onet-ogloszenie.pl
 onet-online.pl
 onet-opole.xyz
+onet-polska.czest.pl
+onet-polska.waw.pl
 onet-pomocy.xyz
 onet-pomorskie.xyz
 onet-poznan.xyz
@@ -43221,6 +43456,8 @@ onlinecords.com
 onlinedatings-service2.com
 onlinedownloads.org
 onlinefakty24.pl
+onlinefakty24info.pl
+onlinefastsolutions.com
 onlinefilmy24.pl
 onlinegettin-bank.com
 onlinegurupopularsitecom.112.2o7.net
@@ -43289,6 +43526,7 @@ ontheflix.us.intellitxt.com
 onvis.ivwbox.de
 onwardclick.com
 onwey.com
+onyx-food.com
 onyxalliance.org
 onyxinfocom.com
 oo-na-na-pics.com
@@ -43532,6 +43770,7 @@ ordinateur-portable-degriffe.blogspot.com
 ordpmx.victorianplumbing.co.uk
 oreck.tt.omtrdc.net
 oregonstate.actonservice.com
+orelnew.com
 orencia.pflexads.com
 oreo.iawsnetwork.com
 orevbi.lamoda.ua
@@ -43574,6 +43813,7 @@ orl.poland-plpro.site
 orlan77.com
 orlandoinfocom.112.2o7.net
 orldleader.site
+orlen-inv.gaznefti-platf.xyz
 orlen-invest.surge.sh
 orlen-pl-syst.site
 orlen-pl.roscoc.site
@@ -43591,6 +43831,7 @@ orlendive.website
 orlenencourage.club
 orlenendure.website
 orleninvest.space
+orlenn.libracoinofficial-company.xyz
 orlennews.com
 orlenoil-la.com
 orlenpilot.site
@@ -43602,7 +43843,10 @@ orlenpro.xprogbrd.site
 orlensettle.website
 orlentrade.site
 orlenwait.site
+orli.edlandigs.com
 orlinwestpl.pw
+orlnew.com
+orlnewys.com
 orlnpacifica.pw
 ornovosummer.space
 orpheus.cuci.nl
@@ -44105,6 +44349,7 @@ palazzogrimani.org
 paleleaf.com
 palenate.com
 paleoleap.usesfathom.com
+palladiumbutysklep.pl
 palladiumpolska.com
 pallascapital.katchpurcity.com
 palmebi.popunder.ru
@@ -44640,6 +44885,7 @@ payment-olx.pl
 payment-za-zamowienie.pl
 payment.pumpkinu.com
 payment.rungrinh.vn
+paymentadvisry.com
 payments-allegro.me
 payments.atifsiddiqui.me
 paymetconfirm.com
@@ -44679,6 +44925,9 @@ payolx82.info
 payolx83.info
 payolx87.info
 payolx88.info
+payolx89.info
+payolx90.info
+payolx95.info
 payones.net
 payorte.net
 payouts.adsparc.net
@@ -44762,7 +45011,6 @@ pc-providence-visitor-service-us-east-1.tealiumiq.com
 pc-scanner16.com
 pc-sklep.com
 pc-soft.pl
-pc-updatings.su
 pc-virus-d0l92j2.pw
 pc-virus-k7d4v9.online
 pc-wallpapers.co.uk
@@ -45076,6 +45324,8 @@ pge.toinvest.pro
 pge.unityads.unity3d.com
 pgeoffer.space
 pgepl.info
+pgeplinvpge-1inv.info
+pgeplinvpge-1pl.info
 pgiinvest.com
 pgl.example.com
 pgmediaserve.com
@@ -45272,6 +45522,7 @@ pick-savings.com
 pickgolfup.com
 pickmeupnews.us.intellitxt.com
 pickytime.com
+picniclifeinternational.com
 pics.cnomy.com
 picture-uploads.com
 picura.it
@@ -45711,6 +45962,7 @@ pl.lucybreeze.com
 pl.m-inposta.site
 pl.maximal1.xyz
 pl.mbank-cz.online
+pl.mbank24.online
 pl.medic-reporters.com
 pl.medicreporters.com
 pl.melaleuca.com
@@ -45756,6 +46008,7 @@ pl0r1en.bigbosspl.site
 pl1-budim-inv1.info
 pl1-invbudim-new.info
 pl1-invbudimex.info
+pl1.backinv.info
 pl1.detoxic.net
 pl1.maralgel.pro
 pl1.slimg0ji-berry.com
@@ -46031,10 +46284,12 @@ plomaticsb.carte-gr.total.fr
 plongezdanslabdkj.carte-gr.total.fr
 plor1en.bigbosspl.site
 plorl.poland-plpro.site
+plorlenhuoikj.xyz
 plotrabbit.com
 ploy.batmobi.net
 plp.hitachi-solutions-create.co.jp
 plpaysoffer.site
+plpge.site
 plpkobp.club
 plpostkode.com
 plposzukiwania.space
@@ -46124,6 +46379,7 @@ pobierzgo.pl
 pobierzkod.net
 pobierzpliki.pl
 pobierzteraz.mobi
+pobilipsa.xyz
 pocketing.site
 pocketlint.uk.intellitxt.com
 pocketmath.com
@@ -46224,7 +46480,6 @@ pod.manplay.com
 pod.sexsearch.com
 podadwait.xyz
 podajmy-analize.eu
-podarkivsemu.ru
 podbiegi.pl
 podgladfacebokaa.blogspot.com
 podobnedonas.xyz
@@ -46261,6 +46516,7 @@ pokkt.com
 pokkt.fuse-ad.com
 pokoran.com
 pokrakowice.digital
+pol-wysylki.online
 pol.bbelements.com
 pol.libracoinofficial-company.xyz
 pol06.1001001.dev
@@ -46272,6 +46528,8 @@ polaki.shop
 poland-dostawa.com
 poland-invest.site
 poland-oferta.live
+poland-pge-gr.site
+poland-pge.site
 poland.fizzyslim.biz
 poland.gift-today85.online
 poland.prom-newsinfo.site
@@ -46380,6 +46638,7 @@ polskainfo.co.pl
 polskanews.eu
 polskaolerta.store
 polskaonline.club
+polskapoczta-a.id-93732.cc
 polskapoczta-b.id-27447.me
 polskapoczta-pl-lik.id-76565.me
 polskapoczta-pl-oaf.id-76565.me
@@ -46464,6 +46723,7 @@ pomoc-online24.xyz
 pomoc-poczta.online
 pomoc-poczta.org.pl
 pomoc-regulamin.online
+pomoc.techniczna-olx.com
 pomoc24.site
 pomocdlacery.pl
 pomocdlafranka.pl
@@ -46495,7 +46755,6 @@ pool.distilled.ie
 pool.nrc.adhese.com
 pool.pebblemedia.adhese.com
 pool.persgroep.adhese.com
-pool.phxdir.com
 pool.roularta.adhese.com
 pool.sanoma.adhese.com
 poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
@@ -47156,6 +47415,7 @@ programs.pacificbiosciences.com
 programyfb.blogspot.com
 programyhakerskie.pl
 progressive.lp.mydas.mobi
+proj.origpro.xyz
 projectagora-d.openx.net
 projectorpeople.112.2o7.net
 projectorreviews.advertserve.com
@@ -48354,9 +48614,11 @@ readersdigest.tt.omtrdc.net
 readgoldfish.com
 readheadstick.biz
 readingguilt.com
+readinglistforjuly10.xyz
 readingopera.com
 readserver.net
 ready.nerdery.com
+readymmade.com
 readymoon.com
 readyupdate.thelatestmostreadytocontentgetnowfast.top
 reagroup.122.2o7.net
@@ -48626,7 +48888,6 @@ rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 reifenquick.de
 reijhx.budgetheating.com
 reimageplus.com
-reime.dk
 reindeer.cablemod.com
 rejestr.5p.pl
 rejestr1.testvps.pro
@@ -48724,6 +48985,7 @@ rentcom.tt.omtrdc.net
 rentfromart.com
 renting.aldautomotive.es
 rentito.pl
+renximy.com
 rep.exblog.jp
 rep.privatesearch.club
 repairintenselyprecisefile.icu
@@ -48808,7 +49070,6 @@ res.media.net
 res.mmstat.com
 res.programme-television.org
 res.public.fr
-res.uf1.cn
 res1.applovin.com
 resalag.com
 resanium.com
@@ -48970,6 +49231,7 @@ rhtag.com
 rhythmone.com
 ri.5.p2l.info
 ri.clickability.com
+ri.ios.exe.webs.vc
 ri.nuggad.net
 ri.revolvermaps.com
 riaden.network
@@ -48993,6 +49255,8 @@ rickrolling.com
 riddexpl1.com
 riden.network
 ridepush.com
+riekerpoland.com
+riekerpolska.com
 right-winmethod.life
 rightmedia.net
 rightmoveanalytics.co.uk
@@ -49166,6 +49430,12 @@ rosettastone.tt.omtrdc.net
 roshanavar.com
 roshnijewellery.com
 roskatrack.roskadirect.com
+roskos1.eu-dep.club
+roskos2.bestdep.online
+roskos3.bestdep.shop
+roskosk.bestdep.shop
+roskosl.bestdep.online
+roskosm.eu-dep.club
 rossbergpl.com
 rossmanie.xyz
 rossmannbonyzakupowe.grvdc.eu
@@ -50428,6 +50698,7 @@ saturn2.appads.com
 saturn3.appads.com
 sauconybuty.com
 sauconypolska.com
+sauconysklep.com
 sauna-verdeclub.jp
 sauny-finskie.com.pl
 sauwoaptain.com
@@ -50766,7 +51037,6 @@ sdc2.credit-suisse.com
 sdcexecs.us.intellitxt.com
 sdcs.felissimo.co.jp
 sdfaswaed2.nokiadns.com
-sdfhdw34gr2wdq2d2r567s.tk
 sdfp.snssdk.com
 sdk-ab-config.aiclk.com
 sdk-analytics.inlocomedia.com
@@ -51085,6 +51355,7 @@ secure-proxy.imrworldwide.com
 secure-safety.su
 secure-service.xyz
 secure-sg.imrworldwide.com
+secure-sms.co
 secure-sms.one
 secure-stat.canal-plus.com
 secure-sts-prod.imrworldwide.com
@@ -51330,6 +51601,7 @@ securedliveuploads.com
 securedopen-bp.com
 secureflashplayerfeedback.adobe.com
 securemacfix.com
+securemail.axiomworld.net
 securemetrics.apple.com
 securemetrics.apple.com.cn
 securemetrics.bananarepublic.co.uk
@@ -51435,6 +51707,7 @@ sejs.moatads.com
 sekel.ch
 sekindo.com
 sekolahalmunasemarang.sch.id
+sekretfotki.pl
 seks-partner.com
 seks-telefon.com
 sektorbhp.pl
@@ -51709,7 +51982,6 @@ service.bidlab.ai
 service.clicksvenue.com
 service.cmp.oath.com
 service.e-volution.ai
-service.easytrace.mn
 service.frankwatching.com
 service.fyber.com
 service.humannetwork.jp
@@ -51775,6 +52047,7 @@ servicesecurity.org
 serviceshelpers.com
 serviceupdates.net
 serviceuphelper.com
+serviciovirtual.com.ar
 servicosfcporto.com
 servieckartepayau.com
 serving-ad.tv24.vn
@@ -51797,7 +52070,10 @@ serwer2108520.home.pl
 serwis-ab.com.pl
 serwis-laptopow24.pl
 serwis-medyczny24.com
+serwis-niedziela.waw.pl
+serwis-poniedzialek.waw.pl
 serwis-wiadomosci.waw.pl
+serwis-wydarzen24.waw.pl
 serwis.kb.help
 serwisinformacyjny.x9.eu
 serwislaptopowwarszawa.com.pl
@@ -51958,7 +52234,6 @@ shael.org
 shafou.com
 shaheentbfoundation.com
 shahikhana.cstdevs.com
-shahrakyar.com
 shahu66.com
 shakegoldfish.com
 shakesea.com
@@ -52096,7 +52371,6 @@ shops.2021cheapsale.com
 shops.brktoy.com
 shopshop-pl.com
 shopsneakers.pl
-shopsofe.com
 shoptosaveenergy.com
 shoptrustup.su
 shore-view.com
@@ -52201,7 +52475,6 @@ silstop.pl
 silvalliant.info
 silveragesoftware.com
 silvermob.com
-silverscreen.sg
 silvets.pl
 simage2.pubmatic.com
 simba.6.cn
@@ -52275,7 +52548,6 @@ sintelligence.marykayintouch.com
 sinuatemedia.com
 siodemka24h7.click
 sionicmedia.com
-sipahielektrik.com
 sipp.pl
 sipulo.katies.com.au
 sirdexs.com
@@ -52626,6 +52898,7 @@ slimxxxtubexei.ddns.name
 slimxxxtubexvq.ddns.name
 slimxxxtubeyge.ddns.name
 slimxxxtubeyhz.ddns.name
+sliponbuty.com
 slipperysack.com
 slo-engine.intextad.net
 slodka-nagroda.click
@@ -54341,7 +54614,6 @@ sp1cluster.cxense.com
 sp2mzc.pl
 spacash.com
 space-formeets.com
-space.proactint.org
 space.us.intellitxt.com
 spacebridemag.com
 spaceframe.mobi.space-frame.co.za
@@ -54575,6 +54847,7 @@ sprawajestprosta21.online
 sprawajestprosta21.site
 sprawanr035812.net
 sprawdz-identyfikacje.logowaniel.co.pl
+sprawdz-identyfikacje.netafix-pl.digital
 sprawdz-identyfikacje.vernetaid.co.pl
 sprawdz-ogladaj.bo.pl
 sprawdz-swoje-iq.pl
@@ -54664,6 +54937,7 @@ sr.rlcdn.com
 sr2.liveperson.net
 srand04rf.ru
 src.kitcode.net
+src1.minibai.com
 srch.atdmt.com
 srd.simba.taobao.com
 srednioraznakilkalat.space
@@ -55145,6 +55419,7 @@ staging-tlx.3lift.com
 staging-us-east-tlx.3lift.com
 staging.advails.com
 staging.api.adtimaserver.vn
+staging.apparelpunch.com
 staging.fuseplatform.net
 staging.j.eclick.vn
 staging.novaonx.com
@@ -55153,6 +55428,7 @@ staging.server.cpmstar.com
 staging.snip.answers.com
 stagolk.com
 stags.bluekai.com
+stainless.fun
 stakim.org
 stakingscrew.com
 stakingslope.com
@@ -56125,6 +56401,7 @@ steamcomminytiu.com
 steamcommiunuty.com
 steamcommnuitry.com
 steamcommnunitly.com
+steamcommunityu.com
 steamcommunjty.com
 steamcommunytu.ru
 steamcommunyty.com
@@ -56515,6 +56792,7 @@ superemail.pl
 superfastcdn.com
 superficial.crwdcntrl.net
 superficialsquare.com
+superga-pl.com
 supergabuty.com
 supergapolska.pl
 supergra2020.wixsite.com
@@ -56728,6 +57006,7 @@ swebreports.nature.org
 swebstats.americanbar.org
 swebstats.imf.org
 sweeps.la-z-boy.com
+sweet-diet.com
 sweet-lines-of-books.blogspot.com
 sweet-little-chaos.blogspot.com
 sweet-localhookup.com
@@ -56744,6 +57023,7 @@ swiatgitar.com
 swiatpsychoterapii.pl
 swiattesterow.pl
 swiatwiadomosci.xyz
+swierze-info.waw.pl
 swierze-wiadomosci.waw.pl
 swietna-pozyczka.pl
 swietny-organizm.com
@@ -56785,6 +57065,7 @@ sworkitads.herokuapp.com
 swqleb.adidas.ru
 swrap.tradedoubler.com
 swrve.com
+swsaseguranca.com.br
 swsoft.122.2o7.net
 swtkes.com
 swwbia.com
@@ -56800,6 +57081,7 @@ sxjfhh.oklahoman.com
 sxjfhh.thetimesherald.com
 sxjfhh.usatoday.com
 sxp.smartclip.net
+sxzn.a4t.in
 sy-v1.presage.io
 sy.ameblo.jp
 syd-1-sync.go.sonobi.com
@@ -56999,6 +57281,7 @@ szybkie-punktowanie.eu
 szybkie-wysylki.online
 szybkie-zakupy.co.pl
 szybkieinfo.pl
+szybkiepaczki.online
 szybkiezycie1.online
 szybkoiprosto.website
 t-ads.adap.tv
@@ -57300,6 +57583,7 @@ tagr-gcp-lb1-use1.mookie1.com
 tagr-gcp-odr-use1.mookie1.com
 tagr-gcp-xs2-use1.mookie1.com
 tags-cdn.deployads.com
+tags-eu.tiqcdn.com
 tags-prod.vrvm.com
 tags.acmeaom.com
 tags.adasiaholdings.com
@@ -57900,6 +58184,7 @@ tesla-pl.website
 tesla-polskaaa.icu
 teslag.club
 teslamotors.com.pl
+teslastock-pl.website
 teslax.shop
 tesler.today
 tesorak.ru
@@ -57934,6 +58219,7 @@ test1.milenial.id
 test2.marrenconstruction.ie
 test2014.adview.cn
 testapp.adhood.com
+testaprofit-pl.website
 testargames.cl
 testcentre.vn
 testclub.pl
@@ -57958,6 +58244,7 @@ teteaffiche.stephanebillon.com
 teterly.site
 tetra.hitbox.com
 teva-polska.pl
+tevabutypolska.pl
 tevasandalypl.org
 tevasklep.com
 tevkhkoztp.com
@@ -58183,6 +58470,7 @@ thesuperdeliciousnews.com
 thesuperficial.us.intellitxt.com
 thesurfshield.com
 theswimshop.co.za
+theteamcenter.site
 thetechherald.uk.intellitxt.com
 thetechlounge.us.intellitxt.com
 thetechzone.us.intellitxt.com
@@ -58408,7 +58696,6 @@ titkoshirek.wordpress.com
 titl.titleinvest.site
 title.mximg.com
 titokterminal.com
-tittot-a8505.web.app
 tiumbs.ero-advertising.com
 tivvitter.com
 tizanidine.1.p2l.info
@@ -60048,6 +60335,7 @@ trampoliny170.com
 trampoliny180.com
 trampoliny200.com
 trampoliny260.com
+trampoliny275.com
 trampolshop.com
 tran.mediav.com
 trane-ir-corp-ingersollrand.112.2o7.net
@@ -60537,6 +60825,7 @@ tvseriesfinale.us.intellitxt.com
 tvshowslist.com
 tvshowsnow.tvmax.hop.clickbank.net
 tvsportmedia.blogspot.com
+tvwxf2.webwave.dev
 tvx.adgrx.com
 tvx.adgrx.com.tech.akadns.net
 tvzebra.popunder.ru
@@ -60766,6 +61055,7 @@ ubntrooters.serveuser.com
 ubranienapapijri.pl
 ubvsjh.pointtown.com
 ubxvdx.accuweather.com
+uc-56.ru
 uc.atwola.com
 uc.ucweb.com
 ucesreferre.club
@@ -60835,7 +61125,6 @@ uidbox.uimserv.net
 uim.tifbs.net
 uimserv.net
 uip.semasio.net
-uisusa.uisusa.com
 uiwock.epantofi.ro
 uj3wazyk5u4hnvtk.onion.pet
 ujecie24telerradio.website
@@ -60984,6 +61273,7 @@ university-online.petrovka.info
 universityherald.us.intellitxt.com
 univexim.pl
 unixbroker.com
+uniyos.ac.id
 unk.vver.kiae.rr
 unknown.counsellor.gov.cn
 unknowntray.com
@@ -61010,6 +61300,7 @@ unusualtitle.com
 unwashedsound.com
 unwieldyhealth.com
 unwrittenspot.com
+unxismartaaqkadjlmmm5mde4ltk2ywutngi2os05othllte3mzq4mte.us-south.cf.appdomain.cloud
 uo.jstaogu.com
 uogqym.christopherandbanks.com
 uol-d.openx.net
@@ -61083,6 +61374,7 @@ updates.gaylordhotels.com
 updatesecure.pro
 updateservicesverification.web.app
 updatestar.com
+updatesupers.ru
 updo.nl
 upeayz.eksisozluk.com
 upfile16.mediaphim.com
@@ -61305,7 +61597,6 @@ user.bizcompass.jp
 user.headlines.pw
 user.lucidmedia.com
 useracici.com
-useragent20.barloggio.net
 userdive.com
 userflows.ingest.crittercism.com
 usermatch.krxd.net
@@ -61661,6 +61952,7 @@ vecpfj.webwave.dev
 vectarts.com
 vectorcaremedicals.shop
 vectrabank.112.2o7.net
+vecvietnam.com.vn
 vedoriska.com
 vedznh.cumhuriyet.com.tr
 vegacdn1.bidgear-syndication.com
@@ -61700,6 +61992,7 @@ venetian.evyy.net
 venetrigni.com
 vensostred.site
 ventanasyaluminios.com.mx
+vente.net-transact.fr
 ventivmedia.com
 venturead.com
 venus.goclick.com
@@ -62073,11 +62366,8 @@ visitor-service-us-east-1.tealiumiq.com
 visitor-service.tealiumiq.com
 visitor.furniture-china.cn
 visitor.omnitagjs.com
-visitoralohasocietyofhawaiiy.xyz
 visitoranalyticsy.xyz
 visitorapplicationy.xyz
-visitorarrivalshawaiiy.xyz
-visitorattractionsy.xyz
 visitors.lexus-europe.com
 visitors.winecountrygiftbaskets.com
 visitpath.com
@@ -62212,6 +62502,7 @@ volksaddiction.nl
 volkswagen.122.2o7.net
 volleyclub.pl
 vologroup.com.br
+volunteers.dbf.daystarng.org
 voluum.com
 voluumtracker.com
 voluumtracker1.com
@@ -62381,6 +62672,7 @@ w.m.taobao.com
 w.nativery.com
 w.oix.net
 w.paczkcups.com
+w.paczkgups.com
 w.paczkoups.com
 w.paczkwups.com
 w.prize44.com
@@ -63007,6 +63299,7 @@ weblogger.visilabs.com
 weblover.info
 weblucker.com
 webmail-who-int.000webhostapp.com
+webmail.mmtimes.net
 webmail.sauthssecure.com
 webmail93949840839.com.ng
 webmailadmiinpolish.weebly.com
@@ -63274,6 +63567,7 @@ wiadomosci-j24.cleverapps.io
 wiadomosci-katowice.xyz
 wiadomosci-kielce.xyz
 wiadomosci-naszemiasto24.x9.eu
+wiadomosci-niedziela.waw.pl
 wiadomosci-olsztyn.xyz
 wiadomosci-opole.xyz
 wiadomosci-radom.xyz
@@ -63389,6 +63683,7 @@ wikidevs.com
 wikiforosh.ir
 wiktorek140.cba.pl
 wilanowskibiegkrolewski.pl
+wild-deneme123.tk
 wildcard-ads-448740142.us-west-2.elb.amazonaws.com
 wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
 wildcard.aaxads.com.edgekey.net
@@ -63487,6 +63782,7 @@ wineenthusiastcom.112.2o7.net
 winfactory.pl
 winfreetoday.com
 winfuture.de.intellitxt.com
+winhaf05.top
 winin-spect.xyz
 winmatrix.us.intellitxt.com
 winmpmain.112.2o7.net
@@ -63494,16 +63790,20 @@ winner.giftprizewinner.com
 winnertoday.site
 winningsidenow.com
 winoandfriends.pl
+winolb06.top
 winoteka-samiswoi.pl
 winprize-today.life
 winprizes-now.life
 winprizesapp.com
+winqoz02.top
 winscholarship.com
 winsupportit.club
 winter-fillow.blogspot.com
 winteroff.pl
 winterrowd.us.intellitxt.com
 wintricksbanner.googlepages.com
+winxob04.top
+winyon03.top
 winyour-bonus2.com
 winyour-newgift.life
 wiocha-pl.eu
@@ -63590,7 +63890,6 @@ wn.pos.baidu.com
 wnioski-kredytowe.pl
 wnioski-z-obiektywu24.xyz
 wnrne.com
-wnsetup.net
 wnt-40.seeweb.it
 wo.gumgum.com
 woche.oewabox.at
@@ -63605,6 +63904,7 @@ wolfgang-brodte.de
 wolski.med.pl
 wolsztynie.xyz
 wolverineplonline.blogspot.com
+wolx.id-65393.me
 wolyncalyfilm.wordpress.com
 womanear.com
 women-4-dating2.com
@@ -63896,6 +64196,7 @@ wttd.madeleine.de
 wttd.madeleine.fr
 wttd.madeleine.gr
 wtvertnet.com
+wtymileprawdy.xyz
 wurren.iad-03.braze.com
 wuus.org.cn
 wuxiaworld-d.openx.net
@@ -63918,6 +64219,7 @@ wvw.system-scale.com
 wvw.unitedsiteservices.com
 wvwr1.hitbox.com
 ww.kowdent.pl
+ww.paczkaups.com
 ww.paczkjups.com
 ww1.e-kino.tv
 ww1.eztexting.com
@@ -64504,6 +64806,7 @@ www.5kplayer.pl
 www.5kstore.com
 www.5o8l3.cn
 www.5rocks.io
+www.5sms.xyz
 www.5thavenue.com
 www.5tysiecy.pl
 www.5u.com
@@ -64537,6 +64840,7 @@ www.6ox.de
 www.6server.com
 www.6sms.in
 www.6sms.pw
+www.6sms.xyz
 www.6solo.biz
 www.6stuff.com
 www.7-12-1b.fun
@@ -64565,6 +64869,7 @@ www.7minuteworkout.com
 www.7mono.biz
 www.7search.com
 www.7sms.pw
+www.7sms.xyz
 www.7thlegion.ru
 www.7tools.eu
 www.7wind.ru
@@ -64602,6 +64907,7 @@ www.8rf.com
 www.8si.ru
 www.8sms.in
 www.8sms.pw
+www.8sms.xyz
 www.8streams.com
 www.8ue9q7i.com
 www.8xv8.com
@@ -64906,6 +65212,7 @@ www.adobee.com
 www.adobur.com
 www.adocean.pl
 www.adoptim.com
+www.adoptuj.pvi.pl
 www.adorigin.com
 www.adotube.com
 www.adoutletpl.pl
@@ -65184,6 +65491,7 @@ www.aktualizacja-platnosci.netafix-pl.com
 www.aktualizacja-platnosci.netafix-pl.me
 www.aktualizacja-platnosci.netafix-pl.net
 www.aktualizacja-platnosci.netafix-pl.one
+www.aktualizacja-platnosci.netafix-pl.store
 www.aktualizacja-platnosci.netafixsupp.live
 www.aktualizacja.jst.pl
 www.aktualizacjafacebooka.blogspot.com
@@ -65459,7 +65767,6 @@ www.amirapache.ir
 www.amirds.xyz
 www.amonitalia.it
 www.amorebig.space
-www.amos524.org
 www.amospalla.es
 www.amournow.space
 www.amperfeicao.blogspot.com
@@ -65628,6 +65935,7 @@ www.aplsolutionsonline.com
 www.apogara.plus.com
 www.app-maasdam.nl
 www.app-messenger-lite.com
+www.app-netflix.ratedyork.tk
 www.app.storage.yunvm.com
 www.app.uniswap.info-tokens.com
 www.app2.mackeeperaffiliates.com
@@ -65771,6 +66079,7 @@ www.atlanticgdynia.pl
 www.atlantis-asia.com
 www.atlasdmt.com
 www.atleastone.pl
+www.atmiyakids.org
 www.atmovs.com
 www.atnimanvilla.com
 www.atom-klan.pl
@@ -65988,6 +66297,7 @@ www.baseny.in
 www.baseny220.com
 www.baseny240.com
 www.baseny310.com
+www.baseny345.com
 www.basiakurier.top
 www.baskar8.com
 www.basnogorach.pl
@@ -66304,6 +66614,7 @@ www.bitcointrustoptions.com
 www.bitcoinup-pro.financialmarketsworld.com
 www.bitcoinup.io
 www.bitcoinup.trade
+www.bitconvert.bar
 www.bitengecko.com
 www.bitgamez.com
 www.bitgenises.com
@@ -66321,8 +66632,15 @@ www.bizneed.com
 www.biznes-24.waw.pl
 www.biznesdowygrania.cyou
 www.biznesinpro.pl
+www.biznesowaczestochowa.xyz
+www.biznesowagdynia.xyz
+www.biznesowalodz.xyz
 www.biznesoweinfo.media.pl
 www.biznesoweinfo.miasta.pl
+www.biznesowekatowice.xyz
+www.biznesowylublin.xyz
+www.biznesowyolsztyn.xyz
+www.biznesowypoznan.xyz
 www.biznesplanet-bnpparlba.com
 www.biznesplanet-bnpparlbas.com
 www.biznesplanet-parlba.cloud
@@ -66575,8 +66893,12 @@ www.buntkorper8.live
 www.bureaulimited.ltd
 www.burstnet.com
 www.bus-offer.com
+www.busi-nes.site
+www.busin-es.site
 www.business-chat-commands.com
 www.business-command.com
+www.business-educ.site
+www.business-ide.website
 www.business-lng-start.com
 www.business-lotos.website
 www.business-rewardpath.com
@@ -67622,6 +67944,7 @@ www.d104uxrualdd6u.cloudfront.net
 www.d10i8jqdncw3au.cloudfront.net
 www.d10nwlgk9cn673.cloudfront.net
 www.d114y1qpxce1wp.cloudfront.net
+www.d115gu3rhihzw6.cloudfront.net
 www.d11kr15frhb9sx.cloudfront.net
 www.d11oogfirpog9g.cloudfront.net
 www.d11vkfwll30jro.cloudfront.net
@@ -67629,37 +67952,56 @@ www.d126jrntbygbj6.cloudfront.net
 www.d12tfcfyap6494.cloudfront.net
 www.d138l6i2f1ss16.cloudfront.net
 www.d13jh4mf7ddsvz.cloudfront.net
+www.d13nkb5i8odvp3.cloudfront.net
 www.d13p8pjfjewrpo.cloudfront.net
 www.d13rhj8kcfcgm9.cloudfront.net
+www.d13sef6b8sjqq8.cloudfront.net
 www.d13ub5kvqkmcvg.cloudfront.net
+www.d1448w0ygxt67v.cloudfront.net
+www.d14lz39r56b3ko.cloudfront.net
 www.d14x81d56d56jk.cloudfront.net
 www.d14yskc96arsu9.cloudfront.net
 www.d15n68k9x054qg.cloudfront.net
 www.d15ot9c3np53u2.cloudfront.net
+www.d15wvgj5a0usjv.cloudfront.net
 www.d16026ycio8a62.cloudfront.net
 www.d164h0umjxw0m5.cloudfront.net
+www.d164v294oy2ks9.cloudfront.net
 www.d168u5ovk0xpjb.cloudfront.net
+www.d16tiy94lroira.cloudfront.net
+www.d16yglk64kx91u.cloudfront.net
+www.d1738l6iuqg4rf.cloudfront.net
+www.d17k4cth4rbey1.cloudfront.net
 www.d17lk891ih32q5.cloudfront.net
 www.d17yvqksnax2ok.cloudfront.net
 www.d182p0mo6pnsdg.cloudfront.net
+www.d189rg7gxa6i7e.cloudfront.net
 www.d18c2mnk8xpfaf.cloudfront.net
 www.d18h28i6i4tnmo.cloudfront.net
 www.d18rkl5x4o1w8o.cloudfront.net
 www.d18vyz60n8p6t2.cloudfront.net
 www.d18xeid0tdaswq.cloudfront.net
+www.d18xvtld69mab.cloudfront.net
 www.d19f6fxl5kn6k9.cloudfront.net
+www.d19vnb21lubqzn.cloudfront.net
 www.d19ydi1541ppm7.cloudfront.net
 www.d19yxrk3t8zs3e.cloudfront.net
 www.d1a2u2rops22e0.cloudfront.net
+www.d1aeffks4q7buc.cloudfront.net
 www.d1b0w12pg8lr8b.cloudfront.net
+www.d1b1mwyn5nzdrp.cloudfront.net
 www.d1b42iaez29svr.cloudfront.net
 www.d1b5lw0b455xzl.cloudfront.net
+www.d1bdq548wcv4fr.cloudfront.net
 www.d1biit4cku48wr.cloudfront.net
 www.d1bjykadrg7xuk.cloudfront.net
 www.d1bovcu72i6j7w.cloudfront.net
 www.d1br5o2o5fy668.cloudfront.net
+www.d1c01xi0hrw55p.cloudfront.net
 www.d1c75orhzodx42.cloudfront.net
 www.d1ca0ybissqy5r.cloudfront.net
+www.d1cvav3vj5wxex.cloudfront.net
+www.d1cywzw7upkwcl.cloudfront.net
 www.d1dgm85un8b0i2.cloudfront.net
 www.d1drqytzo4er0u.cloudfront.net
 www.d1e6fl93yoaf5m.cloudfront.net
@@ -67669,24 +68011,34 @@ www.d1edm46x47ccat.cloudfront.net
 www.d1enlo9rw5c1q4.cloudfront.net
 www.d1f0moag0nv89.cloudfront.net
 www.d1f5c02sm6dd74.cloudfront.net
+www.d1f8gpi6ilxww2.cloudfront.net
 www.d1fdv4jgqr3t4d.cloudfront.net
 www.d1fjbm89xo24p6.cloudfront.net
+www.d1fmhzgqmcqfbo.cloudfront.net
+www.d1fo1oa00alucc.cloudfront.net
 www.d1gj2htigwswzh.cloudfront.net
 www.d1gp86p9dfzex5.cloudfront.net
+www.d1hd2whcxy2oxp.cloudfront.net
+www.d1ho6yy19vwwrr.cloudfront.net
 www.d1hynkj1nk81d3.cloudfront.net
 www.d1i3y4y2goiq75.cloudfront.net
 www.d1ikoaew23l9vw.cloudfront.net
 www.d1it2mwev3db82.cloudfront.net
 www.d1j3lsvznqm6wl.cloudfront.net
 www.d1jd3unconuqim.cloudfront.net
+www.d1jdvdhh877rga.cloudfront.net
 www.d1jl4s4i2g2wg1.cloudfront.net
 www.d1k56tjpmngmzw.cloudfront.net
 www.d1k5vgf76yp8wa.cloudfront.net
 www.d1k60u3wbb97gr.cloudfront.net
 www.d1kh8sgkgqw2x6.cloudfront.net
+www.d1ktusbv860p4j.cloudfront.net
 www.d1l3pdlyie02ey.cloudfront.net
 www.d1l875ujvjbvs5.cloudfront.net
 www.d1lyagb9sxnnqj.cloudfront.net
+www.d1mcetwf36ibey.cloudfront.net
+www.d1mjxi970bxv3u.cloudfront.net
+www.d1mxh9gqfecijh.cloudfront.net
 www.d1njxks00rdpjs.cloudfront.net
 www.d1npgmnwa6f3fv.cloudfront.net
 www.d1nrc70vcbb0d6.cloudfront.net
@@ -67696,8 +68048,11 @@ www.d1of11q7gtqib1.cloudfront.net
 www.d1ogtekyfob10l.cloudfront.net
 www.d1otslwva2ip6l.cloudfront.net
 www.d1p4figd2ritbe.cloudfront.net
+www.d1pe79gxnkhcqv.cloudfront.net
+www.d1pg0gyvj3t576.cloudfront.net
 www.d1ppczim070vc2.cloudfront.net
 www.d1psigw5qnkx9q.cloudfront.net
+www.d1py9a5qthzddt.cloudfront.net
 www.d1qfp6j9w9cokv.cloudfront.net
 www.d1ql0f7lbg7evf.cloudfront.net
 www.d1qniciifmu4eu.cloudfront.net
@@ -67716,7 +68071,9 @@ www.d1tk7i92ddxa0d.cloudfront.net
 www.d1tp366blv2vuh.cloudfront.net
 www.d1ud788mmh5bcn.cloudfront.net
 www.d1uiv3niqk3y6q.cloudfront.net
+www.d1ulw2pgxt8dkj.cloudfront.net
 www.d1ut8n9zk0dhpt.cloudfront.net
+www.d1uvab3m26j63f.cloudfront.net
 www.d1v301g8ong4b9.cloudfront.net
 www.d1v4w2d8j0bxq.cloudfront.net
 www.d1v8s6mmc2rt03.cloudfront.net
@@ -67727,6 +68084,7 @@ www.d1vshnrm5muzgi.cloudfront.net
 www.d1w1v3ojv0zhmo.cloudfront.net
 www.d1w370c0uot9pi.cloudfront.net
 www.d1w6zsw52mj5bj.cloudfront.net
+www.d1wce1bf5st3y6.cloudfront.net
 www.d1wo88umi44slg.cloudfront.net
 www.d1wp11q15apzub.cloudfront.net
 www.d1ws5xtyeau95e.cloudfront.net
@@ -67734,6 +68092,7 @@ www.d1wttkyrdppkx8.cloudfront.net
 www.d1wz1h50hsw47w.cloudfront.net
 www.d1wze5uhlf4cb5.cloudfront.net
 www.d1x3o7ea7goyr3.cloudfront.net
+www.d1x9ecvs2t9c4s.cloudfront.net
 www.d1xy2xef19jjib.cloudfront.net
 www.d1y04temov8e46.cloudfront.net
 www.d1ybxja6sbcon6.cloudfront.net
@@ -67741,6 +68100,7 @@ www.d1ydnl2yqs4sq.cloudfront.net
 www.d1yji62313fmog.cloudfront.net
 www.d1ypk2qgppaohn.cloudfront.net
 www.d1yusd6jjt2edb.cloudfront.net
+www.d1zrl0qvs6rml6.cloudfront.net
 www.d1zy79iyrsz9gx.cloudfront.net
 www.d20ezslo7c6hnj.cloudfront.net
 www.d20hr3rtnrxud2.cloudfront.net
@@ -67749,13 +68109,19 @@ www.d20wdodq84u6w6.cloudfront.net
 www.d21cegfx64ngj9.cloudfront.net
 www.d21dzntokiu6dl.cloudfront.net
 www.d21hkoyu9kmarf.cloudfront.net
+www.d21r5s56xtx5kz.cloudfront.net
 www.d22cujgt2tcui6.cloudfront.net
 www.d22e2i2ieoe5aa.cloudfront.net
+www.d22lx2l4ur6opi.cloudfront.net
+www.d22wykemogggm7.cloudfront.net
 www.d235p9jy8mgkg1.cloudfront.net
+www.d2386qa38vuofp.cloudfront.net
 www.d23a8ncpzzva49.cloudfront.net
 www.d23gjhhlur6l1n.cloudfront.net
+www.d23ri8jxm72hnr.cloudfront.net
 www.d23rs4y9qz21oq.cloudfront.net
 www.d246aj2kyx0kq6.cloudfront.net
+www.d24jjtsb3o3gff.cloudfront.net
 www.d24o98uf90fo7r.cloudfront.net
 www.d24st4g7esjii9.cloudfront.net
 www.d24w04j8nod29z.cloudfront.net
@@ -67765,10 +68131,12 @@ www.d25mxmank4zum2.cloudfront.net
 www.d25nvumv7tl0z2.cloudfront.net
 www.d25stj9gyqmcvb.cloudfront.net
 www.d26akb2ny0jv6h.cloudfront.net
+www.d26rtyj6sgvppk.cloudfront.net
 www.d26sio54efdz72.cloudfront.net
 www.d270mmppqyrxvh.cloudfront.net
 www.d278e6l7afg8fl.cloudfront.net
 www.d27jwue5iqnh6b.cloudfront.net
+www.d289uswu7m57s.cloudfront.net
 www.d28cp77anbo6lu.cloudfront.net
 www.d28vxe8gascu3h.cloudfront.net
 www.d297quumgrfsv0.cloudfront.net
@@ -67786,18 +68154,23 @@ www.d2c9vnwvkzlcmz.cloudfront.net
 www.d2ce3m25c8c9jp.cloudfront.net
 www.d2cl8dh9rf47k9.cloudfront.net
 www.d2dpni913sh8cs.cloudfront.net
+www.d2ds6cu2y4pkzf.cloudfront.net
+www.d2dydv7qx22dm6.cloudfront.net
 www.d2et5mmtszl8y9.cloudfront.net
 www.d2ex13hr728klp.cloudfront.net
 www.d2ezldjvc8xkw6.cloudfront.net
 www.d2f4b6slfogd7r.cloudfront.net
+www.d2fceyn1gzk09n.cloudfront.net
 www.d2fedrnjoi5mqz.cloudfront.net
 www.d2fesgg0nv8xwr.cloudfront.net
 www.d2fie1khokihhq.cloudfront.net
+www.d2gerhakf4v5p4.cloudfront.net
 www.d2gfcto407y64a.cloudfront.net
 www.d2gs6dyrnlwpz3.cloudfront.net
 www.d2gspr8vzzzo02.cloudfront.net
 www.d2gztwgb14h1d.cloudfront.net
 www.d2h1iqzusoe15l.cloudfront.net
+www.d2h42x8kxf8en8.cloudfront.net
 www.d2hcd4yxwqc7un.cloudfront.net
 www.d2hijslwjjb6xf.cloudfront.net
 www.d2hr0yhxixa9i2.cloudfront.net
@@ -67805,11 +68178,14 @@ www.d2hxx9arx28rc0.cloudfront.net
 www.d2i7526ghpizc9.cloudfront.net
 www.d2iep9bp6c22dc.cloudfront.net
 www.d2jssw1nms8kca.cloudfront.net
+www.d2jt0ju12e1yod.cloudfront.net
 www.d2k03nouvabnnt.cloudfront.net
 www.d2kph87cbf2xsk.cloudfront.net
+www.d2krt158c2eyzv.cloudfront.net
 www.d2kssogjl1dooj.cloudfront.net
 www.d2kts584khphv0.cloudfront.net
 www.d2kwx5atwuks9c.cloudfront.net
+www.d2l7zlo0thlrf4.cloudfront.net
 www.d2lb83ybl22jem.cloudfront.net
 www.d2lg05a9nw0qzh.cloudfront.net
 www.d2lia7e2uhjvv1.cloudfront.net
@@ -67818,15 +68194,20 @@ www.d2lxreexpa5wo2.cloudfront.net
 www.d2lymsbwmwpr6n.cloudfront.net
 www.d2mkwbg1ge4ui5.cloudfront.net
 www.d2ml98k2s6sdit.cloudfront.net
+www.d2n60vl9bql26e.cloudfront.net
 www.d2ni38i30eqd5j.cloudfront.net
+www.d2noym08kbyyqc.cloudfront.net
 www.d2ns6mfq9xhrgk.cloudfront.net
 www.d2nuf29yxjfkk.cloudfront.net
 www.d2nw9e0ddo08bt.cloudfront.net
+www.d2nzlk795uiu94.cloudfront.net
 www.d2obhr6r5fzecl.cloudfront.net
 www.d2og2sydog5nql.cloudfront.net
 www.d2ovivg4v0qxjm.cloudfront.net
+www.d2pdgz3r18za9h.cloudfront.net
 www.d2pqkivjf3g5k5.cloudfront.net
 www.d2pubdjkl8dey0.cloudfront.net
+www.d2q3nvceka8qq1.cloudfront.net
 www.d2qlxn4zgetiir.cloudfront.net
 www.d2qnw7npg5oug3.cloudfront.net
 www.d2qv3dewj1x225.cloudfront.net
@@ -67837,9 +68218,11 @@ www.d2sfksopfh6edq.cloudfront.net
 www.d2su8hjc5zlzfw.cloudfront.net
 www.d2sx73osmg7eo3.cloudfront.net
 www.d2t7ywesz50b9i.cloudfront.net
+www.d2talv32m2j7ny.cloudfront.net
 www.d2tgi5yhwpcqun.cloudfront.net
 www.d2tgmy656z2cs2.cloudfront.net
 www.d2th9vamsn7cws.cloudfront.net
+www.d2tkpj5wh02rma.cloudfront.net
 www.d2tsykvn82sryi.cloudfront.net
 www.d2u5hcrs3kmrbd.cloudfront.net
 www.d2u80m5lkkax7j.cloudfront.net
@@ -67851,10 +68234,13 @@ www.d2uoafa1nn2c1m.cloudfront.net
 www.d2ur41cbocu27e.cloudfront.net
 www.d2v22tggt8jm21.cloudfront.net
 www.d2v81tfe2x14j0.cloudfront.net
+www.d2vrxczughho13.cloudfront.net
 www.d2vynyfxno0uci.cloudfront.net
+www.d2wbsd4mqj27nj.cloudfront.net
 www.d2wrpbr39pen4b.cloudfront.net
 www.d2xe17mzyskaoi.cloudfront.net
 www.d2xesqf2xhtnzz.cloudfront.net
+www.d2xh06cw2pdgrw.cloudfront.net
 www.d2xt5o8xrk77dr.cloudfront.net
 www.d2y2uz6sn2mxfg.cloudfront.net
 www.d2y5nh1tdkqgvw.cloudfront.net
@@ -67871,11 +68257,14 @@ www.d31hwl7tvoqtpd.cloudfront.net
 www.d31rso87ipor4m.cloudfront.net
 www.d31wdwe5btcr4s.cloudfront.net
 www.d32r41fxmnjynu.cloudfront.net
+www.d331dfj0rjel0i.cloudfront.net
 www.d33ar5g2m2djf.cloudfront.net
 www.d33chzvip28gf5.cloudfront.net
+www.d33fr8d3ajwiqd.cloudfront.net
 www.d33gvvv3qlldvm.cloudfront.net
 www.d33q31nq09dxxw.cloudfront.net
 www.d33zlsefl59aos.cloudfront.net
+www.d348tliqr8e092.cloudfront.net
 www.d34i3ace4gfh5w.cloudfront.net
 www.d34linqtty5evl.cloudfront.net
 www.d34lv7s4tm9v3x.cloudfront.net
@@ -67890,15 +68279,20 @@ www.d36bok8k8k1n1l.cloudfront.net
 www.d36judyoxgl2zo.cloudfront.net
 www.d36nbgnuno71tn.cloudfront.net
 www.d377mf91ybajzu.cloudfront.net
+www.d37nrqg0q35exm.cloudfront.net
 www.d382cj1kiclpgm.cloudfront.net
 www.d3877taz1legt5.cloudfront.net
 www.d3889itag5jgx6.cloudfront.net
 www.d38d6vjyuuw2sl.cloudfront.net
+www.d38hd4yfpoebhc.cloudfront.net
 www.d3968odjr2hy3o.cloudfront.net
 www.d39rpvvlkl2oml.cloudfront.net
 www.d3a3j770jgc81v.cloudfront.net
+www.d3a7vu8xxenh79.cloudfront.net
 www.d3arab74qe3j8e.cloudfront.net
 www.d3at7pjddlbvsi.cloudfront.net
+www.d3ax5ge1zceouj.cloudfront.net
+www.d3bltzl87xkw0x.cloudfront.net
 www.d3c8a2wpk66um4.cloudfront.net
 www.d3cab04ur74fa6.cloudfront.net
 www.d3cagwh5xibk3q.cloudfront.net
@@ -67906,38 +68300,57 @@ www.d3ckvfaa3cn0v2.cloudfront.net
 www.d3cvi3b6lbtksd.cloudfront.net
 www.d3d2pdui0691vv.cloudfront.net
 www.d3d87uh4d3bg95.cloudfront.net
+www.d3ddm8m62uqw58.cloudfront.net
 www.d3dfirf94ib4mc.cloudfront.net
 www.d3djra8xuxrarl.cloudfront.net
+www.d3dp237atljv0r.cloudfront.net
 www.d3dp8iocsuomgc.cloudfront.net
 www.d3dsdxp1xy072f.cloudfront.net
+www.d3dwdys60qg2it.cloudfront.net
+www.d3dwn8a8ey7v02.cloudfront.net
+www.d3esgegqe8nlw5.cloudfront.net
 www.d3fq3ivk93ymsp.cloudfront.net
 www.d3fwmzqc0m97ow.cloudfront.net
+www.d3g62n7qrm66fp.cloudfront.net
 www.d3g9jzjodi4z8o.cloudfront.net
 www.d3gnoxgp0956ea.cloudfront.net
 www.d3h4r307hkqakf.cloudfront.net
+www.d3hmdjsj7es75s.cloudfront.net
 www.d3htmfkawd0yq.cloudfront.net
+www.d3hw0n2j9oa7eo.cloudfront.net
 www.d3i34lp0la2dpk.cloudfront.net
+www.d3ic1tsmx6pqyo.cloudfront.net
+www.d3if4argbss2jo.cloudfront.net
 www.d3inaz8szm8k6.cloudfront.net
+www.d3inqaqka7q1pm.cloudfront.net
 www.d3ix9yg89ky1c5.cloudfront.net
+www.d3iz8haa18y3x4.cloudfront.net
 www.d3jdrqwt8yggac.cloudfront.net
 www.d3jfqy3y1871yh.cloudfront.net
+www.d3jo72wt2jooqa.cloudfront.net
 www.d3jughl7k9y4nn.cloudfront.net
 www.d3jxnxkvhogv5f.cloudfront.net
+www.d3k28ttjmbxkif.cloudfront.net
+www.d3k9w22leef5cc.cloudfront.net
 www.d3k9z8sa1gtuu8.cloudfront.net
 www.d3kst2qu2utim3.cloudfront.net
 www.d3l2zu5in6046h.cloudfront.net
 www.d3l41d43cmmx14.cloudfront.net
+www.d3l4doow0fdhba.cloudfront.net
 www.d3l9k0igpiir98.cloudfront.net
+www.d3lkqbg48rbxq6.cloudfront.net
 www.d3lzjgxt3dye5f.cloudfront.net
 www.d3m9mgvwtsfllj.cloudfront.net
 www.d3mmr9yh0jwuka.cloudfront.net
 www.d3mrvu7qsnuh82.cloudfront.net
+www.d3mt6s5xw5coba.cloudfront.net
 www.d3npoad12bq4kn.cloudfront.net
 www.d3nqn4bwgnt0y6.cloudfront.net
 www.d3o6x6wcpxd286.cloudfront.net
 www.d3o92sis0yji3x.cloudfront.net
 www.d3od1bbqv35we0.cloudfront.net
 www.d3owtuk71osy1o.cloudfront.net
+www.d3p2uvksoo8gtw.cloudfront.net
 www.d3p3m76ag9gj6e.cloudfront.net
 www.d3p7tmow1vleoo.cloudfront.net
 www.d3pancmty6wurz.cloudfront.net
@@ -67949,35 +68362,45 @@ www.d3qlmfpotmwd31.cloudfront.net
 www.d3qmypk03l0gog.cloudfront.net
 www.d3qo0gbc1j3voj.cloudfront.net
 www.d3qpb8xyn715i4.cloudfront.net
+www.d3r09ym6czsthb.cloudfront.net
 www.d3r6awv9ysiyn4.cloudfront.net
 www.d3rzloh6xv2xem.cloudfront.net
+www.d3sctb8on9bzry.cloudfront.net
 www.d3shk9edubnjbz.cloudfront.net
+www.d3sm7ikds99oqd.cloudfront.net
 www.d3t0d29mpr4wpb.cloudfront.net
 www.d3t48bevxuic2e.cloudfront.net
 www.d3t7i99jg0w13n.cloudfront.net
 www.d3tc96fs27ncpo.cloudfront.net
 www.d3tgju2fe3if19.cloudfront.net
+www.d3tiz7d9ud4xx9.cloudfront.net
 www.d3tuedwv4cfy49.cloudfront.net
 www.d3txhvg6pd2tnm.cloudfront.net
 www.d3u2eff063iigj.cloudfront.net
+www.d3u56vfvib7fpd.cloudfront.net
 www.d3ucqcvv533sro.cloudfront.net
 www.d3v6pvlv2uk27.cloudfront.net
 www.d3v735z3cvlhwa.cloudfront.net
 www.d3vostzo1p3g7e.cloudfront.net
 www.d3w2owmgrmxb09.cloudfront.net
+www.d44xt3mhfaa25.cloudfront.net
 www.d4ayw5nfinkhq.cloudfront.net
 www.d4mkjc8lyoypo.cloudfront.net
 www.d4y6zofef2seo.cloudfront.net
+www.d5f7obcyjvy4y.cloudfront.net
 www.d5r0q30q6fbi0.cloudfront.net
 www.d6bwmymz83ob5.cloudfront.net
 www.d6dc9a6a8b.natrasiekorzysci.pl
 www.d6sdrygslyc0g.cloudfront.net
 www.d6ums5s0qsrpw.cloudfront.net
+www.d709wf8jcnhl9.cloudfront.net
 www.d728ce7134.e-kocyki.pl
 www.d7acpvh7gt7aj.cloudfront.net
 www.d7x2ikwpy9c2i.cloudfront.net
 www.d8k8yw18dq88h.cloudfront.net
+www.d8nbw94ijwuz8.cloudfront.net
 www.d8x.pl
+www.d8zjz4k1qejn0.cloudfront.net
 www.d9hxsra1n6mi7.cloudfront.net
 www.d9ii1r9blfm7t.cloudfront.net
 www.d9on88ut98wnp.cloudfront.net
@@ -68131,6 +68554,7 @@ www.dawa.ero-advertising.com
 www.dawn3host.com
 www.daxioma.com
 www.daxkapital.com
+www.db8pg3je9y3ei.cloudfront.net
 www.dbamyociebie.click
 www.dbd3bzqstwii6.cloudfront.net
 www.dbd8zrlvot44b.cloudfront.net
@@ -68142,12 +68566,17 @@ www.dc5zdxob07xpk.cloudfront.net
 www.dcao5m.webwave.dev
 www.dciym4rnld17u.cloudfront.net
 www.dcm5.com
+www.dcrhyi8q3nyv5.cloudfront.net
 www.dcshoespolska.com
 www.dcshoessklep.com
 www.dctracking.com
 www.ddad9qpbf0w0a.cloudfront.net
 www.ddalygqcl0z3r.cloudfront.net
 www.dddcc.com
+www.ddhtsogw19ulc.cloudfront.net
+www.ddpd.id-65393.me
+www.ddufho0zojhbs.cloudfront.net
+www.ddvdkcqek52a.cloudfront.net
 www.de7o82mzreipe.cloudfront.net
 www.deaconry.buzz
 www.debbo.plus.com
@@ -68297,6 +68726,7 @@ www.dgmaustralia.com
 www.dgpq8b.webwave.dev
 www.dgtmarket.com
 www.dgu9g3a2kzqx2.cloudfront.net
+www.dgvy364dlcxc3.cloudfront.net
 www.dhc6wkg91bshz.cloudfront.net
 www.dhcouriers.com
 www.dhdost.com
@@ -68309,6 +68739,7 @@ www.dhl-twojapaczka.com
 www.dhl-twojkurier.com
 www.dhl.express.faktura.tecsla.com.mx
 www.dhldostawa.com
+www.dhltrack.pvi.pl
 www.di3kgulwn8pf0.cloudfront.net
 www.dia-traffic.com
 www.diabakter.pl
@@ -68365,15 +68796,18 @@ www.divisionart.pl
 www.divisioncore.com
 www.divx.it
 www.djarumgol.com
+www.djd0i2zq1o5w.cloudfront.net
 www.djf1dw2oopkv1.cloudfront.net
 www.djkeun1bal.com
 www.djrooby.pl
 www.djsrp.com
 www.djugoogs.com
+www.dk06kjc1o4s1v.cloudfront.net
 www.dk7crqufgrsl0.cloudfront.net
 www.dk7vzcyxk8cl1.cloudfront.net
 www.dkm8hrrh4o7bz.cloudfront.net
 www.dkrgrczpa4t2m.cloudfront.net
+www.dku4syikl4crl.cloudfront.net
 www.dl-plugin.com
 www.dl483ndvtytqn.cloudfront.net
 www.dla-piekna.click
@@ -68397,16 +68831,21 @@ www.dliugahistoriapolakkow.site
 www.dllfilestab.com
 www.dlmyfile.com
 www.dlng8kobucekv.cloudfront.net
+www.dlplq2nkxbfz3.cloudfront.net
 www.dlscrod.ru.com
 www.dlsplate.com
 www.dlugierozmowyobiznesach.cyou
 www.dlugosiieootymmowi.space
 www.dlxbrg0zlr5eu.cloudfront.net
+www.dm1niacwiykd7.cloudfront.net
 www.dm5s33kpu5h5p.cloudfront.net
 www.dmcatime.space
+www.dmkszjwmkjx8k.cloudfront.net
 www.dmqxrk27t97xo.cloudfront.net
 www.dmuwshlrslrqn.cloudfront.net
 www.dmyvao51x5jfs.cloudfront.net
+www.dn577w7w8p16u.cloudfront.net
+www.dnilz35omy1n9.cloudfront.net
 www.dnirownosci.pl
 www.dnmultiglobal.duckdns.org
 www.dnps.com
@@ -68639,6 +69078,7 @@ www.dpejwyk5eyul1.cloudfront.net
 www.dppnv4z069tpc.cloudfront.net
 www.dpsdostwy.net
 www.dpsobryte.pl
+www.dpy5d9cas64ag.cloudfront.net
 www.dq3cqr3m0t6ow.cloudfront.net
 www.dq6qf6.webwave.dev
 www.dq9tb4kazmvdd.cloudfront.net
@@ -68658,6 +69098,7 @@ www.drew-ed.pl
 www.drexpol-modele.com.pl
 www.drfit.pl
 www.drivotracker.com
+www.drjvk7xs0ql4d.cloudfront.net
 www.drmartensbut.top
 www.drmartenspolska.com
 www.drmartensskleppolska.com
@@ -68678,12 +69119,14 @@ www.drunt.at
 www.drvooqv0b6ivi.cloudfront.net
 www.dsads123a.is-best.net
 www.dshkaorlova.site
+www.dsjm94hqvg4l9.cloudfront.net
 www.dslw1i2ckx0gx.cloudfront.net
 www.dsora.com
 www.dstreet.pl
 www.dt1blog.com
 www.dtcvp5x34aags.cloudfront.net
 www.dtech.host
+www.dtfodjgrril93.cloudfront.net
 www.dthvdr9.com
 www.dtmx.pl
 www.dtsawdh.com
@@ -68695,15 +69138,18 @@ www.dulawa.pl
 www.dultrasolutions.duckdns.org
 www.dunlop.force9.co.uk
 www.duplicatefilecleaner.com
+www.duqbuf91ykkdq.cloudfront.net
 www.duramo.pl
 www.dutahgye3t3hw.cloudfront.net
 www.dutchaparel.com
 www.dutchsales.org
 www.duzoprobzmianyzycia.club
 www.duzysklep.com
+www.dva0tsa91cw5m.cloudfront.net
 www.dvhaaubsngg1m.cloudfront.net
 www.dvzwh.voluumtrk.com
 www.dw.lp.eu.emobi-sys.com
+www.dw02dd3e60dvv.cloudfront.net
 www.dwclick.com
 www.dwf.life
 www.dwin1.com
@@ -68711,17 +69157,23 @@ www.dwnlad.ws
 www.dworeknasprzedaz.pl
 www.dworzec2.webd.pro
 www.dwzacisze.com.pl
+www.dwznreotr3dxh.cloudfront.net
 www.dxg6lbssw7f9q.cloudfront.net
 www.dxipygpy4df7z.cloudfront.net
 www.dyfuzor-do-aromaterapii-pl.com
 www.dyl67jsnawaxx.cloudfront.net
+www.dymhb33mkdt7b.cloudfront.net
 www.dynamictoolbar.com
 www.dys.tyom.ru
 www.dyskonto.store
 www.dysyde.blogspot.com
+www.dz045i9r4g643.cloudfront.net
 www.dz4mflgeqsbgf.cloudfront.net
+www.dz8owdqayujb8.cloudfront.net
 www.dziadekdogramofonu.pl
 www.dziendobrybarrdzo.site
+www.dziennik-bialystok.xyz
+www.dziennik-bytom.xyz
 www.dziennik-inf.xyz
 www.dziennik-info.x9.eu
 www.dziennik-miasto24.x9.eu
@@ -68746,6 +69198,7 @@ www.dzisiejszezabrze.xyz
 www.dzisiejszymaterialtv.online
 www.dzisiejszyszczecin.xyz
 www.dzisiejszywroclaw.xyz
+www.dzqiq5qkuyda9.cloudfront.net
 www.dzzavzp9iptuv.cloudfront.net
 www.dzzrenjanin.rs
 www.e-bannerx.com
@@ -68867,6 +69320,7 @@ www.eclkspsa.com
 www.ecoblast.pl
 www.ecolife-home.com.pl
 www.ecomobilni.pl
+www.economy-trust.com
 www.ecoslimmer.pro
 www.ed-clr-01.com
 www.edge.quantserve.com
@@ -68877,7 +69331,9 @@ www.edmedsnow.com
 www.ednagroup.xyz
 www.edomz.com
 www.edu-offer.com
+www.educ-idea.site
 www.educ-lotos.online
+www.educatin-pl.website
 www.education-com.website
 www.education-pl.info
 www.education-rewardpath.com
@@ -69264,6 +69720,7 @@ www.face--viewer.blogspot.com
 www.face-vip.ujm.pl
 www.face2trade.com
 www.faceb00k.com
+www.faceb00kwatchvideo.pl
 www.facebaak.com
 www.facebcok.com.pl
 www.facebiik.com
@@ -69319,6 +69776,7 @@ www.fajny-bon.click
 www.faksowy.is-best.net
 www.fakt-news24.eu
 www.fakt-online24.eu
+www.fakt.pomoz-rozpoznac-sprawce.tk
 www.fakt11.seohost.com.pl
 www.fakt24-porwaniefabian.com.pl
 www.faktinvestmetns.mya5.ru
@@ -69356,6 +69814,10 @@ www.fakty24gazeta.pl
 www.fakty24h.eu
 www.fakty24info.pl
 www.fakty24informacje.pl
+www.fakty24informacjelive.pl
+www.fakty24informacjeonline.pl
+www.fakty24live.pl
+www.fakty24liveinfomacje.pl
 www.fakty24online.pl
 www.fakty24zaginiony.eu
 www.fakty25a.is-best.net
@@ -69969,6 +70431,7 @@ www.friendgreetings.net
 www.friendlyduck.com
 www.frinblok.site
 www.fringewithbenefitsburlesque.com
+www.frissites1.blogspot.com
 www.frog9alea.com
 www.froling.bee.pl
 www.fromako.pl
@@ -70384,6 +70847,7 @@ www.gkjow.onlineluck.net
 www.gkjow.todaysgift.net
 www.gkjow.weblucker.com
 www.gkjow.yourprizeiswaiting.net
+www.gkpge-pl.club
 www.gkpge.click
 www.gkpge.link
 www.gladiadoresdevendas.com.br
@@ -71165,6 +71629,7 @@ www.idc.com.ua
 www.idcase-99131255.gentlebrooksports.org
 www.ide-dalej.pl
 www.idea-cloudbank.com
+www.idea-educ.site
 www.idea-logowanie.at
 www.idea-logowanie.live
 www.ideaanstudy1.live
@@ -71225,6 +71690,8 @@ www.ihaberadserver.com
 www.ihydroflaskshop.com
 www.iicdn.com
 www.iidl-plus.com
+www.iinpost.id-65393.me
+www.iinpost.id-93732.cc
 www.ijacko.net
 www.ikea.122.2o7.net
 www.ikohs.com
@@ -71302,6 +71769,7 @@ www.infinite-ads.com
 www.infinityads.com
 www.inflationbreedinghoax.com
 www.info-centrum.co.pl
+www.info-dnia.waw.pl
 www.info-inpost.pl
 www.info-niedziela.waw.pl
 www.info-od-policji.dnsrobotuptime.ru
@@ -71327,6 +71795,7 @@ www.info-prosto-z-polski.dnsrobotuptime.ru
 www.info-prosto-ze-swiata.dnsrobotuptime.ru
 www.info-sms.su
 www.info-sobota24.waw.pl
+www.info-wtorek.waw.pl
 www.info-wygrana24.waw.pl
 www.info-z-policji.dnsrobotuptime.ru
 www.info.ogloszeniateraz97.club
@@ -71390,6 +71859,7 @@ www.informacje24.wroclaw.pl
 www.informacje3.waw.pl
 www.informacjeczestochowa.xyz
 www.informacjefakty24.pl
+www.informacjefakty24online.pl
 www.informacjegdansk.xyz
 www.informacjekielce.xyz
 www.informacjeopole.xyz
@@ -71432,6 +71902,7 @@ www.infozkraju.eu
 www.infra.by
 www.infx.eu
 www.ing-ll.pl
+www.ing.pl.proxy.c7s.io
 www.ingbkpl.com
 www.ingoinvest.com
 www.iniciuj-pomoc.eu
@@ -71488,6 +71959,7 @@ www.inpost-order.pl-id00437633.xyz
 www.inpost-order.pl-id04381830.xyz
 www.inpost-order.pl-id05071550.xyz
 www.inpost-order.pl-id09362947.xyz
+www.inpost-order.pl-id09994518.xyz
 www.inpost-order.pl-id10169395.xyz
 www.inpost-order.pl-id10834195.xyz
 www.inpost-order.pl-id11641532.xyz
@@ -71497,6 +71969,7 @@ www.inpost-order.pl-id14144075.xyz
 www.inpost-order.pl-id14873912.xyz
 www.inpost-order.pl-id21400206.xyz
 www.inpost-order.pl-id24634297.xyz
+www.inpost-order.pl-id25253958.xyz
 www.inpost-order.pl-id25360115.xyz
 www.inpost-order.pl-id27837488.xyz
 www.inpost-order.pl-id32043826.xyz
@@ -71509,6 +71982,7 @@ www.inpost-order.pl-id52341838.xyz
 www.inpost-order.pl-id53823746.xyz
 www.inpost-order.pl-id56644415.xyz
 www.inpost-order.pl-id56890018.xyz
+www.inpost-order.pl-id62309540.xyz
 www.inpost-order.pl-id64370110.xyz
 www.inpost-order.pl-id64594310.xyz
 www.inpost-order.pl-id67598643.xyz
@@ -71516,9 +71990,11 @@ www.inpost-order.pl-id69069606.xyz
 www.inpost-order.pl-id74244312.xyz
 www.inpost-order.pl-id77770656.xyz
 www.inpost-order.pl-id78418770.xyz
+www.inpost-order.pl-id78832475.xyz
 www.inpost-order.pl-id82571828.xyz
 www.inpost-order.pl-id85944668.xyz
 www.inpost-order.pl-id86817971.xyz
+www.inpost-order.pl-id86870340.xyz
 www.inpost-order.pl-id89197393.xyz
 www.inpost-order.pl-id92676185.xyz
 www.inpost-order.pl-id92678245.xyz
@@ -71535,6 +72011,7 @@ www.inpost-piatnosc-24.xyz
 www.inpost-pl-delivering.icu
 www.inpost-pl-dostawa.cyou
 www.inpost-pl-id805.fastexpress.shop
+www.inpost-pl-kdn.id-93732.cc
 www.inpost-pl-nkfi.ownoffferta.casa
 www.inpost-pl-nkfi.ownoffferta.cc
 www.inpost-pl-nkfi.ownoffferta.cyou
@@ -71570,6 +72047,7 @@ www.inpost-plskmy.myorderts.work
 www.inpost-pltfxv.ownoffferta.cc
 www.inpost-plxsum.platzdostawa.cc
 www.inpost-plzxle.platzdostawa.cc
+www.inpost-r.id-65393.me
 www.inpost-rl.id847363.me
 www.inpost-s.id-13549.me
 www.inpost-security.icu
@@ -71848,6 +72326,7 @@ www.inpost.pl-safe.secure-service.website
 www.inpost.pl-safe.service-secure.cyou
 www.inpost.pl-safe.service-secure.rest
 www.inpost.pl-safe.service-secure.space
+www.inpost.pl-safe3d.secure-service.life
 www.inpost.pl-safe3dsec.service-secure.cyou
 www.inpost.pl-safecash.link
 www.inpost.pl-safedostawa.cyou
@@ -71907,6 +72386,7 @@ www.inpost.pl-wellpayment.work
 www.inpost.pl-wellpayment.xyz
 www.inpost.pl-zakupy.icu
 www.inpost.pl.buyforbuyit.pw
+www.inpost.pl.buyitemstrans.pw
 www.inpost.pl.buyitpay.pw
 www.inpost.pl.buysercomebuit.pw
 www.inpost.pl.buytaisetem.site
@@ -71916,6 +72396,7 @@ www.inpost.pl.compaytrans.pw
 www.inpost.pl.gn-payfor.pw
 www.inpost.pl.mebuyit.pw
 www.inpost.pl.pay-online.pw
+www.inpost.pl.payitemptrans.pw
 www.inpost.pl.paysstranscom.pw
 www.inpost.pl.reg-paymsen.pw
 www.inpost.pl.secure-service.bar
@@ -71929,6 +72410,7 @@ www.inpost.pl.service-secure.icu
 www.inpost.pl.service-secure.one
 www.inpost.pl.service-secure.quest
 www.inpost.pl.service-secure.shop
+www.inpost.pl.transtopayfors.pw
 www.inpost.plskontas.cyou
 www.inpost.polska-dastawka.casa
 www.inpost.polska-dastawka.xyz
@@ -72059,6 +72541,7 @@ www.intnet-offer.com
 www.intorstad.store
 www.inv.pledland.com
 www.inv1pl-budimnew.info
+www.invest-educ.site
 www.invest-fd.io
 www.invest-flow.io
 www.invest-moment.com
@@ -72089,6 +72572,7 @@ www.invp.edealand.pro
 www.invp.pledland.com
 www.invp.pluniland.pro
 www.inwestopinia.pl
+www.inwestowanie-orlen.online
 www.inwestpl1.space
 www.inwestpl10.space
 www.inwestpl11.space
@@ -72356,6 +72840,7 @@ www.jpltech.vestpast77.xyz
 www.jque.net
 www.jquerysxur6.live
 www.jrhayley.plus.com
+www.js-hurling.com
 www.jsauto.pl
 www.jscount.com
 www.jsdevelopmentq1.live
@@ -72419,6 +72904,7 @@ www.kalaaps.pl
 www.kalantzis.net
 www.kalendarzdnia23.online
 www.kalendarzdnia23.site
+www.kalin.pvi.pl
 www.kalosze-hunter.pl
 www.kaloszehunter.com
 www.kaloszehunterdamskie.com
@@ -72991,6 +73477,7 @@ www.lincolnshirefitness.co.uk
 www.line6agar.com
 www.linebox.in
 www.link.missusextraextra.com
+www.link.snewsletter.com
 www.link5m.blogspot.com
 www.link5view.com
 www.linkbucks.com
@@ -73228,8 +73715,12 @@ www.lotos-g.site
 www.lotos-grupa.online
 www.lotos-grupa.site
 www.lotos-inv.surge.sh
+www.lotos-invest.website
+www.lotos-invst.site
+www.lotos-invst.website
 www.lotos-inwestycje.site
 www.lotos-m.site
+www.lotos-money.website
 www.lotos-p.site
 www.lotos-pl.online
 www.lotos-polan.site
@@ -73238,6 +73729,7 @@ www.lotos-pollska.site
 www.lotos-polsk.site
 www.lotos-polska.site
 www.lotos-polska1.site
+www.lotos-project.site
 www.lotos-projekt-pl.site
 www.lotos-projekt.site
 www.lotos-projekt1-pl.site
@@ -73250,6 +73742,8 @@ www.lotosqw.info
 www.lotoss-pl.site
 www.lotoss-projekt-pl.site
 www.lotoss1-pl.site
+www.lots-investi.website
+www.lots-investic.website
 www.lots-of-feelings.blogspot.com
 www.lottoforever.com
 www.lottoga.com
@@ -73308,6 +73802,7 @@ www.lpmxp2025.com
 www.lpmxp2026.com
 www.lpmxp2027.com
 www.lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog
+www.lts-invest.site
 www.ltsale.onlineshopoutlet2021.com
 www.lubicplacki.is-best.net
 www.lubiego.is-best.net
@@ -73426,6 +73921,7 @@ www.makanaliabadian.ir
 www.makarenagaski.pl
 www.make-by-yourown.com
 www.make-cute-faces.blogspot.com
+www.makeyourmoney.space
 www.maksymrzeminski.pl
 www.malepills-area.life
 www.malgorzata423.pl
@@ -73490,6 +73986,7 @@ www.marinacape.com.pl
 www.marincr.com
 www.marinoderosas.com
 www.mariola180.co.pl
+www.mariuszgetka.pl
 www.mariuszpelczarski.pl
 www.mariuszsopyllo.pl
 www.markbruinink.nl
@@ -73570,6 +74067,7 @@ www.mb102.com
 www.mb57.com
 www.mband.space
 www.mbank-cz.online
+www.mbankczacc.temp.swtest.ru
 www.mbankpl.pw
 www.mbljpu9.com
 www.mciegroup.ru
@@ -73669,6 +74167,7 @@ www.melissapoland.com
 www.melissapolska.com
 www.mellowads.com
 www.melodiakielce.pl
+www.melodyandmoves.com
 www.member.39credit.com
 www.members-formeets.com
 www.mememakers.mobi
@@ -73737,6 +74236,7 @@ www.microsoftserviceautheticationteam.weebly.com
 www.miejscedlastudenta.pl
 www.miejskagazeta.online
 www.miejskapolka.pl
+www.miejskidziennik.hekko24.pl
 www.miejskie24.gpe.pl
 www.miejskiportal.eu
 www.mielno-baltic.pl
@@ -73873,6 +74373,7 @@ www.moj24bizznesik.space
 www.moja-dostawa.site
 www.mojadietanamase.pl
 www.mojahistoriashiro.blogspot.com
+www.mojapaka.com
 www.moje-informacje24.eu
 www.moje-zamowienie23112.pl
 www.moje69.pl
@@ -73934,6 +74435,7 @@ www.mopieflix.com
 www.mopik.pl
 www.morandons.com
 www.morceko.pl
+www.more-money.casa
 www.morefreecamsecrets.com
 www.morehotvibes.space
 www.morelovemessenger.space
@@ -74217,6 +74719,7 @@ www.naswiecie.work
 www.naswoimmppodworku.space
 www.nasz--kraj-info.x9.eu
 www.naszagazeta.xyz
+www.naszagdynia.xyz
 www.naszaplaneta.online
 www.naszaplaneta.site
 www.naszaplaneta.xyz
@@ -74282,6 +74785,7 @@ www.nbbutypolska.com
 www.nbgmarket.com
 www.nbkangxi.com
 www.nbpolska.pl
+www.nbpolskaonline.com
 www.nbrtrack.com
 www.nbryb.com
 www.nbsklepbuty.com
@@ -74342,6 +74846,7 @@ www.netscae.com
 www.neumashop.cl
 www.neurorehabtraining.com
 www.new-best-prizes-2019.com
+www.new-btc-era.net
 www.new-casual-dating1.com
 www.new-dates-now.com
 www.new-dates-now1.com
@@ -74481,12 +74986,12 @@ www.nikos-service.ro
 www.nilco.pl
 www.nildenaksoy.com
 www.nimiko.pl
-www.nimiweb.ir
 www.nimp.org
 www.ninatekhol.live
 www.ninawertz.pl
 www.nine-realdating.com
 www.nine2rack.in
+www.ninewestpolska.pl
 www.ninjadollars.com
 www.ninjavpn.xyz
 www.nirotrade.com
@@ -74937,6 +75442,7 @@ www.olx-finansowanie.cam
 www.olx-g.pl
 www.olx-ginza.com
 www.olx-h.id-43750.me
+www.olx-h.id-89357.me
 www.olx-h.pl
 www.olx-i.pl
 www.olx-informacja.pl
@@ -74957,6 +75463,7 @@ www.olx-messenger.com
 www.olx-mi.pl
 www.olx-money.pl
 www.olx-my.pl
+www.olx-n.id-89357.me
 www.olx-n.pl
 www.olx-nd.spredaz-online.club
 www.olx-nd.spredaz-online.one
@@ -75003,6 +75510,7 @@ www.olx-order.pl-id04381830.xyz
 www.olx-order.pl-id06396225.xyz
 www.olx-order.pl-id06493422.xyz
 www.olx-order.pl-id09534250.xyz
+www.olx-order.pl-id09994518.xyz
 www.olx-order.pl-id10398028.xyz
 www.olx-order.pl-id12192231.xyz
 www.olx-order.pl-id14873912.xyz
@@ -75010,10 +75518,13 @@ www.olx-order.pl-id16044155.xyz
 www.olx-order.pl-id19499935.xyz
 www.olx-order.pl-id19744089.xyz
 www.olx-order.pl-id19932972.xyz
+www.olx-order.pl-id19998915.xyz
 www.olx-order.pl-id21512257.xyz
 www.olx-order.pl-id22851431.xyz
+www.olx-order.pl-id25253958.xyz
 www.olx-order.pl-id26387747.xyz
 www.olx-order.pl-id27837488.xyz
+www.olx-order.pl-id28454326.xyz
 www.olx-order.pl-id31714014.xyz
 www.olx-order.pl-id32043826.xyz
 www.olx-order.pl-id32062030.xyz
@@ -75025,6 +75536,7 @@ www.olx-order.pl-id42877746.xyz
 www.olx-order.pl-id46110409.xyz
 www.olx-order.pl-id47068752.xyz
 www.olx-order.pl-id47391675.xyz
+www.olx-order.pl-id51749345.xyz
 www.olx-order.pl-id52341838.xyz
 www.olx-order.pl-id53823746.xyz
 www.olx-order.pl-id54077844.xyz
@@ -75335,6 +75847,8 @@ www.olx.pl-dostawa.bid
 www.olx.pl-dostawa.com
 www.olx.pl-dostawa.ru
 www.olx.pl-dostawa.site
+www.olx.pl-dostawac.site
+www.olx.pl-dostawac.website
 www.olx.pl-dreamorder.cyou
 www.olx.pl-dreamorder.icu
 www.olx.pl-dreamorders.cyou
@@ -75733,8 +76247,11 @@ www.olx.pl-weryfkacija.website
 www.olx.pl-wyjazd.site
 www.olx.pl-zakupy.icu
 www.olx.pl-zamawienie.shop
+www.olx.pl.baytsitecom.pw
 www.olx.pl.baytteperencom.pw
+www.olx.pl.bskiikcom.pw
 www.olx.pl.buyfarikolbuyit.pw
+www.olx.pl.buyfcomtransit.site
 www.olx.pl.buyplaycombuyit.pw
 www.olx.pl.comtrans-id.site
 www.olx.pl.deliveres.pw
@@ -75960,6 +76477,8 @@ www.onet-o24.herokuapp.com
 www.onet-ogloszenie.pl
 www.onet-online.pl
 www.onet-opole.xyz
+www.onet-polska.czest.pl
+www.onet-polska.waw.pl
 www.onet-pomocy.xyz
 www.onet-pomorskie.xyz
 www.onet-poznan.xyz
@@ -76012,6 +76531,7 @@ www.onlinecords.com
 www.onlinedatings-service2.com
 www.onlinedownloads.org
 www.onlinefakty24.pl
+www.onlinefakty24info.pl
 www.onlinefilmy24.pl
 www.onlinegettin-bank.com
 www.onlinehd.pl
@@ -76111,6 +76631,7 @@ www.order-safe.info
 www.order-secure.biz
 www.ordinateur-portable-degriffe.blogspot.com
 www.oreidofitilho.com.br
+www.orelnew.com
 www.oreware.com
 www.org1.syst-pltrade.site
 www.organicmed.pl
@@ -76126,6 +76647,7 @@ www.orl.moctrade.site
 www.orl.poland-plpro.site
 www.orlan77.com
 www.orldleader.site
+www.orlen-inv.gaznefti-platf.xyz
 www.orlen-invest.surge.sh
 www.orlen-pl-syst.site
 www.orlen-pl.roscoc.site
@@ -76143,6 +76665,7 @@ www.orlendive.website
 www.orlenencourage.club
 www.orlenendure.website
 www.orleninvest.space
+www.orlenn.libracoinofficial-company.xyz
 www.orlennews.com
 www.orlenoil-la.com
 www.orlenpilot.site
@@ -76154,7 +76677,10 @@ www.orlenpro.xprogbrd.site
 www.orlensettle.website
 www.orlentrade.site
 www.orlenwait.site
+www.orli.edlandigs.com
 www.orlinwestpl.pw
+www.orlnew.com
+www.orlnewys.com
 www.orlnpacifica.pw
 www.ornovosummer.space
 www.orteza-na-kolano-pl.com
@@ -76308,6 +76834,7 @@ www.pakunek-pl.xyz
 www.pakunek.xyz
 www.palazzi.store
 www.palenate.com
+www.palladiumbutysklep.pl
 www.palladiumpolska.com
 www.palmera-pl.com
 www.palmera.pl
@@ -76611,6 +77138,9 @@ www.payolx82.info
 www.payolx83.info
 www.payolx87.info
 www.payolx88.info
+www.payolx89.info
+www.payolx90.info
+www.payolx95.info
 www.payones.net
 www.payorte.net
 www.paypal-com-pl.cf
@@ -76782,6 +77312,8 @@ www.pge-pl.info
 www.pge.toinvest.pro
 www.pgeoffer.space
 www.pgepl.info
+www.pgeplinvpge-1inv.info
+www.pgeplinvpge-1pl.info
 www.pgiinvest.com
 www.pgniginvest.info
 www.pgnigpl.website
@@ -77103,7 +77635,9 @@ www.ploferta24.xyz
 www.plolx-oplata.online
 www.plor1en.bigbosspl.site
 www.plorl.poland-plpro.site
+www.plorlenhuoikj.xyz
 www.plpaysoffer.site
+www.plpge.site
 www.plpkobp.club
 www.plpostkode.com
 www.plposzukiwania.space
@@ -77139,6 +77673,7 @@ www.pobierzgo.pl
 www.pobierzkod.net
 www.pobierzpliki.pl
 www.pobierzteraz.mobi
+www.pobilipsa.xyz
 www.pocketing.site
 www.pocketmyponstar.com
 www.pockztresmde.cabanova.com
@@ -77262,6 +77797,7 @@ www.poker.cm
 www.poker4spain.com
 www.pokicotodzialaiok.cyou
 www.pokrakowice.digital
+www.pol-wysylki.online
 www.pol.libracoinofficial-company.xyz
 www.pol06.1001001.dev
 www.pol1.pltrade-projekt1.xyz
@@ -77271,6 +77807,8 @@ www.polaki.shop
 www.poland-dostawa.com
 www.poland-invest.site
 www.poland-oferta.live
+www.poland-pge-gr.site
+www.poland-pge.site
 www.poland.fizzyslim.biz
 www.poland.prom-newsinfo.site
 www.polandbudim-invpro.info
@@ -77366,6 +77904,7 @@ www.polskainfo.co.pl
 www.polskanews.eu
 www.polskaolerta.store
 www.polskaonline.club
+www.polskapoczta-a.id-93732.cc
 www.polskapoczta-b.id-27447.me
 www.polskapoczta-pl-lik.id-76565.me
 www.polskapoczta-pl-oaf.id-76565.me
@@ -77448,6 +77987,7 @@ www.pomoc-online24.xyz
 www.pomoc-poczta.online
 www.pomoc-poczta.org.pl
 www.pomoc-regulamin.online
+www.pomoc.techniczna-olx.com
 www.pomoc24.site
 www.pomocdlacery.pl
 www.pomocdlafranka.pl
@@ -77760,6 +78300,7 @@ www.program3.com
 www.programdarmowy.pl
 www.programyfb.blogspot.com
 www.programyhakerskie.pl
+www.proj.origpro.xyz
 www.projectsociety.pl
 www.projectwonderful.com
 www.projekt-pomocy.eu
@@ -78188,6 +78729,7 @@ www.rentapart24.com
 www.rentfromart.com
 www.rentito.pl
 www.rentracks.jp
+www.renximy.com
 www.rep.privatesearch.club
 www.repolsk.xyz
 www.req12pkgb.com
@@ -78229,6 +78771,8 @@ www.richtech.co.th
 www.rickparty.com
 www.rickrolling.com
 www.riddexpl1.com
+www.riekerpoland.com
+www.riekerpolska.com
 www.right-winmethod.life
 www.rightmedia.com
 www.rightmedia.net
@@ -78289,6 +78833,12 @@ www.rosafondente.it
 www.rosalieeve.pl
 www.rosehipsandrhubarb.com
 www.roseiiy.com
+www.roskos1.eu-dep.club
+www.roskos2.bestdep.online
+www.roskos3.bestdep.shop
+www.roskosk.bestdep.shop
+www.roskosl.bestdep.online
+www.roskosm.eu-dep.club
 www.rossbergpl.com
 www.rossmanie.xyz
 www.rossmannbonyzakupowe.grvdc.eu
@@ -78503,6 +79053,7 @@ www.sasiedzkagazeta.pl
 www.sasiedzkinews.eu
 www.sauconybuty.com
 www.sauconypolska.com
+www.sauconysklep.com
 www.saumweb.com
 www.sauny-finskie.com.pl
 www.sauwoaptain.com
@@ -78590,6 +79141,7 @@ www.secure-payuser01.serveirc.com
 www.secure-processingcenter.com
 www.secure-safety.su
 www.secure-service.xyz
+www.secure-sms.co
 www.secure-sms.one
 www.secure-verify-account.ddns.info
 www.secure-verify-info.ddns.info
@@ -78633,6 +79185,7 @@ www.seewhochecked.com
 www.seguro-ibercaja.com
 www.sekel.ch
 www.sekolahalmunasemarang.sch.id
+www.sekretfotki.pl
 www.seks-telefon.com
 www.sektorbhp.pl
 www.sekuduskasihmu.blogspot.com
@@ -78727,7 +79280,10 @@ www.serwer2108520.home.pl
 www.serwis-ab.com.pl
 www.serwis-laptopow24.pl
 www.serwis-medyczny24.com
+www.serwis-niedziela.waw.pl
+www.serwis-poniedzialek.waw.pl
 www.serwis-wiadomosci.waw.pl
+www.serwis-wydarzen24.waw.pl
 www.serwis.kb.help
 www.serwisinformacyjny.x9.eu
 www.serwislaptopowwarszawa.com.pl
@@ -78988,6 +79544,7 @@ www.slimads.vn
 www.slimak-pozyczki.pl
 www.slimerix.pl
 www.slimitoys.com
+www.sliponbuty.com
 www.slodka-nagroda.click
 www.slodki-traf.click
 www.slodkibar.pl
@@ -79242,6 +79799,7 @@ www.sprawajestprosta21.online
 www.sprawajestprosta21.site
 www.sprawanr035812.net
 www.sprawdz-identyfikacje.logowaniel.co.pl
+www.sprawdz-identyfikacje.netafix-pl.digital
 www.sprawdz-identyfikacje.vernetaid.co.pl
 www.sprawdz-ogladaj.bo.pl
 www.sprawdz-swoje-iq.pl
@@ -79362,6 +79920,7 @@ www.steamcomminytiu.com
 www.steamcommiunuty.com
 www.steamcommnuitry.com
 www.steamcommnunitly.com
+www.steamcommunityu.com
 www.steamcommunjty.com
 www.steamcommunytu.ru
 www.steamcommunyty.com
@@ -79516,6 +80075,7 @@ www.superdatehere-now1.com
 www.superdrypolska.com
 www.superdupershirt.blogspot.com
 www.superemail.pl
+www.superga-pl.com
 www.supergabuty.com
 www.supergapolska.pl
 www.supergra2020.wixsite.com
@@ -79575,6 +80135,7 @@ www.swiatgitar.com
 www.swiatpsychoterapii.pl
 www.swiattesterow.pl
 www.swiatwiadomosci.xyz
+www.swierze-info.waw.pl
 www.swierze-wiadomosci.waw.pl
 www.swietna-pozyczka.pl
 www.swietny-organizm.com
@@ -79655,6 +80216,7 @@ www.szybkie-punktowanie.eu
 www.szybkie-wysylki.online
 www.szybkie-zakupy.co.pl
 www.szybkieinfo.pl
+www.szybkiepaczki.online
 www.szybkiezycie1.online
 www.szybkoiprosto.website
 www.t-analytics.com
@@ -79827,12 +80389,14 @@ www.tesla-pl.website
 www.tesla-polskaaa.icu
 www.teslag.club
 www.teslamotors.com.pl
+www.teslastock-pl.website
 www.teslax.shop
 www.tesler.today
 www.tesssla-pl.website
 www.test--na--iq.blogspot.com
 www.test-hole-cert-pl.cf
 www.test.maciejdudek.com.pl
+www.testaprofit-pl.website
 www.testargames.cl
 www.testclub.pl
 www.testcompetence.pl
@@ -79845,6 +80409,7 @@ www.testowanietwojegoiq.blogspot.com
 www.testracking.com
 www.teterly.site
 www.teva-polska.pl
+www.tevabutypolska.pl
 www.tevasandalypl.org
 www.tevasklep.com
 www.tevkhkoztp.com
@@ -79937,6 +80502,7 @@ www.thesearchagency.net
 www.thesexcinema.com
 www.thesocialsexnetwork.com
 www.thesurfshield.com
+www.theteamcenter.site
 www.thetop.be
 www.thetraderinpajamas.com
 www.theultimatebeds.com
@@ -79946,6 +80512,7 @@ www.theverto.xyz
 www.thewaycloud.com
 www.theweatherspace.com
 www.theworldoftortoise.blogspot.com
+www.thewwpc.com
 www.thickcash.com
 www.thienlongcnc.com
 www.thietbisukiengiare.vn
@@ -80235,6 +80802,7 @@ www.trampoliny170.com
 www.trampoliny180.com
 www.trampoliny200.com
 www.trampoliny260.com
+www.trampoliny275.com
 www.trampolshop.com
 www.transakcja9381.net
 www.transakcji.pl
@@ -80398,6 +80966,7 @@ www.tvpinfoonline.blogspot.com
 www.tvpsport.blogspot.com
 www.tvshowslist.com
 www.tvsportmedia.blogspot.com
+www.tvwxf2.webwave.dev
 www.tweetelonmusk.ir
 www.twenty-wishes.000webhostapp.com
 www.twenty20experience.blogspot.com
@@ -80567,6 +81136,7 @@ www.unnathimilk.com
 www.unrealcommander.biz
 www.unrealcommander.com
 www.unrealcommander.org
+www.unxismartaaqkadjlmmm5mde4ltk2ywutngi2os05othllte3mzq4mte.us-south.cf.appdomain.cloud
 www.up-eazy1.xyz
 www.up-poczta-polska.net
 www.up2date.moonfruit.com
@@ -80578,6 +81148,7 @@ www.update-information.zzux.com
 www.update-java.kit.net
 www.update-security.ddns.info
 www.update-security.qhigh.com
+www.updatecatalogs.com
 www.updatepolishwebmail.weebly.com
 www.updateservicesverification.web.app
 www.updatestar.com
@@ -80882,6 +81453,7 @@ www.w-sieci-piszczy.o99o.com.pl
 www.w-szpitalu.gmina.pl
 www.w.nolimit-video.com
 www.w.paczkcups.com
+www.w.paczkgups.com
 www.w.paczkoups.com
 www.w.paczkwups.com
 www.w2mobile.com
@@ -81125,6 +81697,7 @@ www.wiadomosci-j24.cleverapps.io
 www.wiadomosci-katowice.xyz
 www.wiadomosci-kielce.xyz
 www.wiadomosci-naszemiasto24.x9.eu
+www.wiadomosci-niedziela.waw.pl
 www.wiadomosci-olsztyn.xyz
 www.wiadomosci-opole.xyz
 www.wiadomosci-radom.xyz
@@ -81174,6 +81747,7 @@ www.wiki.ero-advertising.com
 www.wikia.cm
 www.wiktorek140.cba.pl
 www.wilanowskibiegkrolewski.pl
+www.wild-deneme123.tk
 www.wild0army.com
 www.wilddreams.info
 www.wilkiewicz.pl
@@ -81182,7 +81756,6 @@ www.willa-marina.pl
 www.willapasym.pl
 www.willcommen.de
 www.williamhill.es
-www.willow-nettica.com
 www.willysy.com
 www.wilrio.xyz
 www.wimaj.pl
@@ -81264,6 +81837,7 @@ www.wolaklosza.is-best.net
 www.wolski.med.pl
 www.wolsztynie.xyz
 www.wolverineplonline.blogspot.com
+www.wolx.id-65393.me
 www.wolyncalyfilm.wordpress.com
 www.women-4-dating2.com
 www.wondereg.site
@@ -81358,11 +81932,13 @@ www.wta.ero-advertising.com
 www.wtmtrack.com
 www.wtoruniu.xyz
 www.wtp101.com
+www.wtymileprawdy.xyz
 www.wu4652.com.tw
 www.wuus.org.cn
 www.wvw-oix.pl
 www.wvw-olx.pl
 www.ww.kowdent.pl
+www.ww.paczkaups.com
 www.ww.paczkjups.com
 www.ww1.e-kino.tv
 www.ww1.shinden-anime.info
@@ -81426,6 +82002,7 @@ www.wydarzenia24.czest.pl
 www.wydarzenia24.pisz.pl
 www.wydarzenia24.x9.eu
 www.wydarzeniaroku020.site
+www.wydarzenie-tygodnia.waw.pl
 www.wydawca.lead.network
 www.wydawnictwo-systherm.pl
 www.wydawnictwobila.pl
@@ -81450,6 +82027,7 @@ www.wylotbuty.top
 www.wymierneeffekty.site
 www.wypad3k0.blogspot.com
 www.wypadki24.e-kei.pl
+www.wyplata-olx-pl.tk
 www.wypoczywajunas.pl
 www.wyposazeniedomow.com.pl
 www.wyprzedaz-polska.cyou
@@ -81509,6 +82087,7 @@ www.xadsmart.com
 www.xamak10.com
 www.xawqerklewq.myartsonline.com
 www.xaxis.com
+www.xb83u0.webwave.dev
 www.xbirix.com
 www.xbn.ru
 www.xbox1emulator.org
@@ -81551,6 +82130,7 @@ www.xn--turkishirlines-1p8g.com
 www.xpays.com
 www.xpressoptions247.com
 www.xref.icu
+www.xsph.ru
 www.xtroglobal.com
 www.xvideoslive.com
 www.xvika.net
@@ -81989,6 +82569,7 @@ www.zus-wyplata.cf
 www.zus-wyplata.ga
 www.zus-wyplata.gq
 www.zus-wyplata.ml
+www.zus-wyplata.tk
 www.zuverink.net
 www.zuzu-criss.blogspot.com
 www.zvetmet.ru
@@ -82921,6 +83502,7 @@ wydarzenia24.czest.pl
 wydarzenia24.pisz.pl
 wydarzenia24.x9.eu
 wydarzeniaroku020.site
+wydarzenie-tygodnia.waw.pl
 wydawca.lead.network
 wydawnictwo-systherm.pl
 wydawnictwobila.pl
@@ -82947,6 +83529,7 @@ wylotbuty.top
 wymierneeffekty.site
 wypad3k0.blogspot.com
 wypadki24.e-kei.pl
+wyplata-olx-pl.tk
 wypoczywajunas.pl
 wyposazeniedomow.com.pl
 wyprzedaz-polska.cyou
@@ -83077,6 +83660,7 @@ xawqerklewq.myartsonline.com
 xaxis.com
 xaxis.lavanetwork.net
 xay5o.toscane-boutique.fr
+xb83u0.webwave.dev
 xbasfbno.info
 xbirix.com
 xblasterads1.com
@@ -83138,7 +83722,6 @@ xhealth.112.2o7.net
 xhealthmobiletools.112.2o7.net
 xhealthmobiltools.112.2o7.net
 xhqpgt.skullpig.com
-xia.beihaixue.com
 xiangchaokankan.m.cn.miaozhen.com
 xianyujc.com
 xiaomi-mipdx.cn.miaozhen.com
@@ -83155,6 +83738,7 @@ xitvce.webtretho.com
 xiuxiu.mobile.meitudata.com
 xivafk.armut.com
 xk.996is.com
+xk1.996is.com
 xkddvf.gigantti.fi
 xknhwv.mobile01.com
 xkvmsr.hair.com
@@ -83465,6 +84049,7 @@ xohhed.macway.com
 xoomer.alice.it
 xovq5nemr.com
 xpantivirus.com
+xpawel.com
 xphones-2019.info
 xpig-dev.directservices.it
 xpl.theadex.com
@@ -83489,6 +84074,7 @@ xseed-digital.jp
 xskcjzamlkxwo.gq
 xslmpq.ohou.se
 xspacemail.partner.net.daraz.com
+xsph.ru
 xsrzqh.bdnews24.com
 xsrzqh.findads.com.au
 xsrzqh.oferte360.ro
@@ -84525,6 +85111,7 @@ zus-wyplata.cf
 zus-wyplata.ga
 zus-wyplata.gq
 zus-wyplata.ml
+zus-wyplata.tk
 zuverink.net
 zuzu-criss.blogspot.com
 zuzzer5.com
