@@ -7,6 +7,8 @@
 # Version:								0.0.01
 # Homepage: 							http://chef-koch.github.io/NSABlocklist/
 
+# Title: NSABlocklist Pi-Hole Edition
+
 # NSABlocklist begins here
 mail.a-1.net.cn
 axil.eureka.lk
