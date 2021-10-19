@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20211017
+# Version: 20211019
 # Entries: 94,425
-# Updated: Sun, 17 Oct 21 19:03:00
+# Updated: Tue, 19 Oct 21 15:50:08
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.beeglivesex.com
