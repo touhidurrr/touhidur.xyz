@@ -5,10 +5,12 @@ on:
     - cron: '0 19 * * *' # BST 01:00 (GMT+6)
   push:
     paths:
-      - '.github/workflows/**'
+      - '.github/workflows/scheduled.yml'
+      - '.github/workflows/scripts/nextdns-lists.py'
   pull_request:
     paths:
-      - '.github/workflows/**'
+      - '.github/workflows/scheduled.yml'
+      - '.github/workflows/scripts/nextdns-lists.py'
   workflow_dispatch:
 
 jobs:
