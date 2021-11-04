@@ -8,7 +8,8 @@ on:
       - '!build/**'
       - '.gitignore'
       - '!filterlists/**'
-      - '.github/workflows/**'
+      - '.github/workflows/sitemap.yml'
+      - '.github/workflows/scripts/sitemap.py'
   pull_request:
     paths:
       - '**'
@@ -16,7 +17,8 @@ on:
       - '!build/**'
       - '.gitignore'
       - '!filterlists/**'
-      - '.github/workflows/**'
+      - '.github/workflows/sitemap.yml'
+      - '.github/workflows/scripts/sitemap.py'
   workflow_dispatch:
 
 jobs:
@@ -44,5 +46,4 @@ jobs:
           git config --local user.name 'touhidurrr'
           git add .
           git commit -m 'Generate Sitemap [Automated]'
-          git pull
           git push
