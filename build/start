@@ -5,3 +5,5 @@ chmod +x build/*
 rm LICENSE
 rm -rf .g*
 rm -rf build
+
+sleep 10
