@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20211230
-# Entries: 101,589
-# Updated: Thu, 30 Dec 21 19:04:21
+# Version: 20211231
+# Entries: 101,578
+# Updated: Fri, 31 Dec 21 19:03:27
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-132.net.daraz.com
@@ -352,7 +352,6 @@
 1262.hittail.com
 126898.iogowanie.xyz
 127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 127.173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 12724.xyz
 1274.mediatraffic.com
@@ -443,7 +442,6 @@
 17003124.xyz
 17058.engine.mobileapptracking.com
 171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 172.223.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 173.31.53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
@@ -650,7 +648,6 @@
 201mb.com
 201vulkanvegas.com
 202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 202.127.173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 202.173.31.53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 202.4.6.58.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
@@ -741,7 +738,6 @@
 243029-18685.link.iwanttodeliver.com
 244657-12903.link.iwanttodeliver.com
 246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 2468.go2cloud.org
 2468034997.brzegiemziemi.pl
 24695.com
@@ -4678,7 +4674,6 @@ adithyainstitute.in
 adition.com
 adition.de
 adition.net
-adityasolsurf.in
 adizio.com
 adj.st
 adj1.thruport.com
@@ -12114,7 +12109,6 @@ awestrickenfarraginous.com
 awiectakieopowiidanie.space
 awin.com
 awin1.com
-awokeq.co.za
 awowwo.forever21.com
 awrfds3.pornpapa.com
 awrz.net
@@ -12557,6 +12551,7 @@ banjers.ero-advertising.com
 bank-ing.web.app
 bank-project.surge.sh
 bank-zaprasza.online
+bank.zanderscloud.com.ng
 bank01.ads.dt.mydas.mobi
 bank01.ads.mp.mydas.mobi
 bank02.ads.dt.mydas.mobi
@@ -13180,6 +13175,7 @@ beap.gemini.yahoo.com
 bear.ama.so
 bear.jake.nyc
 bear.modulr.design
+bearcatpumps.com.cn
 beasybd.com
 beat.thedrum.com
 beatsfortheone.blogspot.com
@@ -13673,6 +13669,7 @@ bigip2.hitbox.com
 biglineint.com
 bigmarketplace.ng
 bigmart.com.np
+bigmikesupplies.co.za
 bigmobileads.com
 bigmoviesz.com
 bignamestanfree.wixsite.com
@@ -15537,7 +15534,6 @@ c73gfhdsjs8.bar
 c752sa.k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 c752sa3k9ob2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 c752sa3k9oeb2egpgc8fnhkeyyyyy.domsearch.net
 c752sa3k9oeb2ehgpgc8fnhkeyyyyy.domsearch.net
 c753738.r38.cf2.rackcdn.com
@@ -17550,7 +17546,6 @@ citepucevasuxuqesu.ga
 cithingy.info
 citi-groupglobal-markets.com
 citi.bridgetrack.com.edgesuite.net
-citihits.lk
 citimobile.d2.sc.omtrdc.net
 citiqproperties.co.za
 citizensclimate.actonservice.com
@@ -23246,7 +23241,6 @@ developer.team1global.com.au
 developers.ants.vn
 developers.cityads.com
 developjapan.122.2o7.net
-development.goipcloud.co.ke
 development.oregon4biz.com
 devfw.imrworldwide.com
 devguardmap.org
@@ -24722,7 +24716,6 @@ dsads123a.is-best.net
 dsbtpy.viata.nl
 dscare4u.com
 dsdkkdarfbcf9.cloudfront.net
-dsenterprize.co.za
 dserver.hw.net
 dsg.hgigs.info
 dsg.sc.omtrdc.net
@@ -26013,7 +26006,6 @@ elderlyscissors.com
 elderlytown.com
 eldinews.com
 elearning.physiotraining.com.gt
-elearning2014.siamtechu.net
 elecompl.online
 eleconomista.d1.sc.omtrdc.net
 election-sandwich-en-stationi.carte-gr.total.fr
@@ -29036,6 +29028,7 @@ foundation-newbuss.info
 foundation-newbuss.online
 foundation-newbussines.online
 foundation-newedu.online
+foundationrepairhoustontx.net
 foundinform.biz
 foundinform.us
 fountx.com
@@ -32578,7 +32571,6 @@ grinlike.site
 grlotosinvve.info
 grmtech.net
 grnpower.io
-grocer.today
 gromans.com.pl
 groms-dat.com
 grools.xyz
@@ -32834,7 +32826,6 @@ h.accesstrade.net
 h.admob.com
 h.atdmt.com
 h.cedatoplayer.com
-h.dett.cn
 h.hollywood.com
 h.irs01.com
 h.mobcells.com
@@ -34872,6 +34863,7 @@ imarketingsuita5.info
 imarketservices.com
 imbc.onthewifi.com
 imbtc.site
+imbueautoworx.co.za
 imc.l.qq.com
 imc.mediaz.vn
 imc2.122.2o7.net
@@ -37637,7 +37629,6 @@ ji.revolvermaps.com
 ji1.in
 ji789o.webwave.dev
 jiajinna.com
-jiaoyuzixun.cn
 jijisa.com
 jijsonline.112.2o7.net
 jijsonline.122.2o7.net
@@ -38326,6 +38317,7 @@ kbdemolering.se
 kbdemolering.se.oblyapp.com
 kbm.bitgarage.com.np
 kbviuj.enoteca.co.jp
+kc.dett.cn
 kc4el.org
 kcf.wowma.jp
 kcimagesplus.com
@@ -41769,7 +41761,6 @@ mail.adsame.com
 mail.autodiscover.net.zooplus.nl
 mail.avis.cm
 mail.bangla.net
-mail.bs-eiendomme.co.za
 mail.cnn.cm
 mail.cyberh.fr
 mail.developer.net.zooplus.nl
@@ -46919,7 +46910,6 @@ networkingloading.com
 networkingproperty.com
 networksdk.ssacdn.com
 networksolutions.112.2o7.net
-networkwheels.co.za
 networld.hk
 netzmarkt.ivwbox.de
 neudesicmediagroup.com
@@ -49746,6 +49736,7 @@ onlineapi.youappi.com
 onlinebestoffers.net
 onlinecash.com
 onlinecashmethod.com
+onlinecasinosonfire.com
 onlinecda.pl
 onlinecinema.eu
 onlinediscount2021.ru
@@ -54862,7 +54853,6 @@ prostagroup.host
 prostasytuacjadlawas.website
 prostezycie.click
 prostozpolski365.pl
-prosupport.cl
 prosze-uwazaj.pl
 prosze.moonfruit.com
 protechasia.com
@@ -55346,6 +55336,7 @@ pv.vipwm.cc
 pv.wantsfly.com
 pv4u.com
 pv60mj.webwave.dev
+pvcprinting.co.uk
 pvjw5q.webwave.dev
 pvoheg.bubbleroom.se
 pw.analytics.console.aws.a2z.com
@@ -64954,7 +64945,6 @@ statutorjuihui.site
 statxpress.com
 statystyki.ekspertyzy-szkolenia.pl
 stawiamyslady.pl
-stayinoceancitymd.com
 stayreading.com
 staysystem.net
 staywithme087.bar
@@ -67248,6 +67238,7 @@ th.2.cqcounter.com
 thaayagam.com
 thainews.asia
 thaivictory.co.th
+thalesfu.com
 thamescom.com
 thanfocus.com
 thankstossl.com
@@ -72449,7 +72440,6 @@ w1.hitbox.com
 w1.iyi.net
 w1.tcr112.tynt.com
 w1.webcompteur.com
-w1.zypaint.com
 w10.am15.net
 w10.centralmediaserver.com
 w10.hitbox.com
@@ -72759,6 +72749,7 @@ walka419.site
 walkerpost.net
 walkhatclock.com
 walki-konkursowe.eu
+walkindrivetoday.com
 walkthedinosaur.com
 wall-orlen.biz
 wall.adgaterewards.com
@@ -93588,7 +93579,6 @@ www.restore-pc.com
 www.restricted.pl
 www.restrictivessepaloid.com
 www.restrictstick.com
-www.restrolife.com
 www.restybnoy.site
 www.retailproductsusa.com
 www.retiremonkey.top
@@ -99974,7 +99964,6 @@ x-pronet.com
 x-storage-a1.cir.io
 x-traceur.com
 x-zdjecia.cleverapps.io
-x.233sy.cn
 x.admob.com
 x.adnet.qq.com
 x.adpro.cn

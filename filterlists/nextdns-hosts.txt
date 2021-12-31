@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: hosts
-# Version: 20211230
-# Entries: 101,589
-# Updated: Thu, 30 Dec 21 19:04:21
+# Version: 20211231
+# Entries: 101,578
+# Updated: Fri, 31 Dec 21 19:03:27
 # RAW: https://touhidur.xyz/filterlists/nextdns-hosts.txt
 # --------------------------------------------------------------------------------------------------------
 
@@ -368,7 +368,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1262.hittail.com
 0.0.0.0 126898.iogowanie.xyz
 0.0.0.0 127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-0.0.0.0 127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 127.173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 12724.xyz
 0.0.0.0 1274.mediatraffic.com
@@ -459,7 +458,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 17003124.xyz
 0.0.0.0 17058.engine.mobileapptracking.com
 0.0.0.0 171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-0.0.0.0 171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 172.223.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 173.31.53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
@@ -666,7 +664,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 201mb.com
 0.0.0.0 201vulkanvegas.com
 0.0.0.0 202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-0.0.0.0 202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 202.127.173.74.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 202.173.31.53.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 202.4.6.58.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
@@ -757,7 +754,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 243029-18685.link.iwanttodeliver.com
 0.0.0.0 244657-12903.link.iwanttodeliver.com
 0.0.0.0 246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-0.0.0.0 246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 2468.go2cloud.org
 0.0.0.0 2468034997.brzegiemziemi.pl
 0.0.0.0 24695.com
@@ -4554,7 +4550,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adition.com
 0.0.0.0 adition.de
 0.0.0.0 adition.net
-0.0.0.0 adityasolsurf.in
 0.0.0.0 adizio.com
 0.0.0.0 adj.st
 0.0.0.0 adj1.thruport.com
@@ -11790,7 +11785,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 awiectakieopowiidanie.space
 0.0.0.0 awin.com
 0.0.0.0 awin1.com
-0.0.0.0 awokeq.co.za
 0.0.0.0 awowwo.forever21.com
 0.0.0.0 awrfds3.pornpapa.com
 0.0.0.0 awrz.net
@@ -12222,6 +12216,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bank-ing.web.app
 0.0.0.0 bank-project.surge.sh
 0.0.0.0 bank-zaprasza.online
+0.0.0.0 bank.zanderscloud.com.ng
 0.0.0.0 bank01.ads.dt.mydas.mobi
 0.0.0.0 bank01.ads.mp.mydas.mobi
 0.0.0.0 bank02.ads.dt.mydas.mobi
@@ -12839,6 +12834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bear.ama.so
 0.0.0.0 bear.jake.nyc
 0.0.0.0 bear.modulr.design
+0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beasybd.com
 0.0.0.0 beat.thedrum.com
 0.0.0.0 beatsfortheone.blogspot.com
@@ -13332,6 +13328,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 biglineint.com
 0.0.0.0 bigmarketplace.ng
 0.0.0.0 bigmart.com.np
+0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bigmoviesz.com
 0.0.0.0 bignamestanfree.wixsite.com
 0.0.0.0 bigosg-inv-eu.admixer.net
@@ -15162,7 +15159,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 c752sa.k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 c752sa3k9ob2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
-0.0.0.0 c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net202.127.171.246.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net
 0.0.0.0 c752sa3k9oeb2egpgc8fnhkeyyyyy.domsearch.net
 0.0.0.0 c752sa3k9oeb2ehgpgc8fnhkeyyyyy.domsearch.net
 0.0.0.0 c7e58e2241.natrasiekorzysci.pl
@@ -17150,7 +17146,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cithingy.info
 0.0.0.0 citi-groupglobal-markets.com
 0.0.0.0 citi.bridgetrack.com.edgesuite.net
-0.0.0.0 citihits.lk
 0.0.0.0 citimobile.d2.sc.omtrdc.net
 0.0.0.0 citiqproperties.co.za
 0.0.0.0 citizensclimate.actonservice.com
@@ -22779,7 +22774,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 developers.ants.vn
 0.0.0.0 developers.cityads.com
 0.0.0.0 developjapan.122.2o7.net
-0.0.0.0 development.goipcloud.co.ke
 0.0.0.0 development.oregon4biz.com
 0.0.0.0 devfw.imrworldwide.com
 0.0.0.0 devguardmap.org
@@ -24232,7 +24226,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dsbtpy.viata.nl
 0.0.0.0 dscare4u.com
 0.0.0.0 dsdkkdarfbcf9.cloudfront.net
-0.0.0.0 dsenterprize.co.za
 0.0.0.0 dserver.hw.net
 0.0.0.0 dsg.hgigs.info
 0.0.0.0 dsg.sc.omtrdc.net
@@ -25489,7 +25482,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 elderlytown.com
 0.0.0.0 eldinews.com
 0.0.0.0 elearning.physiotraining.com.gt
-0.0.0.0 elearning2014.siamtechu.net
 0.0.0.0 elecompl.online
 0.0.0.0 eleconomista.d1.sc.omtrdc.net
 0.0.0.0 election-sandwich-en-stationi.carte-gr.total.fr
@@ -28496,6 +28488,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 foundation-newbuss.online
 0.0.0.0 foundation-newbussines.online
 0.0.0.0 foundation-newedu.online
+0.0.0.0 foundationrepairhoustontx.net
 0.0.0.0 foundinform.biz
 0.0.0.0 foundinform.us
 0.0.0.0 fountx.com
@@ -32014,7 +32007,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 grlotosinvve.info
 0.0.0.0 grmtech.net
 0.0.0.0 grnpower.io
-0.0.0.0 grocer.today
 0.0.0.0 gromans.com.pl
 0.0.0.0 groms-dat.com
 0.0.0.0 grools.xyz
@@ -32262,7 +32254,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 h.admob.com
 0.0.0.0 h.atdmt.com
 0.0.0.0 h.cedatoplayer.com
-0.0.0.0 h.dett.cn
 0.0.0.0 h.hollywood.com
 0.0.0.0 h.mobcells.com
 0.0.0.0 h.nexac.com
@@ -34250,6 +34241,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imarketservices.com
 0.0.0.0 imbc.onthewifi.com
 0.0.0.0 imbtc.site
+0.0.0.0 imbueautoworx.co.za
 0.0.0.0 imc.l.qq.com
 0.0.0.0 imc.mediaz.vn
 0.0.0.0 imc2.122.2o7.net
@@ -36983,7 +36975,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ji1.in
 0.0.0.0 ji789o.webwave.dev
 0.0.0.0 jiajinna.com
-0.0.0.0 jiaoyuzixun.cn
 0.0.0.0 jijisa.com
 0.0.0.0 jijsonline.112.2o7.net
 0.0.0.0 jijsonline.122.2o7.net
@@ -37657,6 +37648,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kbdemolering.se.oblyapp.com
 0.0.0.0 kbm.bitgarage.com.np
 0.0.0.0 kbviuj.enoteca.co.jp
+0.0.0.0 kc.dett.cn
 0.0.0.0 kc4el.org
 0.0.0.0 kcf.wowma.jp
 0.0.0.0 kcimagesplus.com
@@ -41053,7 +41045,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail.autodiscover.net.zooplus.nl
 0.0.0.0 mail.avis.cm
 0.0.0.0 mail.bangla.net
-0.0.0.0 mail.bs-eiendomme.co.za
 0.0.0.0 mail.cnn.cm
 0.0.0.0 mail.cyberh.fr
 0.0.0.0 mail.developer.net.zooplus.nl
@@ -46125,7 +46116,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 networkingproperty.com
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 networksolutions.112.2o7.net
-0.0.0.0 networkwheels.co.za
 0.0.0.0 networld.hk
 0.0.0.0 netzmarkt.ivwbox.de
 0.0.0.0 neudesicmediagroup.com
@@ -48932,6 +48922,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onlinebestoffers.net
 0.0.0.0 onlinecash.com
 0.0.0.0 onlinecashmethod.com
+0.0.0.0 onlinecasinosonfire.com
 0.0.0.0 onlinecda.pl
 0.0.0.0 onlinecinema.eu
 0.0.0.0 onlinediscount2021.ru
@@ -53982,7 +53973,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 prostasytuacjadlawas.website
 0.0.0.0 prostezycie.click
 0.0.0.0 prostozpolski365.pl
-0.0.0.0 prosupport.cl
 0.0.0.0 prosze-uwazaj.pl
 0.0.0.0 prosze.moonfruit.com
 0.0.0.0 protechasia.com
@@ -54456,6 +54446,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pv.wantsfly.com
 0.0.0.0 pv4u.com
 0.0.0.0 pv60mj.webwave.dev
+0.0.0.0 pvcprinting.co.uk
 0.0.0.0 pvjw5q.webwave.dev
 0.0.0.0 pvoheg.bubbleroom.se
 0.0.0.0 pw.analytics.console.aws.a2z.com
@@ -63903,7 +63894,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 statxpress.com
 0.0.0.0 statystyki.ekspertyzy-szkolenia.pl
 0.0.0.0 stawiamyslady.pl
-0.0.0.0 stayinoceancitymd.com
 0.0.0.0 stayreading.com
 0.0.0.0 staysystem.net
 0.0.0.0 staywithme087.bar
@@ -66155,6 +66145,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thaayagam.com
 0.0.0.0 thainews.asia
 0.0.0.0 thaivictory.co.th
+0.0.0.0 thalesfu.com
 0.0.0.0 thamescom.com
 0.0.0.0 thanfocus.com
 0.0.0.0 thankstossl.com
@@ -71273,7 +71264,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 w1.iyi.net
 0.0.0.0 w1.tcr112.tynt.com
 0.0.0.0 w1.webcompteur.com
-0.0.0.0 w1.zypaint.com
 0.0.0.0 w10.am15.net
 0.0.0.0 w10.centralmediaserver.com
 0.0.0.0 w10.hitbox.com
@@ -71583,6 +71573,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 walkerpost.net
 0.0.0.0 walkhatclock.com
 0.0.0.0 walki-konkursowe.eu
+0.0.0.0 walkindrivetoday.com
 0.0.0.0 walkthedinosaur.com
 0.0.0.0 wall-orlen.biz
 0.0.0.0 wall.adgaterewards.com
@@ -92373,7 +92364,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.restricted.pl
 0.0.0.0 www.restrictivessepaloid.com
 0.0.0.0 www.restrictstick.com
-0.0.0.0 www.restrolife.com
 0.0.0.0 www.restybnoy.site
 0.0.0.0 www.retailproductsusa.com
 0.0.0.0 www.retiremonkey.top
@@ -98747,7 +98737,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 x-storage-a1.cir.io
 0.0.0.0 x-traceur.com
 0.0.0.0 x-zdjecia.cleverapps.io
-0.0.0.0 x.233sy.cn
 0.0.0.0 x.admob.com
 0.0.0.0 x.azjmp.com
 0.0.0.0 x.bidswitch.net
