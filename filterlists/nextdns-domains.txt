@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20220127
-# Entries: 102,087
-# Updated: Thu, 27 Jan 22 19:02:51
+# Version: 20220128
+# Entries: 102,086
+# Updated: Fri, 28 Jan 22 19:03:05
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-132.net.daraz.com
@@ -15171,7 +15171,6 @@ cdn.clickfuse.com
 cdn.clicktale.net
 cdn.clinch.co
 cdn.cmp.advertising.com
-cdn.cnbj1.fds.api.mi-img.com
 cdn.comedia.coccoc.com
 cdn.concert.io
 cdn.connatix.com

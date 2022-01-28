@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: hosts
-# Version: 20220127
-# Entries: 102,087
-# Updated: Thu, 27 Jan 22 19:02:51
+# Version: 20220128
+# Entries: 102,086
+# Updated: Fri, 28 Jan 22 19:03:05
 # RAW: https://touhidur.xyz/filterlists/nextdns-hosts.txt
 # --------------------------------------------------------------------------------------------------------
 
@@ -101482,7 +101482,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 cdn.adm.myhayo.com
 127.0.0.1 cdn.aiclk.com
 127.0.0.1 cdn.celtra.com
-127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
 127.0.0.1 cdn.creative.medialytics.com
 127.0.0.1 cdn.nearbyad.com
 127.0.0.1 cdn.trafficforce.com
