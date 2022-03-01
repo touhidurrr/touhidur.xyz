@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20220228
-# Entries: 98,477
-# Updated: Mon, 28 Feb 22 19:03:56
+# Version: 20220301
+# Entries: 98,507
+# Updated: Tue, 01 Mar 22 19:04:04
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.beeglivesex.com
@@ -2794,6 +2794,7 @@ aadvantagepanelsandfence.com
 aag.yahooapis.jp
 aaget.xyz
 aagon.actonservice.com
+aaid.umeng.com
 aajataxi.com
 aalbc.advertserve.com
 aalures.com
@@ -4280,6 +4281,7 @@ adashx.m.taobao.com
 adashx.ut.amap.com
 adashx.ut.ele.me
 adashx.ut.taobao.com
+adashx.ut.youku.com
 adashx4ae.ut.taobao.com
 adashx4yt.m.taobao.com
 adashxgc.ut.taobao.com
@@ -7251,6 +7253,7 @@ advert.dyna.ultraweb.hu
 advert.funimation.com
 advert.leo.org
 advert.livesportmedia.eu
+advert.lx.netease.com
 advert.puzzles.mkjigsaw.com
 advert.ru.redtram.com
 advert.runescape.com
@@ -7375,6 +7378,7 @@ adx-asia-imp.aarki.net
 adx-asia.aarki.net
 adx-bid.tianzhuobj.com
 adx-exchange.toast.com
+adx-open-service.youku.com
 adx-static.ksosoft.com
 adx-tk.rayjump.com
 adx-west-imp.aarki.net
@@ -11289,8 +11293,12 @@ azwmscscka.rf.gd
 azwpikiran.co.vu
 azz.badazz.org
 b-code.liadm.com
+b-gi.gepush.com
 b-gi.getui.com
+b-gi.getui.net
+b-gtc.gepush.com
 b-gtc.getui.com
+b-gtc.getui.net
 b-s.tercept.com
 b-s500.com
 b-time.online
@@ -14170,6 +14178,7 @@ c-c-l.actonservice.com
 c-eus.w.inmobi.com
 c-gi.getui.com
 c-gtc.getui.com
+c-gtc.getui.net
 c-hzgt2.getui.com
 c.4dex.io
 c.aaxads.com
@@ -17505,7 +17514,6 @@ comm2.jeld-wen.com
 commanslabdpp.carte-gr.total.fr
 commanslabdspace.carte-gr.total.fr
 commatube.com
-commdata6.v.qq.com
 commerce.campaignmonitor.com
 commerce.www.ibm.com
 commercial.davey.com
@@ -18508,6 +18516,7 @@ cpprinter.com
 cpr.comptoirdescotonniers.com
 cpreal.top
 cpro.baidu.com
+cpro.baidustatic.com
 cpu.samsungelectronics.com
 cpusall.112.2o7.net
 cpv.popxml.com
@@ -28306,6 +28315,8 @@ ghwr-offers.com
 ghyard.com
 gi-js.genieessp.com
 gi.crptgen1.xyz
+gi.gepush.com
+gi.getui.net
 gi7a.structube.com
 giant.edu.np
 gibbingcontortionist.com
@@ -28481,6 +28492,7 @@ glokta.info
 gloomfulgloomful.com
 gloos-ves.com
 glopages.ru
+glores2.taisantech.com
 glosmiasta.eu
 glosmiasta.mazowsze.pl
 glosmiasta.org.pl
@@ -30679,6 +30691,7 @@ gzlxvg.papy.co.jp
 h-adachi.org
 h-adashx.ut.ele.me
 h-adashx.ut.taobao.com
+h-adashx.ut.youku.com
 h-adashx4ae.ut.taobao.com
 h-adashx4yt.ut.taobao.com
 h-afnetwww.adshuffle.com
@@ -31643,6 +31656,7 @@ howtotroll.org
 hp.myway.com
 hp1.tcbnet.ne.jp
 hpad.www.infoseek.co.jp
+hpd.baidu.com
 hpglobal.112.2o7.net
 hphqglobal.112.2o7.net
 hphqsearch.112.2o7.net
@@ -32744,6 +32758,7 @@ imp-adedge.i-mobile.co.jp
 imp-dsp.bidgear.com
 imp-east.pub.local.emxdgt.com
 imp-m.ambient-platform.com
+imp.ad.xelements.cn
 imp.admarketplace.net
 imp.adnetwork.vn
 imp.adsmogo.com
@@ -38929,6 +38944,7 @@ m01.webwise.org
 m02.webwise.org
 m1-shop.ru
 m1.2mdn.net
+m1.ad.10010.com
 m1.fwmrm.net
 m1.nedstatbasic.net
 m1.nsimg.net
@@ -38957,6 +38973,7 @@ m6dqx-ad3hl.ads.tremorhub.com
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 m6r.eu
 m7hdh-2damu.ads.tremorhub.com
+ma-adx.ctrip.com
 ma-i2i.jp
 ma-kaeser.ch
 ma-plastifieuse.info
@@ -42292,6 +42309,7 @@ mommyish.us.intellitxt.com
 momotaro.craigmod.com
 momotaro.walkkumano.com
 momoxxio.com
+mon.ad.xelements.cn
 mon.adx.vn
 mon.byteoversea.com
 mon.ingservices.nl
@@ -42735,6 +42753,7 @@ mtrs.fluor.com
 mtrx.go.sonobi.com
 mtsas.freehost.pl
 mtt.eve.mdt.qq.com
+mtt.str.mdt.qq.com
 mttag.com
 mttwtrack.com
 mtv.hb.omtrdc.net
@@ -45322,6 +45341,7 @@ officialprokodsukses.icu
 officialsoar.com
 offingl.incogtrad.site
 offlinehbpl.hbpl.co.uk
+offmsg.umeng.com
 offshoreanglehost.com
 offside2.000webhostapp.com
 offspringperform.net
@@ -51726,6 +51746,7 @@ public-webservice.geo.adpushup.com
 public.adgger.jp
 public.astrsk.net
 public.fam-8.com
+public.gdtimg.com
 public.servenobid.com
 publicationsunbound.112.2o7.net
 publicidad.davivienda.com.pa
@@ -53981,6 +54002,7 @@ s.ads.sohu.com
 s.adtelligent.com
 s.advertiserurl.com
 s.adx.io
+s.adxvip.com
 s.ahom.com
 s.allbootdisks.com
 s.amazon-adsystem.com
@@ -54114,6 +54136,7 @@ s.thespec.com
 s.thestar.com
 s.toyotafinancial.com
 s.tpctrust.com
+s.trafficjam.cn
 s.tribalfusion.com
 s.tuoitre.vn
 s.uadx.com
@@ -54781,6 +54804,7 @@ sanl.footlocker.pt
 sanl.footlocker.se
 sanl.sidestepstore.be
 sanl.sidestepstore.es
+sanme2.taisantech.com
 sanmet.originenergy.com.au
 sansimeonqualityinn.com
 sansrol-com.preview-domain.com
@@ -55298,7 +55322,6 @@ sdkm.gr
 sdkm.w.inmobi.cn
 sdkm.w.inmobi.com
 sdkrec.tf.360.cn
-sdksp6.video.qq.com
 sdktm.w.inmobi.cn
 sdktm.w.inmobi.com
 sdkuaservice.optimove.net
@@ -59789,6 +59812,7 @@ ssp.tadseeker.com
 ssp.urekamedia.com
 ssp.videowalldirect.com
 ssp.youxiaoad.com
+ssp1.kfadx.tech
 sspapi.admicro.vn
 sspawdzktopodgglada.blogspot.com
 sspbadecz.ugu.pl
@@ -62478,7 +62502,9 @@ tales-of-sanfrancisco.blogspot.com
 taletela.us.intellitxt.com
 tali.iad-03.braze.com
 talk.igexin.com
+talk.nz4.gepush.com
 talk.nz4.getui.com
+talk.nz4.getui.net
 talk99.cn
 talkaxis.com
 talkcon.info
@@ -63682,6 +63708,7 @@ tm1.hoiplay.com
 tm2.r-ad.ne.jp
 tmbinaryfx.com
 tmcg.pl
+tmeadcomm.y.qq.com
 tmgr.ccmbg.com
 tmhgma.juwelo.de
 tmk.smartadserver.com
@@ -67038,6 +67065,7 @@ vap4ord1.lijit.com
 vap4sfo1.lijit.com
 vap5ewr1.lijit.com
 vap6ewr1.lijit.com
+vapi.tiandi.com
 vapixel.adsafeprotected.com
 vapormax.pl
 vardian.xyz
@@ -69314,6 +69342,7 @@ wkatowicach.xyz
 wkielcach.xyz
 wkladpompy.pl
 wkmg.co.kr
+wkrd.tingyun.com
 wks.ero-advertising.com
 wl.aniview.com.edgekey.net
 wl.hd.sohu.com
@@ -96769,7 +96798,6 @@ wxa79ef55c1a84e284.wx.ckjr001.com
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.video.qq.com
-wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 wxyzservermg3.web.app
 wxyzservermg4.web.app
@@ -97609,6 +97637,8 @@ yip.su
 yj-a.p.adnxs.com
 yj.p.adnxs.com
 yjxssk.apartments.com
+yk-ssp.ad.youku.com
+ykad-data.youku.com
 ykad-gateway.youku.com
 ykhliz.manscaped.com
 ykhqhe.domain.com.au

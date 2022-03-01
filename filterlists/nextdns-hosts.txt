@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: hosts
-# Version: 20220228
-# Entries: 98,477
-# Updated: Mon, 28 Feb 22 19:03:56
+# Version: 20220301
+# Entries: 98,507
+# Updated: Tue, 01 Mar 22 19:04:04
 # RAW: https://touhidur.xyz/filterlists/nextdns-hosts.txt
 # --------------------------------------------------------------------------------------------------------
 
@@ -97343,6 +97343,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 aa0.pub.funshion.com
 127.0.0.1 aa1.pub.funshion.com
 127.0.0.1 aads.shuzilm.cn
+127.0.0.1 aaid.umeng.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 abtest-ch.snssdk.com
@@ -97437,6 +97438,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 adashx.m.taobao.com
 127.0.0.1 adashx.ut.amap.com
 127.0.0.1 adashx.ut.ele.me
+127.0.0.1 adashx.ut.youku.com
 127.0.0.1 adashx4yt.m.taobao.com
 127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 adavideo.baidu.com
@@ -97618,11 +97620,13 @@ ff02::3 ip6-allhosts
 127.0.0.1 adv.madserving.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 adver.qq.com
+127.0.0.1 advert.lx.netease.com
 127.0.0.1 advertpay-vip-ssl.xunlei.com
 127.0.0.1 advertpay.vip.xunlei.com
 127.0.0.1 adview.cn
 127.0.0.1 adwbs.ximalaya.com
 127.0.0.1 adx-bid.tianzhuobj.com
+127.0.0.1 adx-open-service.youku.com
 127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 adx.ads.oppomobile.com
@@ -97652,6 +97656,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 all.cnzz.com.danuoyi.tbcache.com
 127.0.0.1 alog.umeng.com
 127.0.0.1 alog.umengcloud.com
+127.0.0.1 alogsus.umeng.com
+127.0.0.1 alogus.umeng.com
 127.0.0.1 als.baidu.com
 127.0.0.1 ama.adwo.com
 127.0.0.1 amdc.m.taobao.com
@@ -97746,8 +97752,12 @@ ff02::3 ip6-allhosts
 127.0.0.1 autobild.adsame.com
 127.0.0.1 av1.xdrig.com
 127.0.0.1 awake-stats.jpush.cn
+127.0.0.1 b-gi.gepush.com
 127.0.0.1 b-gi.getui.com
+127.0.0.1 b-gi.getui.net
+127.0.0.1 b-gtc.gepush.com
 127.0.0.1 b-gtc.getui.com
+127.0.0.1 b-gtc.getui.net
 127.0.0.1 b.admedia.com
 127.0.0.1 b.appjiagu.com
 127.0.0.1 b.qchannel03.cn
@@ -97793,6 +97803,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 c-gi.getui.com
 127.0.0.1 c-gtc.getui.com
+127.0.0.1 c-gtc.getui.net
 127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 c.admob.com
@@ -97876,7 +97887,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 cnf.adbana.com
 127.0.0.1 coconuts.boy.jp
-127.0.0.1 commdata6.v.qq.com
 127.0.0.1 commercial.shouji.360.cn
 127.0.0.1 conde.adsame.com
 127.0.0.1 conf.funshion.com
@@ -97893,6 +97903,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 count.game.pps.tv
 127.0.0.1 count.vrs.sohu.com
 127.0.0.1 cpro.baidu.com
+127.0.0.1 cpro.baidustatic.com
 127.0.0.1 crab.baidu.com
 127.0.0.1 creative1cdn.mobfox.com
 127.0.0.1 crs.baidu.com
@@ -98008,6 +98019,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 fclog.baidu.com
 127.0.0.1 feed-image.baidu.com
 127.0.0.1 fmg.aty.sohu.com
+127.0.0.1 fms.ipinyou.com
 127.0.0.1 ftpcontent.worldnow.com
 127.0.0.1 fumiad.dxys.pro
 127.0.0.1 fun.adx.admaster.com.cn
@@ -98039,6 +98051,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 ggx01.miguvideo.com
 127.0.0.1 ggx02.miguvideo.com
 127.0.0.1 ggx10.miguvideo.com
+127.0.0.1 gi.gepush.com
+127.0.0.1 gi.getui.net
+127.0.0.1 glores2.taisantech.com
 127.0.0.1 go.mobpartner.mobi
 127.0.0.1 go.vrvm.com
 127.0.0.1 goblin.hupu.com
@@ -98056,16 +98071,19 @@ ff02::3 ip6-allhosts
 127.0.0.1 gxbr.cnzz.com
 127.0.0.1 h-adashx.ut.ele.me
 127.0.0.1 h-adashx.ut.taobao.com
+127.0.0.1 h-adashx.ut.youku.com
 127.0.0.1 h-adashx4yt.ut.taobao.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 hd.hupu.com
 127.0.0.1 hdj.baidu.com
 127.0.0.1 hhbekxxw5d9e.pflexads.com
 127.0.0.1 hijack.baidu.com
+127.0.0.1 hm.baidu.com
 127.0.0.1 hm.l.qq.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 hnb2c.adsame.com
 127.0.0.1 hotchat-im.iqiyi.com
+127.0.0.1 hpd.baidu.com
 127.0.0.1 hqs1.cnzz.com
 127.0.0.1 hqs4.cnzz.com
 127.0.0.1 hqs7.cnzz.com
@@ -98116,6 +98134,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 img.ads.taptapnetworks.com
 127.0.0.1 img.srxjz.cn
 127.0.0.1 img.xuwnz.cn
+127.0.0.1 imp.ad.xelements.cn
 127.0.0.1 in.vipliangmei.com
 127.0.0.1 inline.admedia.com
 127.0.0.1 inneractive-assets.s3.amazonaws.com
@@ -98202,8 +98221,10 @@ ff02::3 ip6-allhosts
 127.0.0.1 m.shilian168.cn
 127.0.0.1 m.track.ad.xiaomi.com
 127.0.0.1 m.zdjgj.cn
+127.0.0.1 m1.ad.10010.com
 127.0.0.1 m2.da.mgtv.com
 127.0.0.1 m2m1.inner-active.mobi
+127.0.0.1 ma-adx.ctrip.com
 127.0.0.1 mail.adsame.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 material-ssl.mediav.com
@@ -98250,6 +98271,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 mobileads.msn.com
 127.0.0.1 mobpartner.mobi
 127.0.0.1 mobwsa.ximalaya.com
+127.0.0.1 mon.ad.xelements.cn
 127.0.0.1 mon.snssdk.com
 127.0.0.1 monitor-stsdk.vivo.com.cn
 127.0.0.1 monitor-uu.play.aiseet.atianqi.com
@@ -98271,6 +98293,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 mtrace.play.cp81.ott.cibntv.net
 127.0.0.1 mtrace.qq.com
 127.0.0.1 mtt.eve.mdt.qq.com
+127.0.0.1 mtt.str.mdt.qq.com
 127.0.0.1 mvp.mediav.com
 127.0.0.1 mw.adwo.com
 127.0.0.1 mws.adsage.com
@@ -98306,6 +98329,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 oasc04012.247realmedia.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 oeeee.adsame.com
+127.0.0.1 offmsg.umeng.com
 127.0.0.1 omgmta.play.aiseet.atianqi.com
 127.0.0.1 omgmta.play.ott.video.qq.com
 127.0.0.1 onrt-stsdk.vivo.com.cn
@@ -98392,6 +98416,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 prt.stsdk.vivo.com.cn
 127.0.0.1 pub.funshion.com
 127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 public.gdtimg.com
 127.0.0.1 puds.ucweb.com
 127.0.0.1 puma-api.iqiyi.com
 127.0.0.1 puma.api.iqiyi.com
@@ -98446,6 +98471,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 rtb.adview.cn
 127.0.0.1 s.360.cn
 127.0.0.1 s.ads.sohu.com
+127.0.0.1 s.adxvip.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.appjiagu.com
 127.0.0.1 s.cpro.baidu.com
@@ -98453,6 +98479,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 s.irs03.com
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s.snmi.cn
+127.0.0.1 s.trafficjam.cn
 127.0.0.1 s.youmi.net
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s06aa680.irs03.com
@@ -98481,6 +98508,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 sambasys.adsame.com
 127.0.0.1 sammix.adsame.com
 127.0.0.1 samrt.adsame.com
+127.0.0.1 sanme2.taisantech.com
 127.0.0.1 saturn.appads.com
 127.0.0.1 saturn1.appads.com
 127.0.0.1 saturn2.appads.com
@@ -98512,7 +98540,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 sdkm.w.inmobi.cn
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 sdkrec.tf.360.cn
-127.0.0.1 sdksp6.video.qq.com
 127.0.0.1 sdktm.w.inmobi.cn
 127.0.0.1 sdu.adwo.com
 127.0.0.1 search.mgc-games.com
@@ -98565,6 +98592,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 ssp.pro.cn
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 ssp.youxiaoad.com
+127.0.0.1 ssp1.kfadx.tech
 127.0.0.1 ssxd.mediav.com
 127.0.0.1 st.appsad.cn
 127.0.0.1 stadig.ifeng.com
@@ -98624,7 +98652,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 t6.a.market.xiaomi.com
 127.0.0.1 t7z.cupid.ptqy.gitv.tv
 127.0.0.1 ta.qq.com
+127.0.0.1 talk.nz4.gepush.com
 127.0.0.1 talk.nz4.getui.com
+127.0.0.1 talk.nz4.getui.net
 127.0.0.1 tangram.e.qq.com
 127.0.0.1 tanx.com
 127.0.0.1 tcbox.baidu.com
@@ -98641,6 +98671,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 timeserver.cnzz.net
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 tl.oneway.mobi
+127.0.0.1 tmeadcomm.y.qq.com
 127.0.0.1 tobapplog.ctobsnssdk.com
 127.0.0.1 toblog.ctobsnssdk.com
 127.0.0.1 tools.3g.qq.com
@@ -98704,6 +98735,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 val.atm.youku.com
 127.0.0.1 valatm.cp12.wasu.tv
 127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
+127.0.0.1 vapi.tiandi.com
 127.0.0.1 vbaof.admaster.com.cn
 127.0.0.1 vcardsdkservice.vivo.com.cn
 127.0.0.1 vd.l.qq.com
@@ -98741,6 +98773,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 win.gdt.qq.com
 127.0.0.1 wisepush.video.baidu.com
+127.0.0.1 wkrd.tingyun.com
 127.0.0.1 wl.hd.sohu.com
 127.0.0.1 wn.pos.baidu.com
 127.0.0.1 wv.inner-active.mobi
@@ -98797,7 +98830,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 wxsnsad.tc.qq.com
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 wxsnsdy.video.qq.com
-127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
 127.0.0.1 x.adnet.qq.com
 127.0.0.1 x.adpro.cn
@@ -98819,6 +98851,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 yaolan.adsame.com
 127.0.0.1 yaolu.mh.163.com
 127.0.0.1 yaolu.yuedu.163.com
+127.0.0.1 yk-ssp.ad.youku.com
+127.0.0.1 ykad-data.youku.com
 127.0.0.1 ykad-gateway.youku.com
 127.0.0.1 yktd.m.cn.miaozhen.com
 127.0.0.1 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
