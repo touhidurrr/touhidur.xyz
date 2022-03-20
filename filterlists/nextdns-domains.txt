@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20220319
-# Entries: 100,928
-# Updated: Sat, 19 Mar 22 19:03:22
+# Version: 20220320
+# Entries: 100,927
+# Updated: Sun, 20 Mar 22 19:03:37
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.beeglivesex.com
@@ -25133,8 +25133,6 @@ embed.tempest-identity.prod.saymedia.com
 embrocationsinti.intiaggressivity.com
 emc.122.2o7.net
 emc.dr-stick.shop
-emdcadvertise.eastmoney.com
-emdcadvise.eastmoney.com
 emdtpe.leksakscity.se
 emea-bidder.mathtag.com
 emea-v3.tracking.justpremium.com
@@ -49073,6 +49071,7 @@ panelpl.pl
 panelw-htgb-a.net.daraz.com
 pangle.io
 pangle.io.edgekey.net
+pangolin.snssdk.com
 pangolin16.isnssdk.com
 panickycurtain.com
 panickypancake.com

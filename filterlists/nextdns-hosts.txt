@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: hosts
-# Version: 20220319
-# Entries: 100,928
-# Updated: Sat, 19 Mar 22 19:03:22
+# Version: 20220320
+# Entries: 100,927
+# Updated: Sun, 20 Mar 22 19:03:37
 # RAW: https://touhidur.xyz/filterlists/nextdns-hosts.txt
 # --------------------------------------------------------------------------------------------------------
 
@@ -100319,6 +100319,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 config.inmobi.com
 127.0.0.1 config.jpush.cn
 127.0.0.1 config.mobisage.cn
+127.0.0.1 config.unityads.unitychina.cn
 127.0.0.1 conversion.adpro.cn
 127.0.0.1 conversion.pro.cn
 127.0.0.1 corebug.adsame.com
@@ -100416,8 +100417,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 ef-dongfeng.tanx.com
 127.0.0.1 ei.cnzz.com
 127.0.0.1 eiv.baidu.com
-127.0.0.1 emdcadvertise.eastmoney.com
-127.0.0.1 emdcadvise.eastmoney.com
 127.0.0.1 emoticon.sns.iqiyi.com
 127.0.0.1 ems.cp12.wasu.tv
 127.0.0.1 engine.lvehaisen.com
@@ -100792,6 +100791,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 pages-juxiao.mediav.com
 127.0.0.1 pages.juxiao.mediav.com
 127.0.0.1 panda.adsame.com
+127.0.0.1 pangolin.snssdk.com
 127.0.0.1 paopao-monitor.iqiyi.com
 127.0.0.1 paopao.iqiyi.com
 127.0.0.1 paopao0.qiyipic.com
@@ -100838,7 +100838,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 pub.funshion.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 public.gdtimg.com
-127.0.0.1 puds.ucweb.com
 127.0.0.1 puma-api.iqiyi.com
 127.0.0.1 puma.api.iqiyi.com
 127.0.0.1 push.pgl.qq.com
