@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>See your Paste!</title>
+    <meta name="viewport" content="width=device-width">
+  </head>
+  <body align="center">
+    <textarea id="text" rows="12" cols="40"></textarea>
+    <br><br>
+    <button onclick="copy()">Copy to Clipboard!</button>
+    <br><br>
+    <div id="log">fetching paste ...</div>
+    <script>
+      const text = document.getElementById('text');
+      const logger = document.getElementById('log');
+      fetch('/getPaste')
+        .then(res => res.text())
+        .then(paste => {
+          text.value = paste;
+          logger.innerText = 'Paste Successfully Crawled !';
+        })
+        .catch(e => {
+          logger.innerText = `${e.name}: ${e.message}`;
+        });
+      function copy() {
+        navigator.clipboard.writeText(text.value);
+      }
+    </script>
+  </body>
+</html>
