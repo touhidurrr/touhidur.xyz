@@ -3,6 +3,7 @@ from functools import cmp_to_key as toKey
 
 fileList = glob('**/*.*', recursive=True)
 fileList.remove('paste.html')
+fileList.remove('text.html')
 
 html = open('sitemap.html', mode = 'w', encoding = 'utf-8')
 txt = open('sitemap.txt', mode = 'w', encoding = 'utf-8')
