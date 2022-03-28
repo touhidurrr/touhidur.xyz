@@ -2,6 +2,7 @@ from glob import glob
 from functools import cmp_to_key as toKey
 
 fileList = glob('**/*.*', recursive=True)
+fileList.remove('paste.html')
 
 html = open('sitemap.html', mode = 'w', encoding = 'utf-8')
 txt = open('sitemap.txt', mode = 'w', encoding = 'utf-8')
@@ -23,8 +24,9 @@ linkList = []
 for file in fileList:
 
   link = site
-  
+
   if file.startswith('build/'): continue
+  if file.startswith('functions/'): continue
 
   if file.endswith('index.html'): link += file[:-10]
   elif file.endswith('.html'): link += file[:-5]
