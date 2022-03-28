@@ -1,4 +1,4 @@
-export async function onRequestPost(context) {
-  await variables.put('paste', await context.request.text());
+export async function onRequestPost({ env, request }) {
+  await env.variables.put('paste', await request.text());
   return new Response('OK');
 }
