@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20220331
-# Entries: 109,241
-# Updated: Thu, 31 Mar 22 19:04:23
+# Version: 20220401
+# Entries: 109,250
+# Updated: Fri, 01 Apr 22 19:03:24
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-bitbucket.net.zooplus.de
@@ -83,6 +83,7 @@
 02sms.in
 02sms.xyz
 03.2021twojrok.live
+03.lzzncm.com
 03.mediaboard-03.cyou
 030y1-uqps.com
 037info-accept.net.daraz.com
@@ -101,6 +102,7 @@
 03p.info
 03sms.in
 03sms.xyz
+04.lzzncm.com
 0427d7.se
 050003.voodoo.com
 050005.voodoo.com
@@ -7197,6 +7199,7 @@ ads.ole.com
 ads.olx.com
 ads.omaha.com
 ads.oneplace.com
+ads.oneway.mobi
 ads.online.ie
 ads.onvertise.com
 ads.open.pl
@@ -7205,6 +7208,7 @@ ads.optusnet.com.au
 ads.oregonlive.com
 ads.osdn.com
 ads.outpersonals.com
+ads.oway.mobi
 ads.oxymoronent.com
 ads.oxyshop.cz
 ads.p.veruta.com
@@ -8793,6 +8797,7 @@ ae6-iad6-bb02.net.zooplus.de
 aeasy.info
 aebvay.mesinspirationsculinaires.com
 aederem.site
+aegis.qq.com
 aehistory.112.2o7.net
 aem.hb.omtrdc.net
 aemnsa.000webhostapp.com
@@ -11773,6 +11778,7 @@ api.omarketer.viettelpost.vn
 api.omnilocal.ai
 api.omniture.com
 api.oneaudience.com
+api.openinstall.io
 api.optimizely.com
 api.optinmonster.com
 api.optmnstr.com
@@ -12012,6 +12018,7 @@ apiconfig.adwo.com
 apicosdk.onemt.co
 apicsr12.net.daraz.com
 apicssdk.onemt.co
+apid.feikaiwadingguan.com
 apidcloud-interaction.net.daraz.com
 apidcloudmarketing.net.daraz.com
 apidocs-activemarketing.net.zooplus.it
@@ -17949,6 +17956,7 @@ cc.hb.omtrdc.net
 cc.histoires-de-sexe-gratuites.com
 cc.i2i.jp
 cc.lbesec.com
+cc.map.qq.com
 cc.opowiadaniaerotyczne-darmowo.com
 cc.pennstatehealth.org
 cc.pornorasskazy-intim.com
@@ -24957,6 +24965,7 @@ ddncow.impo.com
 ddot-studio.com
 ddquzhvpceily.cloudfront.net
 dds23.pl
+ddt02.shenghao88.top
 ddu8c170cx6y9.cloudfront.net
 ddufho0zojhbs.cloudfront.net
 ddv70uscmqbcy.cloudfront.net
@@ -30891,7 +30900,6 @@ fedsched.actonservice.com
 fedup.tv
 fee-hydrocodone.bebto.com
 feebleshock.com
-feed-image.baidu.com
 feed.4wnet.com
 feed.mikle.com
 feed.minpos.com
@@ -38110,7 +38118,6 @@ images.kika.de
 images.kolmic.com
 images.linkwithin.com
 images.mbuyu.nl
-images.mpression.net
 images.mxpnl.com
 images.netcomvad.com
 images.outbrain.com
@@ -44971,7 +44978,6 @@ luna.r.lafamo.com
 lunaescobar.com
 lungfish.datadividendproject.com
 lunzo.pl
-lupic.cdn.bcebos.com
 luptbq.lampsplus.com
 lupusmarketing.com
 lustra.sportbetsignupcode.com
@@ -51556,6 +51562,7 @@ nmmississauga.112.2o7.net
 nmmodesto.112.2o7.net
 nmnandomedia.112.2o7.net
 nmo1.orpi.com
+nmobi.kuwo.cn
 nmraleigh.112.2o7.net
 nmrockhill.112.2o7.net
 nms01.net.daraz.com
@@ -54858,6 +54865,7 @@ owacvs.net.zooplus.fr
 owadata.manage.net.zooplus.fr
 owade-muc-sbs2.net.zooplus.fr
 owadocker.net.zooplus.fr
+owads.audioadx.com
 owaeagd.net.zooplus.fr
 owaelastic.net.zooplus.nl
 owaengine.net.zooplus.nl
@@ -55069,6 +55077,7 @@ p287.atemda.com
 p2r14.com
 p2sdmkj6t.bkt.clouddn.com
 p3.adhitzads.com
+p3.adkwai.com
 p3.l.qq.com
 p3.zbjimg.com
 p30839.clksite.com
@@ -60112,6 +60121,7 @@ qkitfp.voyage-prive.es
 qksbin.nocturne.com.tr
 qksrv.com
 ql.tc
+qlaops3.jndxwl.com
 qlcollections.com
 qlink-ico.com
 qlipsodigital.checkm8.com
@@ -65845,7 +65855,6 @@ smallblank.com
 smallshop.pl
 smaltspc.ru
 smarine.mu
-smart-789.image.mucang.cn
 smart-789.kakamobi.cn
 smart-ad.sakura.ne.jp
 smart-ask.space

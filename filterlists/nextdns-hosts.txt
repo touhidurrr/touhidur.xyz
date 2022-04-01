@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: hosts
-# Version: 20220331
-# Entries: 109,241
-# Updated: Thu, 31 Mar 22 19:04:23
+# Version: 20220401
+# Entries: 109,250
+# Updated: Fri, 01 Apr 22 19:03:24
 # RAW: https://touhidur.xyz/filterlists/nextdns-hosts.txt
 # --------------------------------------------------------------------------------------------------------
 
@@ -108040,6 +108040,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 zzz.onion.pet
 0.0.0.0 zzz.pissrip.net
 0.0.0.0 zzzyyzzzyyyzyyzyyyzzyyzyzzzzzzzzyyzzyyyyyzyzyyzzyzpol7196.cmkaarten.nl
+127.0.0.1 03.lzzncm.com
+127.0.0.1 04.lzzncm.com
 127.0.0.1 3.iscrv.com
 127.0.0.1 397c0.admaster.com.cn
 127.0.0.1 3m.mediav.com
@@ -108259,6 +108261,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads.msn.com
 127.0.0.1 ads.ninemsn.com.au
+127.0.0.1 ads.oneway.mobi
+127.0.0.1 ads.oway.mobi
 127.0.0.1 ads.privacy.qq.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.reader.yueyouxs.com
@@ -108375,6 +108379,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 adx.xiaodutv.com
 127.0.0.1 adxlog.vivo.com.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
+127.0.0.1 aegis.qq.com
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 afd.baidu.com
 127.0.0.1 afs.googlesyndication.com
@@ -108437,6 +108442,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 api.fd.mob.com
 127.0.0.1 api.mobgi.com
 127.0.0.1 api.newad.ifeng.com
+127.0.0.1 api.openinstall.io
 127.0.0.1 api.poll.aiseet.atianqi.com
 127.0.0.1 api.share.mob.com
 127.0.0.1 api.snmi.cn
@@ -108457,6 +108463,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 api3.tuisong.baidu.com
 127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 apiconfig.adwo.com
+127.0.0.1 apid.feikaiwadingguan.com
 127.0.0.1 apistat.adbana.com
 127.0.0.1 app-tj.adinall.com
 127.0.0.1 app.aplus.pptv.com
@@ -108570,6 +108577,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 cb.baidu.com
 127.0.0.1 cb.l.qq.com
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cc.map.qq.com
 127.0.0.1 cca.mob.com
 127.0.0.1 ccdace.hupu.com
 127.0.0.1 cctv.adsunion.com
@@ -108669,6 +108677,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 dcads.sina.com.cn
 127.0.0.1 dcci.adsame.com
 127.0.0.1 ddd.1sapp.com
+127.0.0.1 ddt02.shenghao88.top
 127.0.0.1 de.as.cp61.ott.cibntv.net
 127.0.0.1 de.as.pptv.com
 127.0.0.1 demo.adsame.com
@@ -108750,7 +108759,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 f.gm.mob.com
 127.0.0.1 fbapi.guguread.com
 127.0.0.1 fclog.baidu.com
-127.0.0.1 feed-image.baidu.com
 127.0.0.1 fmg.aty.sohu.com
 127.0.0.1 fms.ipinyou.com
 127.0.0.1 ftpcontent.worldnow.com
@@ -108859,7 +108867,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 ii.gdt.qq.com
 127.0.0.1 ilce.alicdn.com
 127.0.0.1 im2.smartadserver.com
-127.0.0.1 images.mpression.net
 127.0.0.1 img-cdn-spot.ymcdn.cn
 127.0.0.1 img.ads.huntmad.com
 127.0.0.1 img.ads.mobilefuse.net
@@ -108938,7 +108945,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 lp.mydas.mobi
 127.0.0.1 ls.l.qq.com
-127.0.0.1 lupic.cdn.bcebos.com
 127.0.0.1 m-adash.m.taobao.com
 127.0.0.1 m.89kvh.cn
 127.0.0.1 m.admedia.com
@@ -109052,6 +109058,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 nl.rcd.iqiyi.com
 127.0.0.1 nlog.baidu.com
+127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 norma-external-collect.meizu.com
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 notifiter.youmi.net
@@ -109089,6 +109096,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 ott.v1.data.mgtv.com
 127.0.0.1 ott2.da.mgtv.com
 127.0.0.1 ott3.da.mgtv.com
+127.0.0.1 owads.audioadx.com
 127.0.0.1 p-l.play.aiseet.atianqi.com
 127.0.0.1 p.appjiagu.com
 127.0.0.1 p.aty.sohu.com
@@ -109099,6 +109107,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 p.tencentmind.com
 127.0.0.1 p2.l.qq.com
 127.0.0.1 p2sdmkj6t.bkt.clouddn.com
+127.0.0.1 p3.adkwai.com
 127.0.0.1 p3.l.qq.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead46.l.doubleclick.net
@@ -109170,6 +109179,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 qapm.baidu.com
 127.0.0.1 qappcenterv6.3g.qq.com
 127.0.0.1 qianlong.adsame.com
+127.0.0.1 qlaops3.jndxwl.com
 127.0.0.1 qosp.msg.71.am
 127.0.0.1 qqwx.zhangguangzong.com
 127.0.0.1 qzs.gdtimg.com
@@ -109212,6 +109222,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 s.domob.cn
 127.0.0.1 s.irs03.com
+127.0.0.1 s.jpush.cn
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 s.snmi.cn
 127.0.0.1 s.trafficjam.cn
@@ -109305,7 +109316,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 sjarvis.taobao.com
 127.0.0.1 sltint.adv.ott.cibntv.net
 127.0.0.1 sm.domob.cn
-127.0.0.1 smart-789.image.mucang.cn
 127.0.0.1 smart-789.kakamobi.cn
 127.0.0.1 sms.ads.oppomobile.com
 127.0.0.1 smt.admaster.com.cn
@@ -109455,7 +109465,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 user.ad-locus.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 uusee.adsame.com
-127.0.0.1 uvimage.56.com
 127.0.0.1 uvu.nojmlxq.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 v.aty.sohu.com
