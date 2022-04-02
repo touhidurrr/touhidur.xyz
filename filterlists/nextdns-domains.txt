@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20220401
+# Version: 20220402
 # Entries: 109,250
-# Updated: Fri, 01 Apr 22 19:03:24
+# Updated: Sat, 02 Apr 22 19:03:53
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-bitbucket.net.zooplus.de
