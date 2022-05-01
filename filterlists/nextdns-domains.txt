@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20220430
-# Entries: 100,817
-# Updated: Sat, 30 Apr 22 19:04:22
+# Version: 20220501
+# Entries: 100,807
+# Updated: Sun, 01 May 22 19:04:27
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-158.net.daraz.com
@@ -11602,7 +11602,6 @@ apicit.net
 apiconfig.adwo.com
 apicosdk.onemt.co
 apicssdk.onemt.co
-apid.feikaiwadingguan.com
 apidcloud-interaction.net.daraz.com
 apidcloud-marketing.net.daraz.com
 apidclouding.net.daraz.com
@@ -12768,9 +12767,6 @@ async-px.dynamicyield.com
 async01.admantx.com
 at-adserver.alltop.com
 at-cddc.actu-juridique.fr
-at-img1.tdimg.com
-at-img2.tdimg.com
-at-img3.tdimg.com
 at-o.net
 at.amgdgt.com
 at.atwola.com
@@ -22323,7 +22319,6 @@ ddmix.api-docs.net.daraz.com
 ddns.net.zooplus.nl
 ddot-studio.com
 dds23.pl
-ddt02.shenghao88.top
 de-config.sensic.net
 de-gmtdmp.mookie1.com
 de-muc-sbs-mail-preview.net.zooplus.nl
@@ -28660,8 +28655,6 @@ gannettbroadcast.us.intellitxt.com
 gannettwisconsin.us.intellitxt.com
 ganon.yahoo.com
 ganter-com.preview-domain.com
-gaode-acs.m.taobao.com
-gaode-jmacs.m.taobao.com
 gap.112.2o7.net
 gapl.hit.gemius.pl
 gar-tech.com
@@ -33803,14 +33796,12 @@ img.ruclicks.com
 img.sedoparking.com
 img.simply.bwin.com
 img.sn00.net
-img.srxjz.cn
 img.ssl.msdk.qq.com
 img.sunmediaads.com
 img.tradedoubler.com
 img.turn.com
 img.vietnamnetad.vn
 img.xnxx.com
-img.xuwnz.cn
 img.yomereba.com
 img001.com
 img1.ijinshan.com
@@ -55731,7 +55722,6 @@ qjh43q.webwave.dev
 qjxiyt.respect-shoes.ru
 qksrv.com
 ql.tc
-qlaops3.jndxwl.com
 qlink-ico.com
 qlipsodigital.checkm8.com
 qljiop.allabout.co.jp
