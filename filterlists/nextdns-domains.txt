@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20220507
+# Version: 20220508
 # Entries: 114,366
-# Updated: Sat, 07 May 22 19:05:53
+# Updated: Sun, 08 May 22 19:04:41
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-132.net.daraz.com
