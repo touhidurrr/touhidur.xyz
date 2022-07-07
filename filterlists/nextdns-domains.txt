@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20220706
+# Version: 20220707
 # Entries: 110,960
-# Updated: Wed, 06 Jul 22 19:04:58
+# Updated: Thu, 07 Jul 22 19:13:21
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-gkm-portal.net.daraz.com
