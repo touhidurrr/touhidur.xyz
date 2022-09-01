@@ -1,5 +1,5 @@
 export async function onRequestPost({ env, request }) {
-  const body = await request.text();
+  let body = await request.text();
   if (body.startsWith('{')) {
     body = JSON.stringify(JSON.parse(body), null, 2);
   }
