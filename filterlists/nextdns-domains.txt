@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20221004
+# Version: 20221005
 # Entries: 151,954
-# Updated: Tue, 04 Oct 22 19:14:07
+# Updated: Wed, 05 Oct 22 19:18:27
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-01x-merchandise.554217.xyz
