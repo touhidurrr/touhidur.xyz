@@ -12,7 +12,7 @@ const getHTML = (paste) => `<!DOCTYPE html>
   <body align="center">
     <textarea id="text"
       rows="${Math.max(minHeight, Math.min(maxHeight, paste.split('\n').length))}"
-      cols="${Math.max(maxWidth, Math.min(minWidth, Math.max(...paste.split('\n').map(l => l.length))))}"
+      cols="${Math.max(minWidth, Math.min(maxHeight, Math.max(...paste.split('\n').map(l => l.length))))}"
     >${paste}</textarea>
     <br><br>
     <button onclick="copy()">Copy to Clipboard!</button>
@@ -25,7 +25,7 @@ const getHTML = (paste) => `<!DOCTYPE html>
         const lines = text.value.split('\\n');
         const lineLength = Math.max(...lines.map(line => line.length));
         text.rows = Math.max(${minHeight}, Math.min(${maxHeight}, lines.length));
-        text.cols = Math.max(${maxWidth}, Math.min(${minWidth}, lineLength));
+        text.cols = Math.max(${minWidth}, Math.min(${maxHeight}, lineLength));
       }
       text.onchange = setTextAreaSize;
     </script>
