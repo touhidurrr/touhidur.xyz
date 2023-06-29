@@ -27,7 +27,7 @@ const getHTML = (paste) => `<!DOCTYPE html>
         text.rows = Math.max(${minHeight}, Math.min(${maxHeight}, lines.length));
         text.cols = Math.max(${maxWidth}, Math.min(${minWidth}, lineLength));
       }
-      text.onchange = setTextAreaWidth;
+      text.onchange = setTextAreaSize;
     </script>
   </body>
 </html>`;
