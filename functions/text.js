@@ -1,5 +1,6 @@
 const maxWidth = 100;
 const minWidth = 40;
+const minHeight = 12;
 const maxHeight = 30;
 
 const getHTML = (paste) => `<!DOCTYPE html>
@@ -10,8 +11,8 @@ const getHTML = (paste) => `<!DOCTYPE html>
   </head>
   <body align="center">
     <textarea id="text"
-      rows="${Math.max(maxHeight, paste.split('\n').length)}"
-      cols="${Math.min(maxWidth, Math.max(minWidth, Math.max(...paste.split('\n').map(l => l.length))))}"
+      rows="${Math.max(minHeight, Math.min(maxHeight, paste.split('\n').length))}"
+      cols="${Math.max(maxWidth, Math.min(minWidth, Math.max(...paste.split('\n').map(l => l.length))))}"
     >${paste}</textarea>
     <br><br>
     <button onclick="copy()">Copy to Clipboard!</button>
@@ -23,8 +24,8 @@ const getHTML = (paste) => `<!DOCTYPE html>
       function setTextAreaSize() {
         const lines = text.value.split('\n');
         const lineLength = Math.max(...lines.map(line => line.length));
-        text.rows = Math.max(maxHeight, lines.length);
-        text.cols = Math.min(${maxWidth}, Math.max(${minWidth}, lineLength));
+        text.rows = Math.max(${minHeight}, Math.min(${maxHeight}, lines.length));
+        text.cols = Math.max(${maxWidth}, Math.min(${minWidth}, lineLength));
       }
       text.onchange = setTextAreaWidth;
     </script>
