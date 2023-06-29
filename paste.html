@@ -3,6 +3,13 @@
   <head>
     <title>Paste your Text!</title>
     <meta name="viewport" content="width=device-width">
+  </head>
+  <body align="center">
+    <textarea id="text" rows="12" cols="40"></textarea>
+    <br><br>
+    <button onclick="sendText()">Send!</button>
+    <br><br>
+    <div id="log"></div>
     <script>
       const text = document.getElementById('text');
       const logger = document.getElementById('log');
@@ -40,12 +47,5 @@
       }
       text.onchange = setTextAreaSize;
     </script>
-  </head>
-  <body align="center">
-    <textarea id="text" rows="12" cols="40"></textarea>
-    <br><br>
-    <button onclick="sendText()">Send!</button>
-    <br><br>
-    <div id="log"></div>
   </body>
 </html>
