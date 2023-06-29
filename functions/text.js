@@ -22,7 +22,7 @@ const getHTML = (paste) => `<!DOCTYPE html>
         navigator.clipboard.writeText(text.value);
       }
       function setTextAreaSize() {
-        const lines = text.value.split('\n');
+        const lines = text.value.split('\\n');
         const lineLength = Math.max(...lines.map(line => line.length));
         text.rows = Math.max(${minHeight}, Math.min(${maxHeight}, lines.length));
         text.cols = Math.max(${maxWidth}, Math.min(${minWidth}, lineLength));
