@@ -4,11 +4,12 @@
     <title>Paste your Text!</title>
     <meta name="viewport" content="width=device-width">
     <script>
-      var fetching = false;
+      const text = document.getElementById('text').value;
+      const logger = document.getElementById('log');
+      
+      let fetching = false;
       async function sendText() {
         if (fetching) return;
-        const text = document.getElementById('text').value;
-        const logger = document.getElementById('log');
         logger.innerText = 'pasting document ...';
         fetching = true;
         await fetch('/paste', {
@@ -26,6 +27,18 @@
           });
         fetching = false;
       }
+
+      const maxWidth = 100;
+      const minWidth = 40;
+      const minHeight = 12;
+      const maxHeight = 30;
+      function setTextAreaSize() {
+        const lines = text.value.split('\n');
+        const lineLength = Math.max(...lines.map(line => line.length));
+        text.rows = Math.max(minHeight, Math.min(maxHeight, lines.length));
+        text.cols = Math.max(maxWidth, Math.min(minWidth, lineLength));
+      }
+      text.onchange = setTextAreaWidth;
     </script>
   </head>
   <body align="center">
