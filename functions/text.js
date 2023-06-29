@@ -1,3 +1,7 @@
+const maxWidth = 100;
+const minWidth = 40;
+const maxHeight = 30;
+
 const getHTML = (paste) => `<!DOCTYPE html>
 <html>
   <head>
@@ -5,7 +9,10 @@ const getHTML = (paste) => `<!DOCTYPE html>
     <meta name="viewport" content="width=device-width">
   </head>
   <body align="center">
-    <textarea id="text" rows="12" cols="40">${paste}</textarea>
+    <textarea id="text"
+      rows="${Math.max(maxHeight, paste.split('\n').length)}"
+      cols="${Math.min(maxWidth, Math.max(minWidth, Math.max(...paste.split('\n').map(l => l.length))))}"
+    >${paste}</textarea>
     <br><br>
     <button onclick="copy()">Copy to Clipboard!</button>
     <script>
@@ -13,6 +20,12 @@ const getHTML = (paste) => `<!DOCTYPE html>
       function copy() {
         navigator.clipboard.writeText(text.value);
       }
+      function setTextAreaSize() {
+        const lines = text.value.split('\n');
+        const lineLength = Math.max(...lines.map(line => line.length));
+        text.cols = Math.min(${maxWidth}, Math.max(${minWidth}, lineLength));
+      }
+      text.onchange = setTextAreaWidth;
     </script>
   </body>
 </html>`;
