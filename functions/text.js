@@ -23,6 +23,7 @@ const getHTML = (paste) => `<!DOCTYPE html>
       function setTextAreaSize() {
         const lines = text.value.split('\n');
         const lineLength = Math.max(...lines.map(line => line.length));
+        text.rows = Math.max(maxHeight, lines.length);
         text.cols = Math.min(${maxWidth}, Math.max(${minWidth}, lineLength));
       }
       text.onchange = setTextAreaWidth;
