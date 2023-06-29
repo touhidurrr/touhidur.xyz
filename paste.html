@@ -4,7 +4,7 @@
     <title>Paste your Text!</title>
     <meta name="viewport" content="width=device-width">
     <script>
-      const text = document.getElementById('text').value;
+      const text = document.getElementById('text');
       const logger = document.getElementById('log');
       
       let fetching = false;
@@ -17,7 +17,7 @@
           headers: {
             'Content-Type': 'text/plain',
           },
-          body: text,
+          body: text.value,
         })
           .then(() => {
             logger.innerText = 'done !';
