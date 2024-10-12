@@ -4,7 +4,8 @@ from datetime import datetime, timezone
 from urllib.request import urlretrieve as download
 
 # download the list
-download('https://raw.githubusercontent.com/nextdns/blocklists/refs/heads/main/blocklists/nextdns-recommended.json', '.temp')
+nextdnsRecommendedURL = 'https://raw.githubusercontent.com/nextdns/blocklists/refs/heads/main/blocklists/nextdns-recommended.json'
+download(nextdnsRecommendedURL, '.temp')
 
 # open and parse list
 json = parse(open('.temp', mode = 'r'))
@@ -67,14 +68,14 @@ info = '''\
 # --------------------------------------------------------------------------------------------------------
 # Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
 # Description: Parsed Mirror for
-#              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
+#              %s
 # Format: {}
 # Version: %s
 # Entries: {:,}
 # Updated: %s
 # RAW: https://touhidur.xyz/filterlists/nextdns-{}.txt
 # --------------------------------------------------------------------------------------------------------
-''' % ( now.strftime('%Y%m%d'), now.strftime('%a, %d %b %y %H:%M:%S') )
+''' % ( nextdnsRecommendedURL, now.strftime('%Y%m%d'), now.strftime('%a, %d %b %y %H:%M:%S') )
 
 localhostSkips = '''
 # ------ skip localhosts ------
