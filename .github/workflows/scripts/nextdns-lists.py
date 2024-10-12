@@ -62,7 +62,7 @@ hostsList.sort()
 domainsList.sort()
 
 # Starting lines to specify various information about Blocklist
-now = datetime.utcnow()
+now = datetime.datetime.now(datetime.UTC)
 info = '''\
 # --------------------------------------------------------------------------------------------------------
 # Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
