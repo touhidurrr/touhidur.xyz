@@ -20,7 +20,7 @@ jobs:
   start:
     runs-on: ubuntu-latest
     env:
-      python: '3.x'
+      python: '3.13'
 
     steps:
       - uses: actions/checkout@v4
