@@ -1,6 +1,6 @@
 from os import remove
-from datetime import datetime
 from json import load as parse
+from datetime import datetime, timezone
 from urllib.request import urlretrieve as download
 
 # download the list
@@ -62,7 +62,7 @@ hostsList.sort()
 domainsList.sort()
 
 # Starting lines to specify various information about Blocklist
-now = datetime.now(datetime.UTC)
+now = datetime.now(timezone.utc)
 info = '''\
 # --------------------------------------------------------------------------------------------------------
 # Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
