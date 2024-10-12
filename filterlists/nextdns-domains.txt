@@ -1,11 +1,11 @@
 # --------------------------------------------------------------------------------------------------------
 # Title: NextDNS Ads & Trackers Blocklist Mirror by touhidurrr
 # Description: Parsed Mirror for
-#              https://github.com/nextdns/metadata/blob/master/privacy/blocklists/nextdns-recommended.json
+#              https://raw.githubusercontent.com/nextdns/blocklists/refs/heads/main/blocklists/nextdns-recommended.json
 # Format: domain list
 # Version: 20241012
 # Entries: 118,207
-# Updated: Sat, 12 Oct 24 17:48:26
+# Updated: Sat, 12 Oct 24 17:51:04
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-1x.8632152.xyz
