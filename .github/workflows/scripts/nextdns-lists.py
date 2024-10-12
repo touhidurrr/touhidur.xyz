@@ -4,7 +4,7 @@ from json import load as parse
 from urllib.request import urlretrieve as download
 
 # download the list
-download('https://github.com/nextdns/metadata/raw/master/privacy/blocklists/nextdns-recommended.json', '.temp')
+download('https://raw.githubusercontent.com/nextdns/blocklists/refs/heads/main/blocklists/nextdns-recommended.json', '.temp')
 
 # open and parse list
 json = parse(open('.temp', mode = 'r'))
