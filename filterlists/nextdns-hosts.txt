@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://raw.githubusercontent.com/nextdns/blocklists/refs/heads/main/blocklists/nextdns-recommended.json
 # Format: hosts
-# Version: 20241213
+# Version: 20241214
 # Entries: 122,337
-# Updated: Fri, 13 Dec 24 19:18:42
+# Updated: Sat, 14 Dec 24 19:17:23
 # RAW: https://touhidur.xyz/filterlists/nextdns-hosts.txt
 # --------------------------------------------------------------------------------------------------------
 
