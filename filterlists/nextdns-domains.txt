@@ -3,9 +3,9 @@
 # Description: Parsed Mirror for
 #              https://raw.githubusercontent.com/nextdns/blocklists/refs/heads/main/blocklists/nextdns-recommended.json
 # Format: domain list
-# Version: 20250509
+# Version: 20250510
 # Entries: 166,756
-# Updated: Fri, 09 May 25 19:19:35
+# Updated: Sat, 10 May 25 19:17:52
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0-1-x.009418154.xyz
