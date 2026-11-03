@@ -5,7 +5,7 @@
 # Format: domain list
 # Version: 20261103
 # Entries: 78,641
-# Updated: Tue, 03 Nov 26 01:29:28
+# Updated: Tue, 03 Nov 26 23:55:35
 # RAW: https://touhidur.xyz/filterlists/nextdns-domains.txt
 # --------------------------------------------------------------------------------------------------------
 0.0.0.0.creative.hpyrdr.com
